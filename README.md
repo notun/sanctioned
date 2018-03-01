@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# What is ths?
 
-You can use the [editor on GitHub](https://github.com/notun/sanctioned/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurrencies. It will first take form as a Telegram bot (possibly riot/status as well), which logs evidence of fraud and abuse, and then automatically collects, structures and efficiently assembles information in a format needed for the filing and management of a class action suit against a fraudulent ICO or Cryptocurrency
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# SEC Cases
 
-### Markdown
+### Bitconnect
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Monkey Capital
 
-```markdown
-Syntax highlighted code block
+### Kraken
 
-# Header 1
-## Header 2
-### Header 3
+### DAO
 
-- Bulleted
-- List
+### Tezos
 
-1. Numbered
-2. List
+### Cryptsy
 
-**Bold** and _Italic_ and `Code` text
+### Coinbase
 
-[Link](url) and ![Image](src)
-```
+### Munchee
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/notun/sanctioned/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### GigaWatt
