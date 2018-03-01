@@ -11,35 +11,47 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### Monkey Capital SM
 
-[https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/]
+[https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/] (https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/)
 
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-19-DE-1-CLASS-ACTION-COMPLAINT.pdf]
+
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-19-DE-1-CLASS-ACTION-COMPLAINT.pdf] (https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-19-DE-1-CLASS-ACTION-COMPLAINT.pdf)
+
 
 
 ### Kraken
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf]
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf] (https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf)
+
 
 ### PlexCoin
-[https://corpgov.law.harvard.edu/2017/12/26/sec-cyber-unit-and-allegedly-fraudulent-ico/]
-[https://www.sec.gov/news/press-release/2017-219]
-[https://www.sec.gov/litigation/complaints/2017/comp-pr2017-219.pdf]
+[https://corpgov.law.harvard.edu/2017/12/26/sec-cyber-unit-and-allegedly-fraudulent-ico/] (https://corpgov.law.harvard.edu/2017/12/26/sec-cyber-unit-and-allegedly-fraudulent-ico/)
+
+[https://www.sec.gov/news/press-release/2017-219] (https://www.sec.gov/news/press-release/2017-219)
+
+[https://www.sec.gov/litigation/complaints/2017/comp-pr2017-219.pdf] (https://www.sec.gov/litigation/complaints/2017/comp-pr2017-219.pdf)
+
 
 ### DAO
-[https://www.sec.gov/litigation/investreport/34-81207.pdf]
+[https://www.sec.gov/litigation/investreport/34-81207.pdf] (https://www.sec.gov/litigation/investreport/34-81207.pdf)
+
 
 ### Tezos
-[https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al]
+[https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al]  (https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al)
+
 
 ### REcoin & Diamond Reserve Club
-[https://www.sec.gov/news/press-release/2017-185-0]
-[www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf]
+[https://www.sec.gov/news/press-release/2017-185-0](https://www.sec.gov/news/press-release/2017-185-0)
+
+[www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf] (www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf)
+
 
 ### Cryptsy
-[https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/]
-[https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/]
+[https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/] (https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/)
+
+[https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/] (https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/)
 
 ### Coinbase
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf]
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf] (https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
+
 
 ### Munchee SEC
 
