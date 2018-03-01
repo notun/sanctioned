@@ -6,7 +6,8 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### Bitconnect
 
-[https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312]
+[https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312](https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312)
+
 
 ### Monkey Capital SM
 
