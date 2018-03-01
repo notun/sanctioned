@@ -10,7 +10,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### Monkey Capital SM
 
-https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/
+[https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/](https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/)
 
 https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-19-DE-1-CLASS-ACTION-COMPLAINT.pdf
 
