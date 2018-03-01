@@ -65,13 +65,11 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 ### GigaWatt
 [https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
 
-[https://www.leagle.com/decision/infdco20180122a95]
-(https://www.leagle.com/decision/infdco20180122a95) *Dismissed without certification!*
+[https://www.leagle.com/decision/infdco20180122a95](https://www.leagle.com/decision/infdco20180122a95) *Dismissed without certification!*
 
 # General ICO Regulatory Scuttlebutt
 
-[https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission]
-(https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission)
+[https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission](https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission)
 [https://www.sec.gov/news/press-release/2017-176](https://www.sec.gov/news/press-release/2017-176)
 
 [https://www.sec.gov/oiea/investor-alerts-and-bulletins/ia_icorelatedclaims](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ia_icorelatedclaims)
