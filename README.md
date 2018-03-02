@@ -5,6 +5,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 # Class Action Requirements & Processes 
 
 [Federal Practice Manual, Chapter 7: Class Actions](http://federalpracticemanual.org/chapter7)
+
 [Federal Practice Manual, Chapter 7.2: Rule 23 Class Certification Requirements](http://federalpracticemanual.org/chapter7/section2)
 
 # Cases
@@ -89,6 +90,9 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 # Related GitHub Repos
 [Statistical Model for Prediction of Class Action Lawsuits, R](https://github.com/xinlutu2/Class-Action-Lawsuits-Prediction-Model)
+
 [Classification of Securities Class Actions using Natural Language Toolkit, NLTK, Python](https://github.com/ccirelli2/SCA-Classification)
+
 [Class Action Against Google, HTML, Javascript](https://github.com/Classactionsagainstgoogle/classactionsagainstgoogle.github.io)
+
 [NYC Bike Lane Ticket Class Action Tool, Ruby](https://github.com/onyxrev/nycbikelaneticket) **42 commits**
