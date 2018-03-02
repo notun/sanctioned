@@ -2,11 +2,15 @@
 
 Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurrencies. It will first take form as a Telegram bot (possibly riot/status as well), which logs evidence of fraud and abuse, and then automatically collects, structures and efficiently assembles information in a format needed for the filing and management of a class action suit against a fraudulent ICO or Cryptocurrency
 
+---
+
 # Class Action Requirements & Processes 
 
 [Federal Practice Manual, Chapter 7: Class Actions](http://federalpracticemanual.org/chapter7)
 
 [Federal Practice Manual, Chapter 7.2: Rule 23 Class Certification Requirements](http://federalpracticemanual.org/chapter7/section2)
+
+---
 
 # Cases
 
@@ -71,6 +75,8 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 #### Secondary
 [https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
 
+---
+
 # General ICO Regulatory Scuttlebutt
 #### Primary
 [https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission](https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission)
@@ -88,6 +94,8 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 [http://www.klgates.com/cryptocurrency-2018-when-the-law-catches-up-with-game-changing-technology-01-30-2018/](http://www.klgates.com/cryptocurrency-2018-when-the-law-catches-up-with-game-changing-technology-01-30-2018/)
 
+---
+
 # Related GitHub Repos
 [Statistical Model for Prediction of Class Action Lawsuits, R](https://github.com/xinlutu2/Class-Action-Lawsuits-Prediction-Model)
 
@@ -95,4 +103,4 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 [Class Action Against Google, HTML, Javascript](https://github.com/Classactionsagainstgoogle/classactionsagainstgoogle.github.io)
 
-[NYC Bike Lane Ticket Class Action Tool, Ruby](https://github.com/onyxrev/nycbikelaneticket) **42 commits**
+[NYC Bike Lane Ticket Class Action Tool, Ruby](https://github.com/onyxrev/nycbikelaneticket) **42 commits!!!**
