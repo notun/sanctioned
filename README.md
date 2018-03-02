@@ -41,6 +41,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 ### Cryptsy
 #### Primary
 [https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf)
+
 [https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf ](https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf)
 #### Secondary
 [https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/](https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/)
@@ -67,6 +68,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 # General ICO Regulatory Scuttlebutt
 #### Primary
 [https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission](https://www.sec.gov/news/testimony/testimony-virtual-currencies-oversight-role-us-securities-and-exchange-commission)
+
 [https://www.sec.gov/news/press-release/2017-176](https://www.sec.gov/news/press-release/2017-176)
 
 [https://www.sec.gov/oiea/investor-alerts-and-bulletins/ia_icorelatedclaims](https://www.sec.gov/oiea/investor-alerts-and-bulletins/ia_icorelatedclaims)
