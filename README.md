@@ -42,7 +42,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 #### Primary
 [https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf)
 
-* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/cryptsy_2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf]
+* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/cryptsy_2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf](https://github.com/notun/sanctioned/blob/master/docs/cryptsy_2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf)
 
 [https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf ](https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf)
 
@@ -122,7 +122,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 #### Primary
 [https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
 
-* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/tezos_2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf] (https://github.com/notun/sanctioned/blob/master/docs/tezos_2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
+* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/tezos_2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://github.com/notun/sanctioned/blob/master/docs/tezos_2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
 
 [https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al](https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al)
 
