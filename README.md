@@ -17,9 +17,11 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 ### AriseBank
 #### Primary
 [https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf](https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf)
+
 Mirror: [https://github.com/notun/sanctioned/blob/master/docs/arisebank_comp-pr2018-8.pdf](https://github.com/notun/sanctioned/blob/master/docs/arisebank_comp-pr2018-8.pdf)
 
 [https://www.sec.gov/news/press-release/2018-8](https://www.sec.gov/news/press-release/2018-8)
+
 Mirror: [https://github.com/notun/sanctioned/blob/master/docs/arisebank_2018-8.html](https://github.com/notun/sanctioned/blob/master/docs/arisebank_2018-8.html)
 
 ### Bitconnect
