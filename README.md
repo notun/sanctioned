@@ -16,6 +16,8 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### Bitconnect
 #### Primary
+[https://www.silvermillerlaw.com/wp-content/uploads/2018/01/2018-1-24-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2018/01/2018-1-24-DE-1-CLASS-ACTION-COMPLAINT.pdf)
+
 [https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312](https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312)
 
 ### Monkey Capital
@@ -82,6 +84,10 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 [https://www.leagle.com/decision/infdco20180122a95](https://www.leagle.com/decision/infdco20180122a95) *Dismissed without certification!*
 #### Secondary
 [https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
+
+### AriseBank
+[https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf](https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf)
+[https://www.sec.gov/news/press-release/2018-8](https://www.sec.gov/news/press-release/2018-8)
 
 ---
 
