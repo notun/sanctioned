@@ -81,7 +81,7 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### GigaWatt
 #### Primary
-[https://www.leagle.com/decision/infdco20180122a95](https://www.leagle.com/decision/infdco20180122a95) *Dismissed without certification!*
+[https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf](https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf)
 #### Secondary
 [https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
 
