@@ -14,11 +14,43 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 # Cases
 
+### AriseBank
+[https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf](https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf)
+[https://www.sec.gov/news/press-release/2018-8](https://www.sec.gov/news/press-release/2018-8)
+
 ### Bitconnect
 #### Primary
 [https://www.silvermillerlaw.com/wp-content/uploads/2018/01/2018-1-24-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2018/01/2018-1-24-DE-1-CLASS-ACTION-COMPLAINT.pdf)
 
 [https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312](https://dockets.justia.com/docket/florida/flsdce/9:2018cv80086/520312)
+
+### Coinbase
+#### Primary
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
+
+### Cryptsy
+#### Primary
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf)
+
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf ](https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf)
+#### Secondary
+[https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/](https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/)
+
+[https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/](https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/)
+
+### The DAO
+#### Primary
+[https://www.sec.gov/litigation/investreport/34-81207.pdf](https://www.sec.gov/litigation/investreport/34-81207.pdf)
+
+### GigaWatt
+#### Primary
+[https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf](https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf)
+#### Secondary
+[https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
+
+### Kraken
+#### Primary
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf)
 
 ### Monkey Capital
 #### Primary
@@ -26,9 +58,12 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 #### Secondary
 [https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/](https://www.silvermillerlaw.com/david-silver/2017/12/20/silver-miller-files-class-action-lawsuit-monkey-capital-principal-daniel-harrison-fraudulently-promoted-aborted-initial-coin-offering/)
 
-### Kraken
+### Munchee
 #### Primary
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2017-12-11-AMENDED-STATEMENT-OF-CLAIM_Redacted-1.pdf)
+[https://www.sec.gov/litigation/admin/2017/33-10445.pdf](https://www.sec.gov/litigation/admin/2017/33-10445.pdf)
+[https://www.sec.gov/news/press-release/2017-227](https://www.sec.gov/news/press-release/2017-227)
+#### Secondary
+[https://www.coindesk.com/sec-halts-multimillion-dollar-munchee-ico-securities-violations/](https://www.coindesk.com/sec-halts-multimillion-dollar-munchee-ico-securities-violations/)
 
 ### PlexCoin
 #### Primary
@@ -37,9 +72,10 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 #### Secondary
 [https://corpgov.law.harvard.edu/2017/12/26/sec-cyber-unit-and-allegedly-fraudulent-ico/](https://corpgov.law.harvard.edu/2017/12/26/sec-cyber-unit-and-allegedly-fraudulent-ico/)
 
-### The DAO
+### REcoin & Diamond Reserve Club
 #### Primary
-[https://www.sec.gov/litigation/investreport/34-81207.pdf](https://www.sec.gov/litigation/investreport/34-81207.pdf)
+[https://www.sec.gov/news/press-release/2017-185-0](https://www.sec.gov/news/press-release/2017-185-0)
+[www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf](www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf)
 
 ### Tezos
 #### Primary
@@ -55,41 +91,8 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 [https://www.pacermonitor.com/public/case/23231429/MacDonald_v_Dynamic_Ledger_Solutions,_Inc_et_al](https://www.pacermonitor.com/public/case/23231429/MacDonald_v_Dynamic_Ledger_Solutions,_Inc_et_al)
 
-### REcoin & Diamond Reserve Club
-#### Primary
-[https://www.sec.gov/news/press-release/2017-185-0](https://www.sec.gov/news/press-release/2017-185-0)
-[www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf](www.sec.gov/litigation/complaints/2017/comp-pr2017-185.pdf)
 
-### Cryptsy
-#### Primary
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-1-9-DE-94-SECOND-AMENDED-CLASS-ACTION-COMPLAINT.pdf)
 
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf ](https://www.silvermillerlaw.com/wp-content/uploads/2017/10/2017-6-13-DE-118-FINAL-ORDER-APPROVING-SETTLEMENT-with-Nettles-and-Majmudar-etc..pdf)
-#### Secondary
-[https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/](https://www.silvermillerlaw.com/judgments-settlements/60-million-judgment-negotiated-resolution-corrupt-cryptocurrency-exchange-conspirators/)
-
-[https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/](https://www.silvermillerlaw.com/judgments-settlements/confidential-settlement-claim-florida-based-cryptocurrency-exchange-founderformer-chief-executive-officer/)
-
-### Coinbase
-#### Primary
-[https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf](https://www.silvermillerlaw.com/wp-content/uploads/2017/12/2016-12-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
-
-### Munchee
-#### Primary
-[https://www.sec.gov/litigation/admin/2017/33-10445.pdf](https://www.sec.gov/litigation/admin/2017/33-10445.pdf)
-[https://www.sec.gov/news/press-release/2017-227](https://www.sec.gov/news/press-release/2017-227)
-#### Secondary
-[https://www.coindesk.com/sec-halts-multimillion-dollar-munchee-ico-securities-violations/](https://www.coindesk.com/sec-halts-multimillion-dollar-munchee-ico-securities-violations/)
-
-### GigaWatt
-#### Primary
-[https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf](https://www.morrisoncohen.com/siteFiles/files/2017_12_28%20-%20Stormsmedia,%20LLC%20v_%20GigaWatt,%20Inc.pdf)
-#### Secondary
-[https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/](https://www.silvermillerlaw.com/media-coverage/giga-watt-lawsuit-demonstrates-rescission-power-initial-coin-offering-investors/)
-
-### AriseBank
-[https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf](https://www.sec.gov/litigation/complaints/2018/comp-pr2018-8.pdf)
-[https://www.sec.gov/news/press-release/2018-8](https://www.sec.gov/news/press-release/2018-8)
 
 ---
 
