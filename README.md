@@ -43,8 +43,12 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 ### Tezos
 #### Primary
+[https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf]
+(https://www.silvermillerlaw.com/wp-content/uploads/2017/11/2017-11-13-DE-1-CLASS-ACTION-COMPLAINT.pdf)
 [https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al](https://www.pacermonitor.com/public/case/22998010/Gaviria_v_Dynamic_Ledger_Solutions,_Inc_et_al)
 
+[https://s3.amazonaws.com/ppt-download/complainttezos-171201043254.pdf?response-content-disposition=attachment&Signature=lfyqQql7KwJEN%2FJUwT7onkdTjjo%3D&Expires=1520071143&AWSAccessKeyId=AKIAJ5J46ODGN4IB2ZXQ]
+(https://s3.amazonaws.com/ppt-download/complainttezos-171201043254.pdf?response-content-disposition=attachment&Signature=lfyqQql7KwJEN%2FJUwT7onkdTjjo%3D&Expires=1520071143&AWSAccessKeyId=AKIAJ5J46ODGN4IB2ZXQ)
 [https://www.pacermonitor.com/public/case/23084084/GGCC,_LLC_v_Dynamic_Ledger_Solutions,_Inc_et_al](https://www.pacermonitor.com/public/case/23084084/GGCC,_LLC_v_Dynamic_Ledger_Solutions,_Inc_et_al)
 
 [https://www.pacermonitor.com/public/case/23091707/Okusko_v_Dynamic_Ledger_Solutions,_Inc_et_al](https://www.pacermonitor.com/public/case/23091707/Okusko_v_Dynamic_Ledger_Solutions,_Inc_et_al)
