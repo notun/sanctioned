@@ -221,159 +221,189 @@ Defendants Fraudulently Attempt to Conceal Lacroix^s Involvement with PlexCoin
 
 91. In another exchange with his cohorts, Lacroix complained that a potential online payment system set up for PlexCoin was"not confidential enough and it's too easy to trace" and that the"[qjamfcould make a purchase with their card and they'll see their money go." Indeed, Lacroix explored various options to collect victim funds in ways that were not traceable.
 
-92. Paradis-Royer did her part to help Lacroix conceal his identity and both oftheir involvements with the fraudulent PlexCoin ICO. On August 2,2017, when Quebec authorities knocked on Lacroix and Paradis-Royer's residence to execute a search warrant,Paradis-Royer frantically texted Lacroix to inform him that the police were at the residence and that the"white
-22
+92. Paradis-Royer did her part to help Lacroix conceal his identity and both oftheir involvements with the fraudulent PlexCoin ICO. On August 2,2017, when Quebec authorities knocked on Lacroix and Paradis-Royer's residence to execute a search warrant,Paradis-Royer frantically texted Lacroix to inform him that the police were at the residence and that the"white paper is on the table"so she was"not answering." During that search, authorities found materials used to create the website www.plexcoin.com as well as a draft ofthe PlexCoin Whitepaper.
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 23 of 35 PageID #: 23
-paper is on the table"so she was"not answering." During that search,authorities found
-materials used to create the website www.plexcoin.com as well as a draft ofthe PlexCoin
-Whitepaper.
 Defendants Obtain and Misappropriate Investor Funds
-93. Investors,including investors in the United States, were permitted to invest in PlexCoin Tokens starting on August 7,2017,using a variety ofmethods,including by tendering cryptocurrency to Defendants' addresses on a blockchain, by providing credit card information through payment portals available on the PlexCoin Website,or by U.S.-based online payment processors such as PayPal,Square,Inc., or Stripe,Inc., and were permitted to tender,inter alia.
-USD to make their investments.
+
+93. Investors,including investors in the United States, were permitted to invest in PlexCoin Tokens starting on August 7,2017,using a variety ofmethods,including by tendering cryptocurrency to Defendants' addresses on a blockchain, by providing credit card information through payment portals available on the PlexCoin Website,or by U.S.-based online payment processors such as PayPal,Square,Inc., or Stripe,Inc., and were permitted to tender,inter alia. USD to make their investments.
+
 94. The PlexCoin ICO continued until at least October 1,2017. However,Lacroix and PlexCorps appear to have been selling additional PlexCoin Tokens since.
+
 95. On a PayPal account registered to Lacroix's name(and containing"PlexCoin"as the"business"ofthe account and https://www.plexcoin.tech as the URL),Lacroix received over $380,000 USD from August 8,2017 through September 4,2017. Many ofthese payments mention "PlexCoin-Paypal" as the subject ofthe payments.
-96. Almost immediately from the first payment received on this PayPal account, PayPal flagged the account for suspicious activity and reversed most ofthe payments to the investors. Accordingly,on August 10,2017,Defendants began the process ofseeking an alternative method to obtain their victims' fiat currency. On that day,using the name"San"and email address he had previously used. Defendants,directly or indirectly, began making inquiries ofan online payments service similar to PayPal called "Shopify,"including whether Shopify would have any problems ifan account received thousands ofpayments ofvarious amounts in a
-23
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 24 of 35 PageID #: 24
-short period oftime. During the conversation. Defendants and/or their cohorts falsely told a Shopify online representative that they had a"gaming company"and that they were selling "some item in our game"that the customers would "use...in our game."
+96. Almost immediately from the first payment received on this PayPal account, PayPal flagged the account for suspicious activity and reversed most ofthe payments to the investors. Accordingly,on August 10,2017,Defendants began the process ofseeking an alternative method to obtain their victims' fiat currency. On that day,using the name"San"and email address he had previously used. Defendants,directly or indirectly, began making inquiries ofan online payments service similar to PayPal called "Shopify,"including whether Shopify would have any problems ifan account received thousands ofpayments ofvarious amounts in a short period oftime. During the conversation. Defendants and/or their cohorts falsely told a Shopify online representative that they had a"gaming company"and that they were selling "some item in our game"that the customers would "use...in our game."
+
 97. On or around August 16,2017,Defendants registered an account at Shopify in the name ofDefendant Paradis-Royer, using Lacroix's personal email("Lacroix's Email Address").
+
 98. At least as ofSeptember 10,2017, Lacroix and PlexCorps announced on the PlexCoin Facebook Page that investors could remit PlexCoin purchase payments through a service called "SidePay.Ca" making a similar announcement on a Facebook page with the identifier @PlexCoinINFORMATION. The HTML source code for the SidePay.Ca pajonent portal revealed that an investor that sought to invest in PlexCoin via SidePay.Ca was actually remitting money to Defendants'PlexCoin account at Shopify to purchase PlexCoin Tokens.
+
 99. Defendants associated their PlexCoin Shopify account with two accounts held at Royal Bank ofCanada("RBC")belonging to Defendant Paradis-Royer. The first, which had been opened in May of2017, was associated with Defendants' Shopify account on September 1, 2017(the "First RBC Account").
-100. On or about September 11,2017,Shopify placed a hold on Defendants' accounts
-and notified Lacroix ofthe hold in an email addressed to Lacroix's Email Address.
+
+100. On or about September 11,2017,Shopify placed a hold on Defendants' accounts and notified Lacroix ofthe hold in an email addressed to Lacroix's Email Address.
+
 101. Undaunted,Defendants opened another account at RBC in Paradis-Royer's name on September 14,2017,and associated it to the Shopify account(the"Second RBC Account").
+
 102. In various transactions beginning on September 19,2017 and going through September 25,2017,Defendants' Second RBC Account received over $1.68 million USD from the Shopify accounts that had collected the funds received through the Sidepay.Ca portal.
-24
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 25 of 35 PageID #: 25
 103. On September 19,2017,Paradis-Royer transferred $300,000 in CAD,the equivalent ofapproximately $246,000 USD,from the Second RBC Account to the First RBC Account. Paradis-Royer made or attempted to make immediate use ofthese funds, which belonged to PlexCoin ICG investors whose funds had moved from Paradis-Royer's Sidepay.Ca/Shopify account to the Second RBC Account and then to the First RBC Account.
-104. On September 20,2017,for example.Defendants transferred $30,000 CAD from the First RBC Account to pay a personal line ofcredit that they had used for home improvements. In the three weeks prior to September 20,2017,Paradis-Royer had also written checks for nearly $100,000 CAD from the First RBC Account to pay for other home improvement expenses,including lawn services, painting services and electricians.
-105. As detailed further below,the QAMF obtained an order freezing Paradis-Royer's bank accounts on September 21,2017, which caused RBC to refuse to cash other checks that Paradis-Royer had written and remitted around that date. These checks included payments for $75,000 CAD in ceramic work and approximately $52,000 CAD in aluminum work.
-106. Paradis-Royer also used PlexCoin ICO investor proceeds to "reimburse" purported expenses ofDL Innov.
-107. Defendants have also been obtaining PlexCoin ICO investor funds through another online payment services provider called Stripe, Inc., which is a U.S.-based entity ("Stripe")having affiliated entities in at least Canada and the United Kingdom.
-108. On July 29,2017,Defendants and their cohorts registered a Euro-denominated account in the name ofthe PlexCoin Website to collect proceeds from the PlexCoin ICO(the "Stripe Euro Account").
-25
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 26 of 35 PageID #: 26
+104. On September 20,2017,for example.Defendants transferred $30,000 CAD from the First RBC Account to pay a personal line ofcredit that they had used for home improvements. In the three weeks prior to September 20,2017,Paradis-Royer had also written checks for nearly $100,000 CAD from the First RBC Account to pay for other home improvement expenses,including lawn services, painting services and electricians.
+
+105. As detailed further below,the QAMF obtained an order freezing Paradis-Royer's bank accounts on September 21,2017, which caused RBC to refuse to cash other checks that Paradis-Royer had written and remitted around that date. These checks included payments for $75,000 CAD in ceramic work and approximately $52,000 CAD in aluminum work.
+
+106. Paradis-Royer also used PlexCoin ICO investor proceeds to "reimburse" purported expenses ofDL Innov.
+
+107. Defendants have also been obtaining PlexCoin ICO investor funds through another online payment services provider called Stripe, Inc., which is a U.S.-based entity ("Stripe")having affiliated entities in at least Canada and the United Kingdom.
+
+108. On July 29,2017,Defendants and their cohorts registered a Euro-denominated account in the name ofthe PlexCoin Website to collect proceeds from the PlexCoin ICO(the "Stripe Euro Account").
+
 109. The Stripe Euro Account lists"PlexCoin"as its business,and contains an associated false bank account supposedly in the name ofone ofDefendants' associates in France. In a Skype conversation with this associate, Lacroix discussed opening a Stripe account in France and changing the associated bank information when it was time to "cash out"the proceeds.
+
 110. As ofDecember 1,2017,the Stripe Euro Account holds approximately €262,000 (or the equivalent ofapproximately $311,000 in USD)(the"Stripe Euro Account"),obtained from approximately 890 different transactions. At least 115 ofthese transactions occurred with individuals in the United States,ofwhich some were registered to addresses within this District.
+
 111. Logins to the Stripe Euro Account have occurred with an email that has a plexcoin.com domain and at least some such logins have been from Defendants' IP Address.
+
 112. Due to Stripe's internal policies,transfers out ofthe Stripe Euro Account were placed on a 90-day administrative hold as ofSeptember 5,2017. The hold is set to expire on December 4,2017,at which point the funds presumably will be available to Defendants.
+
 113. On August 31,2017,Defendants registered an additional account with Stripe in the name ofDefendant Paradis-Royer to collect the proceeds from the PlexCoin ICG,using Lacroix's Email Address,associating it to Paradis-Royer's Second RBC Account,and listing the associated business as"SidePay"(the "Stripe USD Account").
+
 114. From approximately September 8,2017 througli September 19,2017,Defendants received over $1 million in USD in payments in the Stripe USD Account,covering nearly 5,400 different transactions. At least 1,400 ofthese transactions occurred with individuals whose
 addresses were in the United States, at least two dozen of which reside in this District.
-26
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 27 of 35 PageID #: 27
 115. Between September 18 and 20,2017,Defendants transferred approximately $900,000 in USD to the Second RBC Account in Canada from the Stripe USD Account,but approximately $211,492.38 in USD remains in that account.
+
 116. The Stripe USD Account was temporarily suspended by Stripe on approximately September 27,2017 through January 25,2018.
+
 117. On September 6,2017,Defendants registered a third account with Stripe, again in the name ofDefendant Paradis-Royer,to collect the proceeds from the PlexCoin ICG,this one denominated in CAD(the"Stripe CAD Account," together with the Stripe Euro Account and the Stripe USD Account,the "Stripe Accounts").
-118. The Stripe CAD Account is associated to Defendant Paradis-Royer's First RBC Account,and engaged in 218 transactions totaling over $322,000 USD. Log-ins to the Stripe CAD Account were done by a user with an email belonging to Paradis-Royer and from
-Defendants' IP Addresses.
+
+118. The Stripe CAD Account is associated to Defendant Paradis-Royer's First RBC Account,and engaged in 218 transactions totaling over $322,000 USD. Log-ins to the Stripe CAD Account were done by a user with an email belonging to Paradis-Royer and from Defendants' IP Addresses.
+
 119. The Stripe CAD Account currently holds over $372,000 in CAD(the USD equivalent ofapproximately $290,000),but is also temporarily suspended by Stripe until December 10,2017.
+
 120. Together,the Stripe Accounts currently hold over $800,000 in USD as proceeds ofthe fraudulent distribution ofunregistered securities detailed in this Complaint.
+
 121. On or about September 5,2017,http://www.plexcoin.tech stated that PlexCorps had distributed over 24 million PlexCoin Tokens and 68 million as ofSeptember 28,2017. Assuming Defendants sold the first 50 million PlexCoin Tokens at the stated offering price of $0.13 USD and the subsequent 18 million at the stated offering price of$0.28,this represents
 over $11.54 million USD collected.
-27
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 28 of 35 PageID #: 28
-122. The Ethereum blockchain indicates that two addresses received 400 million and
-550 million PlexCoin Tokens on or about August 13,2017. The first address distributed over 71.4 million PlexCoin Tokens from August 22 through the present,in over 36,000 transactions.
-123. The second address distributed over 10 million PlexCoin Tokens from November
-3 through today in over 32,000 transactions. 124. Assuming all ofthe distributions ofPlexCoin Tokens from these addresses were
-sold to investors as per the discount pricing scheme stating in the various PlexCoin ICQ marketing materials,these sales would have generated proceeds ofmore than $15 million USD (50 million PlexCoin Tokens sold at $0.13 generate $6.5 million USD,and 31 million PlexCoin Tokens sold at $0.28 generate $8.68 million USD).
+122. The Ethereum blockchain indicates that two addresses received 400 million and 550 million PlexCoin Tokens on or about August 13,2017. The first address distributed over 71.4 million PlexCoin Tokens from August 22 through the present,in over 36,000 transactions.
+
+123. The second address distributed over 10 million PlexCoin Tokens from November 3 through today in over 32,000 transactions. 124. Assuming all ofthe distributions ofPlexCoin Tokens from these addresses were sold to investors as per the discount pricing scheme stating in the various PlexCoin ICQ marketing materials,these sales would have generated proceeds ofmore than $15 million USD (50 million PlexCoin Tokens sold at $0.13 generate $6.5 million USD,and 31 million PlexCoin Tokens sold at $0.28 generate $8.68 million USD).
+
 Continued Harms to Investors in the United States is Threatened
+
 125. As ofDecember 1,2017, publicly available data on the Ethereum block chain indicates daily transactions in PlexCoin up to and including December 1,2017,and over 76,000 transactions in PlexCoin through December 1,2017.
+
 126. Defendants are in possession ofsubstantial amounts ofPlexCoin, which they continue to promote and to solicit investments in,including by secondary market purchases.
+
 127. As ofDecember 1,2017,Defendants control the three Stripe Accounts, which are due approximately $810,000 USD. Although the Stripe Accounts are on an administrative hold, the funds will begin to be released as early as December 4,2017. Defendants also control unknown amounts ofBitcoin, Ether,or Litecoin cryptocurrency fraudulently obtained in exchange for PlexCoin Tokens.
-128. On September 21,2017,the QAMF obtained an additional ex parte order from the Quebec Tribunal(the"September Order"),freezing certain ofDefendants' Lacroix and Paradis-
-28
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 29 of 35 PageID #: 29
-Royer assets in Canada,and enjoining Paradis-Royer from engaging in any transactions with respect to securities, as the July Order had similarly enjoined Lacroix and PlexCorps.
+128. On September 21,2017,the QAMF obtained an additional ex parte order from the Quebec Tribunal(the"September Order"),freezing certain ofDefendants' Lacroix and Paradis- Royer assets in Canada,and enjoining Paradis-Royer from engaging in any transactions with respect to securities, as the July Order had similarly enjoined Lacroix and PlexCorps.
+
 129. But Defendants have continued to defy the Quebec Tribunal's orders,including the September Order,by misappropriating investor funds,and Lacroix and PlexCorps by continuing to make online postings marketing PlexCoin Tokens and PlexCorps.
+
 130. For example,on October 10,2017,Lacroix launched an online forum posting "PlexCorps live updates," and on which Lacroix or his cohorts have been posting updated news about PlexCorps and the PlexCoin Token through at least November of2017.
+
 131. Lacroix is making posts on the Facebook page @PlexCoinINFORMATION about supposed PlexCorps projects and the tradability ofPlexCoin Tokens on digital asset exchanges.
+
 132. And,starting at least as early as November 16,2017,a new Facebook page identified as @PlexCoinWorldTeam and purporting to be located in Paris, France, mentioned PlexCorps and that PlexCoin would be "listed on as many public platforms as possible." That page also sells t-shirts depicting an individual making an offensive gesture at the QAMF.
-133. As ofDecember 1,2017,both the PlexCoin and the PlexCorps Websites are live
-and accessible to Internet users in the United States and in this District. FIRST CLAIM FOR RELIEF
-Violations ofSection 10(b)ofthe Exchange Act and Rule lOb-5 (All Defendants)
+
+133. As ofDecember 1,2017,both the PlexCoin and the PlexCorps Websites are live and accessible to Internet users in the United States and in this District. 
+
+FIRST CLAIM FOR RELIEF Violations ofSection 10(b)ofthe Exchange Act and Rule lOb-5 (All Defendants)
+
 134. The Commission repeats,realleges and incorporates by reference paragraphs 1 through 133,as though fully set forth herein.
+
 135. By virtue ofthe foregoing. Defendants Lacroix,Paradis-Royer and PlexCorps, directly or indirectly, by the use ofthe means and instrumentalities ofinterstate commerce or of the mails,in connection with the purchase or sale ofsecurities, knowingly or recklessly.
-29
-
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 30 of 35 PageID #: 30
 employed devices,schemes,or artifices to defraud,and engaged in acts, practices, and courses of business which operate or would operate as a fraud or deceit; and Defendants Lacroix and PlexCorps made untrue statements ofmaterial fact and omitted to state material facts necessary in order to make the statements made,in light ofthe circumstances under which they were made, not misleading.
-136. By virtue ofthe foregoing. Defendants Lacroix,Paradis-Royer and PlexCorps violated, and unless restrained and enjoined will continue to violate. Section 10(b)ofthe Exchange Act[15 U.S.C.§ 78j(b)], and Rule lOb-5 [17 C.F.R. § 240.10b-5] promulgated
-thereunder. SECOND CLAIM FOR RELIEF
-Violations ofSecurities Act Section 17(a) (All Defendants)
-137. The Commission repeats,realleges and incorporates by reference paragraphs 1 through 133, as though fully set forth herein.
-138. By virtue ofthe foregoing,in the offer or sale ofsecurities, by the use ofthe means or instruments oftransportation or communication in interstate commerce or by use ofthe mails, directly or indirectly;(a)Defendants Lacroix,Paradis-Royer and PlexCorps employed devices,schemes or artifices to defraud;(b)Defendants Lacroix and PlexCorps obtained money or property by means ofan untrue statement ofa material fact or omitted to state a material fact necessary in order to make the statements made,in light ofthe circumstances under which they were made,not misleading; and/or(c)Defendants Lacroix,Paradis-Royer and PlexCorps engaged in transactions, practices or courses ofbusiness which operate or would operate as a fraud or deceit upon the purchaser.
-30
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 31 of 35 PageID #: 31
-139. By reason ofthe conduct described above,Defendants,directly or indirectly violated and,unless enjoined will again violate. Securities Act Section 17(a)[15 U.S.C.
-§ 77q(a)(l),(a)(3)].
+136. By virtue ofthe foregoing. Defendants Lacroix,Paradis-Royer and PlexCorps violated, and unless restrained and enjoined will continue to violate. Section 10(b)ofthe Exchange Act[15 U.S.C.§ 78j(b)], and Rule lOb-5 [17 C.F.R. § 240.10b-5] promulgated thereunder. 
+
+SECOND CLAIM FOR RELIEF
+Violations ofSecurities Act Section 17(a) 
+(All Defendants)
+
+137. The Commission repeats,realleges and incorporates by reference paragraphs 1 through 133, as though fully set forth herein.
+
+138. By virtue ofthe foregoing,in the offer or sale ofsecurities, by the use ofthe means or instruments oftransportation or communication in interstate commerce or by use ofthe mails, directly or indirectly;(a)Defendants Lacroix,Paradis-Royer and PlexCorps employed devices,schemes or artifices to defraud;(b)Defendants Lacroix and PlexCorps obtained money or property by means ofan untrue statement ofa material fact or omitted to state a material fact necessary in order to make the statements made,in light ofthe circumstances under which they were made,not misleading; and/or(c)Defendants Lacroix,Paradis-Royer and PlexCorps engaged in transactions, practices or courses ofbusiness which operate or would operate as a fraud or deceit upon the purchaser.
+
+139. By reason ofthe conduct described above,Defendants,directly or indirectly violated and,unless enjoined will again violate. Securities Act Section 17(a)[15 U.S.C. § 77q(a)(l),(a)(3)].
+
 THIRD CLAIM FOR RELIEF
 Violations ofSections 5(a)and 5(c)ofthe Securities Act (Defendants Lacroix and PlexCorps)
-140. The Commission repeats, realleges and incorporates by reference paragraphs 1
-through 133,as though fully set forth herein. 141. By virtue ofthe foregoing,(a)without a registration statement in effect as to that
-security, Defendants Lacroix and PlexCorps,directly and indirectly, made use ofthe means and instruments oftransportation or communications in interstate commerce and ofthe mails to sell securities through the use ofmeans ofa prospectus, and(b)made use ofthe means and instruments oftransportation or communication in interstate commerce and ofthe mails to offer to sell through the use ofa prospectus,securities as to which no registration statement had been
-filed.
+
+140. The Commission repeats, realleges and incorporates by reference paragraphs 1 through 133,as though fully set forth herein. 
+
+141. By virtue ofthe foregoing,(a)without a registration statement in effect as to that security, Defendants Lacroix and PlexCorps,directly and indirectly, made use ofthe means and instruments oftransportation or communications in interstate commerce and ofthe mails to sell securities through the use ofmeans ofa prospectus, and(b)made use ofthe means and instruments oftransportation or communication in interstate commerce and ofthe mails to offer to sell through the use ofa prospectus,securities as to which no registration statement had been filed.
+
 142. By reason ofthe conduct described above. Defendants Lacroix and PlexCorps, directly or indirectly violated and,unless enjoined will again violate, Securities Act Sections 5(a) and 5(c)[15 U.S.C.§§ 77e(a)and e(c)].
+
 FOURTH CLAIM FOR RELIEF
 Aiding and Abetting PlexCorps' Violations ofSections 5(a),5(c),and 17(a)ofthe Securities Act,and ofSection 10(b)ofthe Exchange Act and Rule lOb-5 Thereunder (Defendant Lacroix)
+
 143. The Commission repeats,realleges, and incorporates by reference paragraphs 1 through [134],as though fully set forth herein.
-144. By virtue ofthe foregoing. Defendant Lacroix provided knowing or reckless substantial assistance to Defendant PlexCorps, which,directly or indirectly,singly or in concert
-31
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 32 of 35 PageID #: 32
-with others, in connection with the purchase or sale ofa security, with scienter, used the means or instrumentalities ofinterstate commerce,or ofthe mails,to make untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in light ofthe circumstances under which they were made,not misleading,and without a registration statement in effect as to that security, directly and indirectly, made use ofthe means and instruments oftransportation or communications in interstate commerce and ofthe mails to sell securities through the use ofmeans ofa prospectus.
+144. By virtue ofthe foregoing. Defendant Lacroix provided knowing or reckless substantial assistance to Defendant PlexCorps, which,directly or indirectly,singly or in concert with others, in connection with the purchase or sale ofa security, with scienter, used the means or instrumentalities ofinterstate commerce,or ofthe mails,to make untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in light ofthe circumstances under which they were made,not misleading,and without a registration statement in effect as to that security, directly and indirectly, made use ofthe means and instruments oftransportation or communications in interstate commerce and ofthe mails to sell securities through the use ofmeans ofa prospectus.
+
 145. By virtue ofthe foregoing. Defendant Lacroix aided and abetted and,unless restrained and enjoined, will continue aiding and abetting, violations ofSections 5(a),5(c),and 17(a)ofthe Securities Act[15 U.S.C.§§ 77e(a),77e(c),77q(a)],Section 10(b)ofthe Exchange Act[15 U.S.C.§ 78j(b)], and Rule lOb-5[17 C.F.R.§ 240.10b-5] promulgated thereunder,in violation ofSection 20(e)ofthe Exchange Act[15 U.S.C.§ 78t(e)].
+
 FIFTH CLAIM FOR RELIEF
+
 Aiding and Abetting Lacroix's and PlexCorps' Violations ofSection 17(a)ofthe Securities Act,and ofSection 10(b)ofthe Exchange Act and Rule lOb-5 Thereunder (Defendant Paradis-Royer)
+
 146. The Commission repeats, realleges, and incorporates by reference paragraphs 1 through 133, as though fully set forth herein.
-147. By virtue ofthe foregoing,Defendant Paradis-Royer provided knowing or reckless substantial assistance to Defendants Lacroix and PlexCorps, which,directly<or indirectly, singly or in concert with others,in connection with the purchase or sale ofa security, with scienter, used the means or instrumentalities ofinterstate commerce,or ofthe mails,to make untrue statements ofmaterial fact and omitted to state material facts necessary in order to make the statements made,in light ofthe circumstances under which they were made,not misleading.
-32
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 33 of 35 PageID #: 33
+147. By virtue ofthe foregoing,Defendant Paradis-Royer provided knowing or reckless substantial assistance to Defendants Lacroix and PlexCorps, which,directly or indirectly, singly or in concert with others,in connection with the purchase or sale ofa security, with scienter, used the means or instrumentalities ofinterstate commerce,or ofthe mails,to make untrue statements ofmaterial fact and omitted to state material facts necessary in order to make the statements made,in light ofthe circumstances under which they were made,not misleading.
+
 148. By virtue ofthe tbregoing,Defendant Paradis-Royer aided and abetted and, unless restrained and enjoined, will continue aiding and abetting, violations ofSection 17(a)of the Securities Act[15 U.S.C.§ 77q(a)], Section 10(b)ofthe Exchange Act[15 U.S.C.§ 78j(b)], and Rule lOb-5[17 C.F.R.§ 240.10b-5]promulgated thereunder,in violation ofSection 20(e)of the Exchange Act[15 U.S.C.§ 78t(e)].
+
 PRAYER FOR RELIEF
+
 WHEREFORE,the Commission respectfully requests that the Court grant the following
-relief: I.
+relief: 
+
+I.
+
 An Order temporarily and preliminary,and a Final Judgment permanently,restraining and enjoining Defendants,and each oftheir respective agents,servants,employees,attorneys and other persons in active concert or participation with each ofthem who receive actual notice of the injunction by personal service or otherwise,from any future violations ofSection 17(a)ofthe Securities Act[15 U.S.C.§ 77q(a)],and Section 10(b)ofthe Exchange Act[15 U.S.C.§ 78j(b)], and Rule lOb-5[17 C.F.R.§ 240.10b-5]issued thereunder,and Defendants Lacroix and PlexCorps and each oftheir respective agents,servants,employees,attorneys and other persons in active concert or participation with each ofthem who receive actual notice ofthe injunction by personal service or otherwise from any future direct or indirect participation in any offering of unregistered securities in violation ofSections 5(a)and 5(c)ofthe Securities Act[15 U.S.C. § 77e(a),77e(c)];
+
 II.
+
 An Order temporarily and preliminarily freezing all ofDefendants' assets;
-33
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 34 of 35 PageID #: 34
 III.
-An Order requiring Defendants to transfer to the registry ofthe Court all funds and assets
-obtained from the United States from unlawful activities described herein that are now located
-outside the Court'sjurisdiction;
-IV.
-An Order temporarily and preliminarily enjoining and restraining Defendants,and any person or entity acting at their direction or on their behalf,from destroying, altering, concealing or otherwise interfering with the access ofthe Commission to relevant documents;
-V.
-An Order providing that the Commission may take expedited discovery;
-VI.
-An Order directing Defendants to file with this Court and serve upon the Commission, within three(3)business days,or within such extension oftime as the Commission staffagrees to, a verified accounting,signed by each Defendant,and under penalty ofperjury;
-VII.
-A Final Judgment directing each ofthe Defendants to disgorge all ill-gotten gains, including prejudgment interest thereon;
-VIII.
-A Final Judgment permanently barring Defendant Lacroix from serving as an officer or director ofany public company pursuant to Section 20(e)ofthe Securities Act[15 U.S.C. § 77t(e)], and Section 21(d)(2)ofthe Exchange Act[15 U.S.C.§ 78u(d)(2)];
-34
 
-Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 35 of 35 PageID #: 35
+An Order requiring Defendants to transfer to the registry ofthe Court all funds and assets obtained from the United States from unlawful activities described herein that are now located outside the Court'sjurisdiction;
+
+IV.
+
+An Order temporarily and preliminarily enjoining and restraining Defendants,and any person or entity acting at their direction or on their behalf,from destroying, altering, concealing or otherwise interfering with the access ofthe Commission to relevant documents;
+
+V.
+
+An Order providing that the Commission may take expedited discovery;
+
+VI.
+
+An Order directing Defendants to file with this Court and serve upon the Commission, within three(3)business days,or within such extension oftime as the Commission staffagrees to, a verified accounting,signed by each Defendant,and under penalty ofperjury;
+
+VII.
+
+A Final Judgment directing each ofthe Defendants to disgorge all ill-gotten gains, including prejudgment interest thereon;
+
+VIII.
+
+A Final Judgment permanently barring Defendant Lacroix from serving as an officer or director ofany public company pursuant to Section 20(e)ofthe Securities Act[15 U.S.C. § 77t(e)], and Section 21(d)(2)ofthe Exchange Act[15 U.S.C.§ 78u(d)(2)];
 
 IX.
+
 A Final Judgment prohibiting Defendants Lacroix and Paradis-Royer from participating in any offering ofdigital securities pursuantto Section 20(d)(5)ofthe Exchange Act[15 U.S.C. § 78u(d)(5)];
+
 X.
+
 A Final Judgment directing the Defendants to pay civil money penalties pursuantto Section 20(d)ofthe Securities Act[15 U.S.C.§ 77t(d)],and Section 21(d)(3)ofthe Exchange Act[15 U.S.C.§ 78u(d)(3)];and
+
 XI.
-Such other and further reliefas this Court deems appropriate and necessary for the benefit
-ofinvestors.
+
+Such other and further relief as this Court deems appropriate and necessary for the benefit of investors.
 
 Dated:New York,New York December 1,2017
 
