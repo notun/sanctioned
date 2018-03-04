@@ -2,6 +2,11 @@ Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 1 of 35 PageID #: 1
 
 ------
 
+<img width="280" alt="screen shot 2018-03-04 at 12 44 48 am" src="https://user-images.githubusercontent.com/2357755/36942631-7bde93a0-1f45-11e8-9b3b-29c2f38f2f4b.png">
+
+<img width="161" alt="screen shot 2018-03-04 at 12 44 59 am" src="https://user-images.githubusercontent.com/2357755/36942632-7bebd236-1f45-11e8-8b1b-60c90bf87b20.png">
+
+
 Robert A.Cohen    
 Valerie A.Szczepanik    
 Jorge G.Tenreiro    
