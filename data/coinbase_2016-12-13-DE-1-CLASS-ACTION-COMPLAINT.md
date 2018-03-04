@@ -1,196 +1,205 @@
-**Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 1 of 57**
-
 
 ### UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA
 
 Civil Action No. ________________________________
 
 BRANDON LEIDEL, individually, and on behalf of All Others Similarly Situated; and JAMES D. SALLAH, ESQ., as Receiver/Corporate Monitor of Project Investors, Inc. d/b/a Cryptsy,
-Plaintiffs, v. COINBASE, INC., a Delaware corporation d/b/a Global Digital Asset Exchange (GDAX);
-Defendant. ________________________________________________/
-CLASS ACTION COMPLAINT Plaintiffs, BRANDON LEIDEL (“LEIDEL”), individually and on behalf of all other persons similarly situated (“Class Plaintiffs”), and JAMES D. SALLAH, ESQ., as Receiver/Corporate Monitor (the “Receiver”) of Project Investors, Inc. d/b/a Cryptsy (collectively the “Plaintiffs”), by and through undersigned counsel, hereby sue Defendant, COINBASE, INC., a Delaware corporation d/b/a Global Digital Asset Exchange (GDAX), for damages and for equitable relief. In support thereof, Plaintiffs state as follows:
-PRELIMINARY STATEMENT 1. This nationwide class action is brought by Plaintiff LEIDEL, individually and on behalf of a class of similarly situated users (the “Class Members”) of Project Investors, Inc. d/b/a Cryptsy (“CRYPTSY”), a cryptocurrency exchange and Money Services Business based in South Florida that served clients located both in the United States and abroad.
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 2 of 57
-2. Additionally, this action is brought by the Receiver, who on April 4, 2016 was
-appointed by the United States District Court for the Southern District of Florida to serve as the
-Receiver/Corporate Monitor over the affairs and operations of CRYPTSY and to, inter alia, “administer and manage the business affairs, funds, assets, choses in action and any other property of [CRYPTSY]; marshal and safeguard all of CRYPTSY’s assets; and take whatever actions are necessary for the protection of CRYPTSY investors and customers.”1
+Plaintiffs,     
+ v.     
+
+ COINBASE, INC., a Delaware corporation
+  d/b/a Global Digital Asset Exchange (GDAX);
+
+Defendant.      
+________________________________________________/
+
+CLASS ACTION COMPLAINT Plaintiffs, BRANDON LEIDEL (“LEIDEL”), individually and on behalf of all other persons similarly situated (“Class Plaintiffs”), and JAMES D. SALLAH, ESQ., as Receiver/Corporate Monitor (the “Receiver”) of Project Investors, Inc. d/b/a Cryptsy (collectively the “Plaintiffs”), by and through undersigned counsel, hereby sue Defendant, COINBASE, INC., a Delaware corporation d/b/a Global Digital Asset Exchange (GDAX), for damages and for equitable relief. In support thereof, Plaintiffs state as follows:
+
+PRELIMINARY STATEMENT 
+
+1. This nationwide class action is brought by Plaintiff LEIDEL, individually and on behalf of a class of similarly situated users (the “Class Members”) of Project Investors, Inc. d/b/a Cryptsy (“CRYPTSY”), a cryptocurrency exchange and Money Services Business based in South Florida that served clients located both in the United States and abroad.
+
+2. Additionally, this action is brought by the Receiver, who on April 4, 2016 was appointed by the United States District Court for the Southern District of Florida to serve as the Receiver/Corporate Monitor over the affairs and operations of CRYPTSY and to, inter alia, “administer and manage the business affairs, funds, assets, choses in action and any other property of [CRYPTSY]; marshal and safeguard all of CRYPTSY’s assets; and take whatever actions are necessary for the protection of CRYPTSY investors and customers.” FOOTNOTE 1
+
 3. At all material times, COINBASE operated an online business for general
-consumers and the public to exchange, invest, and trade in digital cryptocurrencies. Plaintiffs seek
-damages based upon the unlawful conduct of COINBASE in failing to properly monitor customer accounts that held investors’ money and ignoring its duty to investigate suspicious activities under
-U.S. anti-money laundering rules.
+consumers and the public to exchange, invest, and trade in digital cryptocurrencies. Plaintiffs seek damages based upon the unlawful conduct of COINBASE in failing to properly monitor customer accounts that held investors’ money and ignoring its duty to investigate suspicious activities under U.S. anti-money laundering rules.
+
 4. CRYPTSY and COINBASE should have been shining examples of the
 fundamental tenet of cryptocurrency: that without governmental regulation, a community of users can create and self-regulate a form of currency that serves as a viable – if not preferred -- alternative
-to traditional, government-backed currency. 5. Furthermore, CRYPTSY should have been a validation of COINBASE’s proof of
-concept: that a digital currency exchange is a legitimate business operation and that COINBASE
-could act as its liquidator. However, CRYPTSY instead proved that the loosely regulated, if not
-unregulated, cryptocurrency industry is still a haven for criminal activity and that those inside the
-industry oftentimes protect their fellow insiders.
+to traditional, government-backed currency. 
+
+5. Furthermore, CRYPTSY should have been a validation of COINBASE’s proof of concept: that a digital currency exchange is a legitimate business operation and that COINBASE could act as its liquidator. However, CRYPTSY instead proved that the loosely regulated, if not unregulated, cryptocurrency industry is still a haven for criminal activity and that those inside the industry oftentimes protect their fellow insiders.
+
 1 See, Exhibit “A” hereto (April 4, 2016 “Order Granting Plaintiffs’ Renewed Motion for Appointment of James D. Sallah, Esq. as Receiver/Corporate Monitor over Defendant, Project Investors, Inc. d/b/a Cryptsy”). [Leidel, et al. v. Project Investors, Inc. d/b/a Cryptsy, Paul Vernon, and Lorie Ann Nettles, U.S. District Court - Southern District of Florida - Case No. 9:16-cv-80060MARRA at Docket Entry No. (“DE”) 33] (the “Receivership Order”).
--2-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 3 of 57
-6. As the facts demonstrate, an unregulated community is ripe for abuses; and even
-the purportedly upstanding members of that community – no matter how right-minded and
-honorable they appear to be on the surface – are prone to engage in criminal activity when they
-think they won’t be caught.
-7. Plaintiffs and Class Members, and the Receiver, seek compensatory damages,
-exemplary and punitive damages where appropriate and allowed, and an injunction enjoining the
-continuation of Defendant’s unlawful conduct.
+6. As the facts demonstrate, an unregulated community is ripe for abuses; and even the purportedly upstanding members of that community – no matter how right-minded and honorable they appear to be on the surface – are prone to engage in criminal activity when they think they won’t be caught.
+
+7. Plaintiffs and Class Members, and the Receiver, seek compensatory damages, exemplary and punitive damages where appropriate and allowed, and an injunction enjoining the continuation of Defendant’s unlawful conduct.
+
 GENERAL ALLEGATIONS
+
 THE PARTIES
+
 Plaintiffs
+
 8. Plaintiff LEIDEL is an individual domiciled in Miami, Florida and is sui juris.
-9. The Receiver is an attorney approved and appointed by the District Court to serve
-as the Receiver for CRYPTSY and its subsidiaries, successors, and assigns. As set forth in the
-Receivership Order, the Receiver is empowered to, inter alia:
+
+9. The Receiver is an attorney approved and appointed by the District Court to serve as the Receiver for CRYPTSY and its subsidiaries, successors, and assigns. As set forth in the Receivership Order, the Receiver is empowered to, inter alia:
+
 Initiate, defend, compromise, adjust, intervene in, dispose of, or become a party to any lawsuits or arbitrations in state, federal or foreign jurisdictions necessary to preserve or increase the assets of Cryptsy and/or on behalf of Cryptsy and for the benefit of its investors and customers against: (1) those individuals and/or entities which the Receiver may claim have wrongfully, illegally or otherwise improperly misappropriated, transferred or received any assets, properties, monies, proceeds or other items of value directly or indirectly traceable from Cryptsy, including Cryptsy and its officers, directors, employees, agents or any persons acting in concert or participation with them; or (2) any transfers of assets, properties, monies, proceeds or other items of value directly or indirectly traceable from Cryptsy investors or customers. Such actions may include, but not be limited to, seeking imposition of constructive trusts, seeking imposition of equitable liens, disgorgement of profits, recovery and/or avoidance of fraudulent transfers under Florida Statute § 726.101, et. seq. or otherwise, rescission and restitution, the collection of debts, and such Orders or other relief supported in law or equity from this Court as may be necessary to enforce this Order.
--3-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 4 of 57
-Defendant 10. Defendant COINBASE is a Delaware corporation with its principal place of business in San Francisco, California. COINBASE holds itself out as a digital currency wallet and secure online platform where merchants and consumers can transact with new digital currencies like Bitcoin and Ethereum and where users can buy, sell, transfer, and store their digital currency. 11. COINBASE also holds itself out as a regulated and fully compliant entity, registered with the United States Department of the Treasury’s Financial Crimes Enforcement Network (“FinCEN”) as a Money Services Business, as that term is defined by FinCEN. 12. Since May 2016, COINBASE has been operating as Global Digital Asset Exchange (GDAX). GDAX is not registered with FinCEN. 13. According to published reports, COINBASE operates digital Bitcoin wallets for over 3 million people across the globe, including but not limited to wallet-holders in this District.
-JURISDICTION AND VENUE Subject Matter Jurisdiction 14. This Court has jurisdiction over the subject matter of this action pursuant to 28 U.S.C. § 1332, as amended by the Class Action Fairness Act of 2005, because the matter in controversy exceeds Five Million Dollars ($5,000,000.00), exclusive of interest and costs, and is a class action in which some members of the Class are citizens of different states than Defendant. See, 28 U.S.C. § 1332(a) and 1332(d)(2)(A). This Court also has supplemental jurisdiction over the state law claims pursuant to 28 U.S.C. § 1367.
--4-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
+Defendant
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 5 of 57
-Personal Jurisdiction 15. This Court has personal jurisdiction over Defendant because: (a) Defendant is operating, present, and/or doing business within this District, (b) Defendant resides within this jurisdiction, and (c) Defendant’s breaches and tortious activity occurred within this District. 16. Defendant is licensed by the Florida Office of Financial Regulation to conduct business as a Money Transmitter (Part II) in this state, and indeed conducts such business in the state of Florida. Moreover, according to FinCEN’s records, Florida is one of the states in which Defendant conducts business as a Money Services Business. 17. Additionally, Defendant entered into a contract with Florida residents CRYPTSY and Paul Vernon (CRYPTSY’s CEO) when CRYPTSY and Mr. Vernon resided in this District. Traditional monies and cryptocurrencies were routinely transferred by and between CRYPTSY/Mr. Vernon and Defendant -- including deposits by Defendant into CRYPTSY’s and Mr. Vernon’s bank accounts in Florida -- and Defendant was aware that CRYPTSY/Mr. Vernon were located here and did business here. 18. In light of the foregoing, Defendant has purposefully availed itself of the benefits of operating in this jurisdiction; and this Court may exercise personal jurisdiction over Defendant.
-Venue 19. Venue is proper pursuant to 28 U.S.C. § 1391 in that: (a) Defendant resides in this judicial district, and (b) a substantial part of the events or omissions giving rise to the claims set forth herein occurred in this judicial district. 20. As noted above, Defendant “resides” in this judicial district as a Money Services Business that willfully and knowingly transacts business here.
--5-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
+ 10. Defendant COINBASE is a Delaware corporation with its principal place of business in San Francisco, California. COINBASE holds itself out as a digital currency wallet and secure online platform where merchants and consumers can transact with new digital currencies like Bitcoin and Ethereum and where users can buy, sell, transfer, and store their digital currency. 
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 6 of 57
+ 11. COINBASE also holds itself out as a regulated and fully compliant entity, registered with the United States Department of the Treasury’s Financial Crimes Enforcement Network (“FinCEN”) as a Money Services Business, as that term is defined by FinCEN. 
+
+ 12. Since May 2016, COINBASE has been operating as Global Digital Asset Exchange (GDAX). GDAX is not registered with FinCEN. 
+
+ 13. According to published reports, COINBASE operates digital Bitcoin wallets for over 3 million people across the globe, including but not limited to wallet-holders in this District.
+
+JURISDICTION AND VENUE
+
+ Subject Matter Jurisdiction
+
+ 14. This Court has jurisdiction over the subject matter of this action pursuant to 28 U.S.C. § 1332, as amended by the Class Action Fairness Act of 2005, because the matter in controversy exceeds Five Million Dollars ($5,000,000.00), exclusive of interest and costs, and is a class action in which some members of the Class are citizens of different states than Defendant. See, 28 U.S.C. § 1332(a) and 1332(d)(2)(A). This Court also has supplemental jurisdiction over the state law claims pursuant to 28 U.S.C. § 1367.
+
+Personal Jurisdiction
+
+ 15. This Court has personal jurisdiction over Defendant because: (a) Defendant is operating, present, and/or doing business within this District, (b) Defendant resides within this jurisdiction, and (c) Defendant’s breaches and tortious activity occurred within this District.
+
+ 16. Defendant is licensed by the Florida Office of Financial Regulation to conduct business as a Money Transmitter (Part II) in this state, and indeed conducts such business in the state of Florida. Moreover, according to FinCEN’s records, Florida is one of the states in which Defendant conducts business as a Money Services Business. 
+
+ 17. Additionally, Defendant entered into a contract with Florida residents CRYPTSY and Paul Vernon (CRYPTSY’s CEO) when CRYPTSY and Mr. Vernon resided in this District. Traditional monies and cryptocurrencies were routinely transferred by and between CRYPTSY/Mr. Vernon and Defendant -- including deposits by Defendant into CRYPTSY’s and Mr. Vernon’s bank accounts in Florida -- and Defendant was aware that CRYPTSY/Mr. Vernon were located here and did business here. 
+
+ 18. In light of the foregoing, Defendant has purposefully availed itself of the benefits of operating in this jurisdiction; and this Court may exercise personal jurisdiction over Defendant.
+
+Venue 
+
+19. Venue is proper pursuant to 28 U.S.C. § 1391 in that: (a) Defendant resides in this judicial district, and (b) a substantial part of the events or omissions giving rise to the claims set forth herein occurred in this judicial district. 
+
+20. As noted above, Defendant “resides” in this judicial district as a Money Services Business that willfully and knowingly transacts business here.
+
 21. Furthermore, as described in greater detail herein, the theft of CRYPTSY customer funds and a substantial portion of Defendant’s assistance in laundering those stolen funds occurred in this judicial district, including Defendant’s transmittal of purloined funds to CRYPTSY’s and Mr. Vernon’s bank accounts in Florida.
+
 22. In light of the foregoing, this District is a proper venue in which to adjudicate this dispute.
-FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS Paul Vernon and Cryptsy
+
+FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS
+
+Paul Vernon and Cryptsy
+
 23. Bitcoin is a virtual currency that may be traded on online exchanges for conventional currencies, including the U.S. Dollar, or used to purchase goods and services online. Bitcoin has no single administrator or central authority or repository.
+
 24. On or about January 31, 2013, Paul Vernon (a/k/a Paul “Big Vern” Vernon) (“VERNON”) registered CRYPTSY as a “for profit” corporation in the State of Florida; and VERNON, by and through the corporation, began operating a website at the following web address: http://www.cryptsy.com.
+
 25. At all times material hereto, VERNON resided in, operated, and directed CRYPTSY from, and interacted with COINBASE from, this District.
+
 26. Also at all times material hereto, CRYPTSY, like COINBASE, has been registered with FinCEN as a Money Services Business.
+
 27. CRYPTSY, as a Money Services Business, is obligated, inter alia, to keep certain financial records and allow free and unfettered access to consumer accounts. As demonstrated below, CRYPTSY has failed to do that.
--6-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 7 of 57
 28. CRYPTSY solicited members of the public to register new accounts, deposit Bitcoin or other cryptocurrency with CRYPTSY, and thereafter actively engage in the exchange and trade of Bitcoin as well as other (alternate) cryptocurrencies.
+
 29. After a new user created an account, the user was provided a unique digital address (known as a “cryptocurrency wallet address”). Each new user funded his or her account by transferring cryptocurrency assets to his or her unique address provided by CRYPTSY.
+
 30. A user’s account, once populated with a cryptocurrency balance, could buy, sell, or trade in alternative cryptocurrencies. All denominations of account balances for a user were listed in Bitcoin denominations, commonly styled as “BTC.”
-Coinbase is Licensed as a Money Transmitter 31. As noted above, COINBASE purports to provide cryptocurrency users a secure online location at which users can buy, sell, transfer, and store their digital currency. 32. COINBASE is licensed as a Money Transmitter in multiple states and territories across the United States (including, inter alia, Florida), but it is not a bank. 33. A Money Transmitter is required to maintain federal registration as a Money Services Business and comply with federal recordkeeping and reporting requirements under the auspices of FinCEN. 34. As a Money Transmitter in the State of Florida, for example, COINBASE is authorized to transmit currency, monetary value, or payment instruments, either by wire, facsimile, electronic transfer, courier, the internet, or through bill payment services or other businesses that facilitate such transfer, within this country or to or from locations outside this country. 35. Among the federal regulatory statutes, standards, and requirements with which a Money Services Business must comply is the Bank Secrecy Act.
--7-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 8 of 57
-36. Notwithstanding the foregoing, a Money Services Business (defined in 31 CFR
-1010.100(ff)) is a materially different thing from a bank, which is defined in 31 CFR 1010.100(d).
-In fact, the Code of Federal Regulations (31 CFR 1010.100(ff)(8)(i)) specifically notes that the term “Money Services Business” shall not include a bank.
-Coinbase Purports to be a Champion of Consumer Protection 37. In February 2014, Tokyo-based Mt. Gox -- one of the world’s leading Bitcoin
-exchanges -- halted its operations, blaming the disruption on technical issues and cyber-attacks.
-Mt. Gox later abruptly shuttered its business and filed for bankruptcy, claiming debts (including those owed to its customers) exceeding $64,000,000.00. Mt. Gox’s precipitous tumble caused the value of Bitcoin to plunge overnight and shook users’ confidence in the future stability of Bitcoin
-as a viable alternative currency. 38. In the wake of Mt. Gox’s collapse, COINBASE released a public statement
-pledging to “lead the way” in coming up with consumer-protection measures after the “tragic violation of the trust of users of Mt. Gox.” According to the statement:
- responsible Bitcoin exchanges are working together and are committed to the future of Bitcoin and the security of all customer funds.
- Bitcoin operators play a critical role over the Bitcoin they hold as assets for their customers. Acting as a custodian should require a high bar, including appropriate security safeguards that are independently audited and tested on a regular basis.
+Coinbase is Licensed as a Money Transmitter
+
+ 31. As noted above, COINBASE purports to provide cryptocurrency users a secure online location at which users can buy, sell, transfer, and store their digital currency. 
+
+ 32. COINBASE is licensed as a Money Transmitter in multiple states and territories across the United States (including, inter alia, Florida), but it is not a bank.
+
+ 33. A Money Transmitter is required to maintain federal registration as a Money Services Business and comply with federal recordkeeping and reporting requirements under the auspices of FinCEN. 
+
+ 34. As a Money Transmitter in the State of Florida, for example, COINBASE is authorized to transmit currency, monetary value, or payment instruments, either by wire, facsimile, electronic transfer, courier, the internet, or through bill payment services or other businesses that facilitate such transfer, within this country or to or from locations outside this country. 
+
+ 35. Among the federal regulatory statutes, standards, and requirements with which a Money Services Business must comply is the Bank Secrecy Act.
+
+36. Notwithstanding the foregoing, a Money Services Business (defined in 31 CFR 1010.100(ff)) is a materially different thing from a bank, which is defined in 31 CFR 1010.100(d). In fact, the Code of Federal Regulations (31 CFR 1010.100(ff)(8)(i)) specifically notes that the term “Money Services Business” shall not include a bank.
+
+Coinbase Purports to be a Champion of Consumer Protection
+
+ 37. In February 2014, Tokyo-based Mt. Gox -- one of the world’s leading Bitcoin exchanges -- halted its operations, blaming the disruption on technical issues and cyber-attacks. Mt. Gox later abruptly shuttered its business and filed for bankruptcy, claiming debts (including those owed to its customers) exceeding $64,000,000.00. Mt. Gox’s precipitous tumble caused the value of Bitcoin to plunge overnight and shook users’ confidence in the future stability of Bitcoin as a viable alternative currency. 
+
+ 38. In the wake of Mt. Gox’s collapse, COINBASE released a public statement pledging to “lead the way” in coming up with consumer-protection measures after the “tragic violation of the trust of users of Mt. Gox.” According to the statement:
+* responsible Bitcoin exchanges are working together and are committed to the future of Bitcoin and the security of all customer funds.
+* Bitcoin operators play a critical role over the Bitcoin they hold as assets for their customers. Acting as a custodian should require a high bar, including appropriate security safeguards that are independently audited and tested on a regular basis.
+
 COINBASE touted and positioned itself to be one of those “responsible Bitcoin exchanges.”
-39. As set forth herein, COINBASE -- by such statements and its conduct in general --
-assumed a duty to protect and safeguard the Bitcoin of its exchange customers, such as CRYPTSY. Cryptsy’s Rise to Prominence
-40. With Mt. Gox defunct, thousands of cryptocurrency users turned to CRYPTSY as
-their new, trusted cryptocurrency exchange. -8-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 9 of 57
+39. As set forth herein, COINBASE -- by such statements and its conduct in general -- assumed a duty to protect and safeguard the Bitcoin of its exchange customers, such as CRYPTSY. 
 
-41. Barely one year after it was founded, CRYPTSY experienced significant growth in both its customer base and total online trades. According to published reports, CRYPTSY’s
+Cryptsy’s Rise to Prominence
 
-customer base in mid-2014 swelled to approximately 230,000 registered users; its trades per day
+40. With Mt. Gox defunct, thousands of cryptocurrency users turned to CRYPTSY as their new, trusted cryptocurrency exchange.
 
-exceeded 300,000; and it made available 150 different types of digital currencies for its users to
+41. Barely one year after it was founded, CRYPTSY experienced significant growth in both its customer base and total online trades. According to published reports, CRYPTSY’s customer base in mid-2014 swelled to approximately 230,000 registered users; its trades per day exceeded 300,000; and it made available 150 different types of digital currencies for its users to trade. 
 
-trade. 42.
+42. CRYPTSY’s expansion, however, had its limits. CRYPTSY did not deal with fiat money (i.e., government-backed money such as the U.S. Dollar), and it needed a way to process fiat transactions for its users. 
 
-CRYPTSY’s expansion, however, had its limits. CRYPTSY did not deal with fiat
-
-money (i.e., government-backed money such as the U.S. Dollar), and it needed a way to process
-
-fiat transactions for its users. 43. As VERNON was quoted in a 2014 news report: “Our concern is, and the
+43. As VERNON was quoted in a 2014 news report: “Our concern is, and the
 government’s concern is, money laundering. So we need to kind of be the poster children of how to do [compliance] correctly. So I’m not going to launch [a fiat currency option] until I’m ready to be on the poster.”
 
-44. Instead of having CRYPTSY launch its own fiat currency option, VERNON turned
+44. Instead of having CRYPTSY launch its own fiat currency option, VERNON turned to COINBASE. 
 
-to COINBASE. Cryptsy and Vernon’s Accounts at Coinbase Were Vehicles of Theft
+Cryptsy and Vernon’s Accounts at Coinbase Were Vehicles of Theft
 
 45. CRYPTSY had an account in its name at COINBASE. Likewise, VERNON had
 
 an account in his own name at COINBASE.
 
-46. CRYPTSY and VERNON informed COINBASE in or about July 2014 that instead of instituting a fiat currency option for CRYPTSY’s customers, CRYPTSY would continue to
+46. CRYPTSY and VERNON informed COINBASE in or about July 2014 that instead of instituting a fiat currency option for CRYPTSY’s customers, CRYPTSY would continue to operate its crypto-to-crypto exchanges where its fees would be collected in Bitcoin and that CRYPTSY would use COINBASE to liquidate those Bitcoin (representing a portion of CRYPTSY’s revenues) into U.S. Dollars. COINBASE knew it was the only service provider that VERNON and CRYPTSY used for such purposes.
 
-operate its crypto-to-crypto exchanges where its fees would be collected in Bitcoin and that
-
-CRYPTSY would use COINBASE to liquidate those Bitcoin (representing a portion of CRYPTSY’s revenues) into U.S. Dollars. COINBASE knew it was the only service provider that
-
-VERNON and CRYPTSY used for such purposes.
-
--9-
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
-
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 10 of 57
 47. From 2014 through 2016, CRYPTSY and VERNON transferred enough Bitcoin through COINBASE (approximately $8,300,000.00 USD) to rank among COINBASE’s top liquidators of Bitcoin.
-48. COINBASE failed to perform adequate “anti-money laundering” and “know your client” (combined as “AML/KYC”) procedures, as those procedures are commonly known under FinCEN guidelines and enforcement rules.
-49. From 2014 through 2016, CRYPTSY and VERNON liquidated Bitcoin through COINBASE for U.S. Dollars; however, the liquidated Bitcoin were not legitimately generated revenues. Instead, those Bitcoin were stolen from CRYPTSY users in a long-running fraudulent scheme that since collapsed under the weight of its own ill-conceived structure.
-50. Unbeknownst to CRYPTSY users, CRYPTSY and VERNON were stealing Bitcoin from user accounts and liquidating those Bitcoin through both CRYPTSY’s and VERNON’s accounts at COINBASE.
-51. Typically, CRYPTSY and VERNON would remove Bitcoin from individual CRYPTSY customer wallets, transfer those Bitcoin to a CRYPTSY “hot wallet”2 which VERNON controlled, send those purloined Bitcoin to either CRYPTSY’s COINBASE account or VERNON’s own COINBASE account, liquidate those Bitcoin within the respective COINBASE accounts, and then send the liquidated funds to a personal bank account at TD Bank that VERNON maintained jointly with his then-wife, Lorie Ann Nettles.
-52. Shown graphically, the following is the path CRYPTSY and VERNON typically followed to steal CRYPTSY customer assets:
-2 In the cryptocurrency world, a “hot wallet” is known as a bitcoin wallet that is connected to the Internet that allows for the instant payout of withdrawals on cryptocurrency exchanges.
-- 10 -
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 11 of 57
+48. COINBASE failed to perform adequate “anti-money laundering” and “know your client” (combined as “AML/KYC”) procedures, as those procedures are commonly known under FinCEN guidelines and enforcement rules.
+
+49. From 2014 through 2016, CRYPTSY and VERNON liquidated Bitcoin through COINBASE for U.S. Dollars; however, the liquidated Bitcoin were not legitimately generated revenues. Instead, those Bitcoin were stolen from CRYPTSY users in a long-running fraudulent scheme that since collapsed under the weight of its own ill-conceived structure.
+
+50. Unbeknownst to CRYPTSY users, CRYPTSY and VERNON were stealing Bitcoin from user accounts and liquidating those Bitcoin through both CRYPTSY’s and VERNON’s accounts at COINBASE.
+
+51. Typically, CRYPTSY and VERNON would remove Bitcoin from individual CRYPTSY customer wallets, transfer those Bitcoin to a CRYPTSY “hot wallet” FOOTNOTE 2 which VERNON controlled, send those purloined Bitcoin to either CRYPTSY’s COINBASE account or VERNON’s own COINBASE account, liquidate those Bitcoin within the respective COINBASE accounts, and then send the liquidated funds to a personal bank account at TD Bank that VERNON maintained jointly with his then-wife, Lorie Ann Nettles.
+
+52. Shown graphically, the following is the path CRYPTSY and VERNON typically followed to steal CRYPTSY customer assets:
+
+FOOTNOTE 2 In the cryptocurrency world, a “hot wallet” is known as a bitcoin wallet that is connected to the Internet that allows for the instant payout of withdrawals on cryptocurrency exchanges.
+
 CRYPTSY CUSTOMER DEPOSITS FUNDS INTO DESIGNATED CRYPTSY WALLET
 CRYPTSY MIXES USER DEPOSITS INTO SEVERAL CRYPTSY "HOT" WALLETS
 VERNON TRANSFERS $8.2 MILLION IN BITCOIN TO COINBASE THROUGH HIS PERSONAL COINBASE ACCOUNT AND CRYPTSY'S COINBASE ACCOUNT
 COINBASE LIQUIDATES THE BITCOIN, AND NOW VERNON AND THE MONEY ARE MISSING
+
 53. Over the course of approximately three years, CRYPTSY and VERNON deposited and liquidated $4,900,000.00 worth of Bitcoin through CRYPTSY’s COINBASE account.
+
 54. Over the same period of time, CRYPTSY and VERNON deposited and liquidated $3,300,000.00 worth of Bitcoin through VERNON’s COINBASE account.
+
 55. CRYPTSY and VERNON told COINBASE that the $4,900,000.00 deposited and liquidated through CRYPTSY’s COINBASE account represented a portion of the revenues CRYPTSY had generated from its business, which CRYPTSY told COINBASE was the byproduct of the 0.3% transaction fee CRYPTSY assessed its customers for the value of each transaction in which the customers engaged at CRYPTSY.
+
 56. VERNON also told COINBASE that the $3,300,000.00 deposited and liquidated through his personal COINBASE account represented Bitcoin that VERNON himself had mined and that he personally owned.
-- 11 -
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 12 of 57
 57. Based on the number of assets deposited and liquidated through CRYPTSY’s COINBASE account, with full knowledge that CRYPTSY charged its customers a 0.3% transaction fee on the value of each transaction, COINBASE could not have reasonably believed that CRYPTSY was conducting nearly $1,700,000,000.00 USD in cryptocurrency exchange trading business over the stated time period.
-58. Likewise, COINBASE could not have reasonably believed that VERNON had personally mined and owned the $3,300,000.00 USD he deposited and liquidated through his personal COINBASE account.
-Coinbase Failed to Adequately Investigate Cryptsy and Vernon’s Coinbase Accounts and Willfully Blinded Itself to Obvious Red Flags
+
+58. Likewise, COINBASE could not have reasonably believed that VERNON had personally mined and owned the $3,300,000.00 USD he deposited and liquidated through his personal COINBASE account. Coinbase Failed to Adequately Investigate Cryptsy and Vernon’s Coinbase Accounts and Willfully Blinded Itself to Obvious Red Flags
+
 59. In or about June 2014, suspicions arose at COINBASE about the high volume of activity taking place in the CRYPTSY and VERNON accounts at COINBASE.
+
 60. Notwithstanding the regulatory requirements COINBASE faced as a Money Services Business under the FinCEN division of the U.S. Treasury Department, COINBASE merely performed a cursory review of the accounts held by CRYPTSY and VERNON and asked only a few benign questions about the suspicious activity.
+
 61. In response to COINBASE’s perfunctory inquiry, VERNON claimed Bitcoin liquidated through his COINBASE account were his own and were derived through his personal mining efforts.
+
 62. Without follow-up or verification, COINBASE accepted CRYPTSY and VERNON’s hollow responses.
+
 63. COINBASE failed to request from VERNON origination wallet addresses and a confirmation transaction to verify the veracity of his claims that he mined the Bitcoin.
-- 12 -
-SILVER LAW GROUP
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
 
-Case 9:16-cv-81992-XXXX Document 1 Entered on FLSD Docket 12/13/2016 Page 13 of 57
+64. Had COINBASE even cursorily audited or reviewed the blockchain FOOTNOTE3 history of the Bitcoin deposited into VERNON’s COINBASE account, it would have been open and obvious to COINBASE that VERNON’s statements were completely without merit. The following examples demonstrate the open and obvious information available to COINBASE:
 
-64. Had COINBASE even cursorily audited or reviewed the blockchain3 history of the Bitcoin deposited into VERNON’s COINBASE account, it would have been open and obvious to COINBASE that VERNON’s statements were completely without merit. The following examples
+USER A
+10/9/2014
 
-demonstrate the open and obvious information available to COINBASE:
-
-USER A 10/9/2014
-USER B 4/14/2014
+USER B
+4/14/2014
 
 USER DEPOSITED
 BTC AT CRYPTSY
@@ -200,17 +209,22 @@ USER BTC TRANSFERRED TO VERNON PERSON COINBASE ACCOUNT
 COINBASE LIQUIDATES BTC AND DEPOSITS IN
 VERNON BANK ACCOUNT
 
-284 1006
+28 FOOTNOTE4 100 FOOTNOTE6
 
-285 3007
+28 FOOTNOTE5 300 FOOTNOTE7
 
  
 
-3 The blockchain is the equivalent of a shared public ledger that includes all Bitcoin transactions so that traders can confirm that sellers actually own the Bitcoins being transacted.
-4 User A sent 20 Bitcoins (f18bda97c350c829fb40cdbb48ded0af1941159ee86190b2065a14ded797aa2e) and 8 additional Bitcoins (5a141f76a4ced439e681a95952a9a42dae584686d31929a989d7ba846fcc0fd7) to Cryptsy via deposit address of 13m1FqXBh9nrfsgMKPWncoDWvv6T6f2q5K.
-5 User A’s 28 BTC was then sent to VERNON’s personal Coinbase account at 14ETojkW9Jif1N5XzMRYhjhgGZUimn7e3j (0150f87f4a9771ca21df81f6cae2e917a88cd530d272529e2a23f76be113ca9a).
-6 User B sent 100 Bitcoins (703f79f29df6d3932e257011418873255a2f0776afbdc4f59df502ee7640cf77) to Cryptsy via deposit address of: 12go4DtJ33UtK2zYXJ2P5nPVPjyhhRSHH9.
-7 User B’s 100 Bitcoins were commingled with 9 other users’ deposits totaling 300 Bitcoins and were sent to an address in VERNON’s personal Coinbase account: 1UBXwWBGLtSmSLCCZs8MaTk44Q3L5H8u6 (5662e5d320aaf57e39f98c0823e54179785f1461a85e327cbac8e4e54861aa0a).
+FOOTNOTE3 The blockchain is the equivalent of a shared public ledger that includes all Bitcoin transactions so that traders can confirm that sellers actually own the Bitcoins being transacted.
+
+FOOTNOTE4 User A sent 20 Bitcoins (f18bda97c350c829fb40cdbb48ded0af1941159ee86190b2065a14ded797aa2e) and 8 additional Bitcoins (5a141f76a4ced439e681a95952a9a42dae584686d31929a989d7ba846fcc0fd7) to Cryptsy via deposit address of 13m1FqXBh9nrfsgMKPWncoDWvv6T6f2q5K.
+
+FOOTNOTE5 User A’s 28 BTC was then sent to VERNON’s personal Coinbase account at 14ETojkW9Jif1N5XzMRYhjhgGZUimn7e3j (0150f87f4a9771ca21df81f6cae2e917a88cd530d272529e2a23f76be113ca9a).
+
+FOOTNOTE6 User B sent 100 Bitcoins (703f79f29df6d3932e257011418873255a2f0776afbdc4f59df502ee7640cf77) to Cryptsy via deposit address of: 12go4DtJ33UtK2zYXJ2P5nPVPjyhhRSHH9.
+
+FOOTNOTE User B’s 100 Bitcoins were commingled with 9 other users’ deposits totaling 300 Bitcoins and were sent to an address in VERNON’s personal Coinbase account: 1UBXwWBGLtSmSLCCZs8MaTk44Q3L5H8u6 (5662e5d320aaf57e39f98c0823e54179785f1461a85e327cbac8e4e54861aa0a).
+
 - 13 -
 SILVER LAW GROUP
 11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 www.silverlaw.com
