@@ -173,7 +173,9 @@ Defying the Quebec Tribunal's Iniunctions,Defendants Continue to Market the Plex
 the "solid experience"of"team members." 
 
 71. The PlexCoin Whitepaper insisted that the identity ofPlexCorps'"executives"
-would remain hidden to protect"our projects' security" and to avoid poaching by competitors. 72. The PlexCoin Whitepaper stated that PlexCorps'"offices are currently based at
+would remain hidden to protect"our projects' security" and to avoid poaching by competitors. 
+
+72. The PlexCoin Whitepaper stated that PlexCorps'"offices are currently based at
 the heart ofSingapore" with a team "located all over the world."
 
 
