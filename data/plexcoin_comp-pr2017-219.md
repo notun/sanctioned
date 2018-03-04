@@ -205,7 +205,9 @@ maintenance meant that a "team will remain on the lookout for PlexCoin's value f
 
 86. Nor did Defendants conceal the identity ofthe individuals behind the project for reasons related to security or to avoid competition—they did so, upon information and belief, because ofLacroix's status as a recidivist securities law violator in Canada. By purposefully failing to disclose Lacroix's involvement with PlexCoin,Lacroix and PlexCorps also knowingly omitted material facts required to make their statements about the secrecy ofPlexCorps' executives not misleading.
 
-87. A reasonable investor would want to know that a repeated securities law violator such as Lacroix was behind the PlexCoin ICO, a fact that Defendants understood well.
+
+  NUMBER 87 A reasonable investor would want to know that a repeated securities law violator such as Lacroix was behind the PlexCoin ICO, a fact that Defendants understood well.
+
 
 Defendants Fraudulently Attempt to Conceal Lacroix^s Involvement with PlexCoin
 
