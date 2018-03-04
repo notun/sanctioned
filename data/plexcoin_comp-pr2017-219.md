@@ -441,12 +441,20 @@ XI.
 
 Such other and further relief as this Court deems appropriate and necessary for the benefit of investors.
 
-Dated:New York,New York December 1,2017
+Dated: New York,New York
+December 1,2017
 
 SECURITIES AND EXCHANGE COMMISSION
-By:
-Robert A.Cohen
-Valerie A.Szczepanik Jorge 0.Tenreiro Daphna Waxman
-David H.Tutor
-200 Vesey Street, Suite 400 New York,New York 10281-1022 (212)336-9145(Tenreiro) Email: TenreiroJ@sec.gov Attorneys for Plaintiff
+By:     
+Robert A.Cohen     
+Valerie A.Szczepanik     
+Jorge 0.Tenreiro     
+Daphna Waxman     
+David H.Tutor     
+
+200 Vesey Street, Suite 400     
+New York,New York 10281-1022     
+(212)336-9145(Tenreiro)     
+Email: TenreiroJ@sec.gov     
+Attorneys for Plaintiff     
 
