@@ -663,11 +663,13 @@ COINBASE breached those duties by failing to: (a) perform its obligations, inclu
 
 164. As a direct and proximate cause of COINBASE’s conduct, Plaintiffs and the Class Members have been damaged. 
 
-COUNT IV – UNJUST ENRICHMENT [Class Plaintiffs against Defendant] 
+COUNT IV – UNJUST ENRICHMENT 
+[Class Plaintiffs against Defendant] 
+
 Class Plaintiffs re-allege, and adopt by reference herein, Paragraphs 1-143 and 149-150 above, and further allege: 
-165. Class Plaintiffs and the proposed Class conferred a benefit upon COINBASE by 
-depositing valuable cryptocurrency into CRYPTSY’s care, which COINBASE knew or should of 
-known was being stolen by VERNON and CRYPTSY and liquidated at COINBASE for the benefit of VERNON. 
+
+165. Class Plaintiffs and the proposed Class conferred a benefit upon COINBASE by depositing valuable cryptocurrency into CRYPTSY’s care, which COINBASE knew or should of known was being stolen by VERNON and CRYPTSY and liquidated at COINBASE for the benefit of VERNON.
+
 166. 
 As a result of COINBASE’s unfair, misleading, and unlawful conduct alleged herein, COINBASE has unjustly received and retained benefits at the expense of Class Plaintiffs and the proposed Class. 
 
@@ -678,15 +680,14 @@ Under principles of equity and good conscience, COINBASE should not be permitted
 Class Plaintiff and the proposed Class have suffered financial loss as a direct and proximate result of COINBASE’s conduct. 
 
 
--32 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
 169. Class Plaintiffs and proposed Class Members are entitled to restitution of, disgorgement of, and/or the imposition of a constructive trust upon all profits, benefits, and other compensation obtained by COINBASE and for such other relief that this Court deems proper. 
 
 COUNT V – AIDING AND ABETTING BREACH OF FIDUCIARY DUTY [Receiver against Defendant] 
+
 Receiver re-alleges, and adopts by reference herein, Paragraphs 1-114 and 144-150 above, and further alleges: 
+
 170. CRYPTSY breached its fiduciary duties to Receiver as set forth above. 
+
 171. 
 COINBASE knew that CRYPTSY owed fiduciary and other obligations to Receiver. 
 
@@ -696,13 +697,8 @@ COINBASE knew that CRYPTSY was breaching its fiduciary and other obligations to 
 173. 
 With such knowledge, COINBASE knowingly participated, aided and abetted, and otherwise substantially assisted to bring about CRYPTSY’s breach of fiduciary obligations. 
 
+174. COINBASE rendered substantial and knowing assistance to CRYPTSY in its breach of fiduciary duties by, among other things: (a) providing monetary services to CRYPTSY and CRYPTSY’s users, (b) disregarding overtly suspicious activity indicative of misconduct, (c) clearing exorbitant amounts of cryptocurrency for CRYPTSY that put CRYPTSY among COINBASE’s highest volume users, (d) failing to report to governmental and regulatory authorities incidents of excessive activity in CRYPTSY’s COINBASE account, (e) vouching for CRYPTSY in letters while withholding the fact that CRYPTSY was mishandling CRYPTSY investor funds, and (f) sitting silently while CRYPTSY made numerous false and misleading material omissions related to the funds custodised by CRYPTSY for its account holders --including Receiver --knowing that Receiver would rely on those material omissions to their detriment. 
 
-174. COINBASE rendered substantial and knowing assistance to CRYPTSY in its breach of fiduciary duties by, among other things: (a) providing monetary services to CRYPTSY and CRYPTSY’s users, (b) disregarding overtly suspicious activity indicative of misconduct, (c) clearing exorbitant amounts of cryptocurrency for CRYPTSY that put CRYPTSY among COINBASE’s highest volume users, (d) failing to report to governmental and regulatory authorities incidents of excessive activity in CRYPTSY’s COINBASE account, (e) vouching for CRYPTSY in letters while withholding the fact that CRYPTSY was mishandling CRYPTSY investor funds, and (f) sitting silently while CRYPTSY made numerous false and misleading material omissions related to the funds custodised by CRYPTSY for its account holders -
--33 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-including Receiver --knowing that Receiver would rely on those material omissions to their detriment. 
 175. 
 COINBASE’s wrongful conduct was done purposefully and maliciously or recklessly, without regard for the rights and interests of Receiver. 
 
@@ -711,15 +707,16 @@ As a direct and proximate cause of COINBASE’s conduct, Receiver has been damag
 
 
 
-COUNT VI – AIDING AND ABETTING CONVERSION [Receiver against Defendant] 
+COUNT VI – AIDING AND ABETTING CONVERSION
+ [Receiver against Defendant] 
+
 Receiver re-alleges, and adopts by reference herein, Paragraphs 1-114 and 144-150 above, and further alleges: 
+
 177. 
 VERNON asserted dominion and control over the propertyof CRYPTSY’s account holders by misappropriating and then liquidating for his own personal use and benefit through the COINBASE accounts maintained by CRYPTSY and VERNON assets belonging to CRYPTSY account holders. 
 
 178. 
-COINBASE had actual and/or constructive knowledge of CRYPTSY and VERNON’s acts in misappropriating CRYPTSY customer assets by virtue of the suspicious, excessive, and unverifiable activity which was transacted through CRYPTSY and VERNON’s 
-
-accounts at COINBASE. 
+COINBASE had actual and/or constructive knowledge of CRYPTSY and VERNON’s acts in misappropriating CRYPTSY customer assets by virtue of the suspicious, excessive, and unverifiable activity which was transacted through CRYPTSY and VERNON’s accounts at COINBASE. 
 
 179. 
 COINBASE rendered substantial assistance to CRYPTSY and VERNON by ignoring its own internal policies and procedures and by violating the federal regulations with which COINBASE, as a Money Services Business, had to comply, as more fully identified above. 
@@ -727,15 +724,12 @@ COINBASE rendered substantial assistance to CRYPTSY and VERNON by ignoring its o
 180. 
 As a direct and proximate cause of COINBASE’s conduct, Receiver has been damaged. 
 
-
--34 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-
-COUNT VII – NEGLIGENCE [Receiver against Defendant] 
+COUNT VII – NEGLIGENCE 
+[Receiver against Defendant] 
 Receiver re-alleges, and adopts by reference herein, Paragraphs 1-114 and 144-150 above, and further alleges: 
+
 181. COINBASE owed Receiver a duty of care to use reasonable care in performing its duties as a depositoryof CRYPTSY and VERNON’s accounts, including, amongother things, the duty to: (a) properly open, establish, and maintain CRYPTSY and VERNON’s accounts at COINBASE; (b) ensure that no unauthorized transfers or withdrawals from CRYPTSY and VERNON’s COINBASE accounts were implemented or paid; (c) monitor CRYPTSY and VERNON’s COINBASE accounts for excessive or suspicious activity; and (d) comply with all other reporting requirements applicable to CRYPTSY and VERNON’s COINBASE accounts under state and federal law. 
+
 182. 
 COINBASE breached those duties by failing to: (a) perform its obligations, including by failing to ensure that no unauthorized transfers or withdrawals from CRYPTSY and VERNON’s COINBASE accounts were implemented or paid; (b) acknowledge, report, and prevent misappropriation in CRYPTSY and VERNON’s COINBASE accounts through withdrawals and transfers; (c) conduct reasonable inquiry into the activities in CRYPTSY and VERNON’s COINBASE accounts even though aware of serious irregularities and excessive activity; and (d) failing to comply with all other reporting requirements applicable to CRYPTSY and VERNON’s COINBASE accounts under state and federal law. 
 
@@ -743,16 +737,14 @@ COINBASE breached those duties by failing to: (a) perform its obligations, inclu
 As a direct and proximate cause of COINBASE’s conduct, Receiver has been damaged. 
 
 
--35 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+COUNT VIII – UNJUST ENRICHMENT
+ [Receiver against Defendant] 
 
-COUNT VIII – UNJUST ENRICHMENT [Receiver against Defendant] 
-Receiver re-alleges, and adopts by reference herein, Paragraphs 1-114 and 144-150 above, and further alleges: 
+Receiver re-alleges, and adopts by reference herein, Paragraphs 1-114 and 144-150 above, and further alleges:
+
 184. Receiver and the proposed Class conferred a benefit upon COINBASE by 
-depositing valuable cryptocurrency into CRYPTSY’s care, which COINBASE knew or should of 
-known was being stolen by VERNON and CRYPTSY and liquidated at COINBASE for the benefit of VERNON. 
+depositing valuable cryptocurrency into CRYPTSY’s care, which COINBASE knew or should of known was being stolen by VERNON and CRYPTSY and liquidated at COINBASE for the benefit of VERNON. 
+
 185. 
 As a result of COINBASE’s unfair, misleading, and unlawful conduct alleged herein, COINBASE has unjustly received and retained benefits at the expense of Receiver. 
 
@@ -766,299 +758,71 @@ Receiver has suffered financial loss as a direct and proximate result of COINBAS
 Receiver is entitled to restitution of, disgorgement of, and/or the imposition of a constructive trust upon all profits, benefits, and other compensation obtained by COINBASE and for such other relief that this Court deems proper. 
 
 
-PRAYER FOR RELIEF WHEREFORE, Class Plaintiffs, individually and on behalf of all others similarly situated, and the Receiver, respectfully pray for relief as follows: 
-(a) A declaration from this Court that this action is a proper class action, including certification of the proposed Class, appointment of Class Plaintiffs as class representatives, and appointment of Class Plaintiffs’ counsel as class counsel; 
--36 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-(b) 
+PRAYER FOR RELIEF
+
+ WHEREFORE, Class Plaintiffs, individually and on behalf of all others similarly situated, and the Receiver, respectfully pray for relief as follows: 
+
+ * (a) A declaration from this Court that this action is a proper class action, including certification of the proposed Class, appointment of Class Plaintiffs as class representatives, and appointment of Class Plaintiffs’ counsel as class counsel; 
+
+* (b) 
 A judgment awarding Class Plaintiffs and the Class Members, and the Receiver, restitution, including, without limitation, disgorgement of all profits and unjust enrichment that Defendant obtained as a result of its unlawful, unfair, and unlawful business practices and conduct; 
 
-(c) 
+* (c) 
 A judgment awarding Class Plaintiffs and the Class Members, and the Receiver, actual compensatory damages; 
 
-(d) 
+* (d) 
 A judgment awarding Class Plaintiffs and the Class Members, and the Receiver, exemplary and punitive damages for Defendant’s knowing, willful, and intentional conduct; 
 
-(e) 
+* (e) 
 Pre-judgment and post-judgment interest; 
 
-(f) 
+* (f) 
 Attorneys’ fees, expenses, and the costs of this action; and 
 
-(g) 
+* (g) 
 All other and further relief as this Court deems necessary, just, and proper. 
 
 
 
-PLAINTIFFS’ DEMAND FOR JURY TRIAL 
-Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiffs and the Receiver 
-demand trial by jury in this action of all issues so triable. 
-Respectfully submitted, 
-SILVER LAW GROUP 
-11780 W. Sample Road Coral Springs, Florida 33065 Telephone: (954) 755-4799 Facsimile: (954) 755-4684 
+PLAINTIFFS’ DEMAND FOR JURY TRIAL
 
-Florida Bar No. 572764 E-mail: DSilver@silverlaw.com SCOTT L. SILVER Florida Bar No. 095631 E-mail: SSilver@silverlaw.com JASON S. MILLER Florida Bar No. 072206 E-mail: JMiller@silverlaw.com 
--and 
--37 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-WITES & KAPETAN, P.A. 4400 N. Federal Highway Lighthouse Point, Florida 33064 Telephone: (954) 570-8989 Facsimile: (954) 354-0205 MARC A. WITES Florida Bar No. 024783 E-mail: mwites@wklawyers.com 
-Counsel for Plaintiffs and James D. Sallah, Esq., as Receiver/Corporate Monitor of Project Investors, Inc. d/b/a Cryptsy 
-Dated: December 13, 2016 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiffs and the Receiver demand trial by jury in this action of all issues so triable. 
 
-UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA 
-Case No. 9:16-cv-80060-MARRA 
-BRANDON LEIDEL, individually, and MICHAEL WILSON, individually, and on behalf of All Others Similarly Situated, 
-Plaintiffs, 
-v. 
-PROJECT INVESTORS, INC. d/b/a CRYPTSY, a Florida corporation, PAUL VERNON, individually, and LORIE ANN NETTLES, individually, 
-Defendants. ______________________________________________/ 
+Respectfully submitted,     
+SILVER LAW GROUP      
+11780 W. Sample Road     
+Coral Springs, Florida 33065     
+Telephone: (954) 755-4799     
+Facsimile: (954) 755-4684     
 
-ORDER GRANTING PLAINTIFFS’ RENEWED MOTION 
-FOR APPOINTMENT OF JAMES D. SALLAH, ESQ. AS RECEIVER/CORPORATE MONITOR OVER DEFENDANT, PROJECT INVESTORS, INC. d/b/a CRYPTSY WHEREAS, Plaintiffs, BRANDON LEIDEL and MICHAEL WILSON, individually, and on behalf of all others similarly situated (collectively “Plaintiffs”), have filed a Renewed Motion for Appointment of James D. Sallah, Esq. as Receiver/Corporate Monitor over Defendant, Project Investors, Inc. d/b/a Cryptsy [DE 18] (the “Motion”); WHEREAS, a receiver or corporate monitor is requested with full and exclusive power, duty and authority to administer and manage the business affairs, funds, assets, choses in action and any other property of Project Investors, Inc. d/b/a Cryptsy (“Cryptsy”); marshal and safeguard all of Cryptsy’s assets; and take whatever actions are necessary for the protection of 
-Cryptsy investors and customers; 
-WHEREAS, Plaintiffs have submitted the credentials of a candidate to be appointed as 
-receiver or corporate monitor for Cryptsy, including its assets, properties, books and records and 
+SIGNATURE 
 
-Case No. 9:16-cv-80060-MARRA 
-other items of Cryptsy as described below, and the candidate is prepared to assume this responsibility if so ordered by this Court; 
-WHEREAS, this Court has subject matter jurisdiction over this action and personal jurisdiction over Cryptsy.  Venue properly lies in this Court; 
-WHEREAS, Defendants Project Investors Inc., d/b/a Cryptsy and Lorie Ann Nettles have been served with process and have appeared in this case or have been defaulted as of this Order; while Defendant Paul Vernon, individually, has not been yet served or appeared; 
-WHEREAS, this Court conducted a hearing on the Motion on March 28, 2016, at which time Defendant, Lorie Ann Nettles, through counsel, represented that she has no objection to the Motion or the appointment of a receiver or corporate monitor; 
-WHEREAS, Plaintiffs have made a sufficient and proper showing in support of the Motion and the appointment of a receiver or corporate monitor; and 
-IT IS THEREFORE ORDERED AND ADJUDGED as follows: 
+DAVID C. SILVER
+Florida Bar No. 572764
+E-mail: DSilver@silverlaw.com
 
-I. Appointment of Receiver/Corporate Monitor 
-1. The appointment of a receiver or corporate monitor for Cryptsy is appropriate. 
-2. Until further Order of this Court, James D. Sallah, Esq. is hereby approved and appointed to serve as the Receiver/Corporate Monitor (interchangeably referred to herein as “Receiver” or “Corporate Monitor” or “Receiver/Corporate Monitor”) for Cryptsy and its subsidiaries, successors and assigns. 
-II. Asset Freeze 
-3. This Court hereby takes exclusive jurisdiction and possession of the assets, of whatever kind and wherever situated, of Cryptsy for the purpose of preserving its assets. 
-Case No. 9:16-cv-80060-MARRA 
-4. Except as otherwise specified herein, all assets of Cryptsy are frozen until further Order of this Court. Accordingly, all persons and entities with direct or indirect control over any assets of Cryptsy, other than the Receiver, are hereby restrained and enjoined from directly or indirectly transferring, setting off, receiving, changing, selling, pledging, assigning, liquidating, or otherwise disposing of, or withdrawing, such assets. This freeze shall include, but not be limited to, assets of Cryptsy that are on deposit with financial institutions such as banks, cryptocurrency exchanges, clearing firms or any other third party. 
+SCOTT L. SILVER 
+Florida Bar No. 095631
+E-mail: SSilver@silverlaw.com
 
-III. General Powers and Duties 
-5. The Receiver shall have all powers, authorities, rights and privileges heretofore possessed by the officers or directors of Cryptsy under applicable state and federal law, as well as by Cryptsy’s governing charters, by-laws, articles and/or agreements. 
-6. The powers of the officers, directors, employees, and agents of Cryptsy are 
-hereby suspended. Such persons and entities shall have no authority with respect to Cryptsy’s 
-operations or assets, except to the extent as may hereafter be expressly granted by the Receiver. The Receiver shall assume and control the operations of Cryptsy and shall pursue and preserve all of its claims. 
-7. No person holding or claiming any position of any sort with Cryptsy shall possess any authority to act by or on behalf of Cryptsy, unless so instructed by the Receiver. 
-8. The Receiver shall have the following general powers and duties: 
-A. Use reasonable efforts to determine the nature, location and value of all property interests of Cryptsy, including, but not limited to, cryptocurrencies, monies, funds, securities, credits, effects, goods, chattels, lands, premises, leases, claims, rights and other assets, together with all rents, profits, dividends, interest or other income attributable thereto, of whatever kind, which Cryptsy owns, possesses, has a beneficial interest in, or controls directly or indirectly; 
-Case No. 9:16-cv-80060-MARRA 
-B. Immediately take custody, control and possession of all of Cryptsy’s property and records relevant thereto; to sue for and collect, recover, receive and take into possession from third parties all property of Cryptsy and records relevant thereto; 
-C. Manage, control, operate and maintain Cryptsy and hold in his possession, custody and control all property of Cryptsy, pending further Order of this Court; 
-D. Use property of Cryptsy, making payments and disbursements and incurring expenses as may be necessary or advisable in the ordinary course of business in discharging his duties as Receiver in maintaining the ordinary operations of Cryptsy; 
-E. Take any action which, prior to the entry of this Order, could have been taken by the officers, directors, employees, and agents of Cryptsy with respect to maintaining its ordinary operations; 
-F. Continue the normal operations of Cryptsy or alternatively to suspend, wind down or stop its operations; 
-G. Take such action as necessary and appropriate for the preservation of property of Cryptsy or to prevent the dissipation or concealment of property of Cryptsy; 
-H. Pursue, resist and defend all suits, actions, claims and demands which may now be pending or which may be brought by or asserted against Cryptsy; 
-I. Take immediate and exclusive custody, control and possession of all cryptocurrencies, monies, funds, property, and other assets in the possession of, or under the control of, Cryptsy, wherever situated that the Receiver has a reasonable basis to believe is related to this action. The Receiver shall have full power to sue for, collect, receive and take possession of all goods, chattels, rights, credits, moneys, effects, land, leases, books, records, work papers, and records of accounts, including computer-maintained information and digital data and other papers and documents. Title to all of the above items wherever located are vested by operation of law in the Receiver; 
-J. Enter and inspect the business premises of Cryptsy and to take documents or other property related to Cryptsy; 
-K. Preserve, hold and manage all receivership assets, and perform all acts necessary to preserve the value of those assets, in order to prevent any loss, damage or injury to investors or customers of Cryptsy; 
-L. Prevent the withdrawal or misapplication of funds entrusted to Cryptsy, and otherwise protect the interests of investors or customers of Cryptsy; 
-M. Collect all money owed to Cryptsy; 
-Case No. 9:16-cv-80060-MARRA 
-N. Initiate, defend, compromise, adjust, intervene in, dispose of, or become a party to any lawsuits or arbitrations in state, federal or foreign jurisdictions necessary to preserve or increase the assets of Cryptsy and/or on behalf of Cryptsy and for the benefit of its investors and customers against: (1) those individuals and/or entities which the Receiver may claim have wrongfully, illegally or otherwise improperly misappropriated, transferred or received any assets, properties, monies, proceeds or other items of value directly or indirectly traceable from Cryptsy, including Cryptsy and its officers, directors, employees, agents or any persons acting in concert or participation with them; or (2) any transfers of assets, properties, monies, proceeds or other items of value directly or indirectly traceable from Cryptsy investors or customers. Such actions may include, but not be limited to, seeking imposition of constructive trusts, seeking imposition of equitable liens, disgorgement of profits, recovery and/or avoidance of fraudulent transfers under Florida Statute § 726.101, et. seq. or otherwise, rescission and restitution, the collection of debts, and such Orders or other relief supported in law or equity from this Court as may be necessary to enforce this Order; 
-O. Request permission from this Court to extend the receivership over any person or entity who received transfers of assets, properties, monies, proceeds or other items of value derived from Cryptsy or its investors or customers and to give the Receiver possession of such; 
-P. Choose, engage, and employ attorneys, accountants and other reasonable agents or professionals, as the Receiver deems advisable or necessary in the performance of his duties and responsibilities. The Receiver and his professionals shall be entitled to reasonable compensation from the assets now held by Cryptsy or ultimately secured by the Receiver. Said compensation shall be commensurate with their duties and obligations under the circumstances, subject to approval of this Court; 
-Q. Issue subpoenas to obtain documents pertaining to the receivership and conduct discovery in this action on behalf of the receivership estate. The Receiver is authorized to take expedited discovery from parties and nonparties. Parties shall produce documents, answer interrogatories and/or answer requests for admissions within seven (7) calendar days of service of the Receiver’s discovery requests.  Parties shall sit for deposition within seven (7) calendar days of the Receiver’s notice. The Receiver is authorized to serve subpoenas on nonparties through electronic means (including electronic mail and/or facsimile transmission), U.S. Mail, Federal Express, other commercial overnight service, or personal service to expedite the requested discovery. Documents from nonparties shall be produced to the Receiver within three (3) calendar days of service of the subpoena. Nonparties shall sit for deposition within five (5) calendar days of the Receiver’s notice; 
-R. Open one or more bank account or any other type of account as designated depositories for funds of Cryptsy. The Receiver shall deposit all funds of Cryptsy in such designated accounts and shall make all payments and disbursements from the 
-Case No. 9:16-cv-80060-MARRA 
-receivership estate from such accounts. The Receiver is authorized to invest receivership funds in U.S. Treasury securities, money market funds or other interest-
-bearing accounts as appropriate in the Receiver’s judgment; 
-S. Make payments and disbursements from the receivership estate that are necessary or advisable for carrying out the directions of, or exercising the authority granted by, this Order; 
-T. Close out all outstanding positions and/or hold such assets without further Order; 
-U. Close, disable or otherwise shut down Cryptsy’s current website and re-direct to, or create, a new website for purposes of the receivership; 
-V. Advise this Court should it be determined that additional powers are necessary to protect the interests of Cryptsy or for the benefit of its investors and customers under the circumstances; and 
-W. Take such other action as may be approved by this Court. 
+JASON S. MILLER 
+Florida Bar No. 072206
+E-mail: JMiller@silverlaw.com
 
-IV. Access to Information 
-9. 
-Cryptsy and its past and/or present officers, directors, employees and agents, as well as those acting in its place, are hereby ordered and directed to preserve and turn over to the Receiver forthwith all paper and electronic information of, and/or relating to, Cryptsy and/or its property; such information shall include, but not be limited to, books, records, documents, accounts, electronically stored information, passcodes, and all other instruments and papers. 
-
-10. 
-Cryptsy’s past and/or present officers, directors, employees and agents, and other appropriate persons or entities, shall answer under oath to the Receiver all questions which he may put to them and produce all documents as required by him regarding the business of Cryptsy, or any other matter relevant to the operation or administration of Cryptsy. 
-
-V. Access to Books, Records and Accounts 
-
-11. 
-The Receiver is authorized to take immediate possession of any and all accounts, including financial accounts, books and records, electronically stored information, passcodes, and all other documents or instruments relating to Cryptsy. 
+-and-
 
 
-Case No. 9:16-cv-80060-MARRA 
-12. 
-Any persons receiving notice of this Order by personal service, electronic mail, facsimile transmission, or otherwise, having possession of the property, business, books, records, accounts, electronically stored information, passcodes, or assets of Cryptsy are hereby directed to immediately deliver the same to the Receiver, his agents, his attorneys and/or his employees. 
+WITES & KAPETAN, P.A.
+4400 N. Federal Highway
+Lighthouse Point, Florida 33064 
+Telephone: (954) 570-8989
+Facsimile: (954) 354-
+MARC A. WITES
+Florida Bar No. 024783
+E-mail: mwites@wklawyers.com 
 
-13. 
-All banks, cryptocurrency exchanges, clearing firms, financial institutions, and other persons or entities which have possession, custody or control of any assets, cryptocurrencies, monies, funds or accounts held by, in the name of, or for the benefit of, directly or indirectly, Cryptsy that receive actual notice of this Order by personal service, electronic mail, facsimile transmission or otherwise shall: 
+Counsel for Plaintiffs and James D. Sallah, Esq.,
+as Receiver/Corporate Monitor of Project Investors, Inc.
+d/b/a Cryptsy 
 
-A. Not liquidate, transfer, sell, convey or otherwise transfer any assets, cryptocurrencies, monies, funds, and/or accounts in the name of Cryptsy or for the benefit of its investors and customers, except upon instructions from the Receiver; 
-B. Not exercise any form of set-off, alleged set-off, lien, or any form of self-help whatsoever, or refuse to transfer any assets, cryptocurrencies, monies, funds, and/or accounts to the Receiver’s control without the permission of this Court; and 
-C. Cooperate expeditiously in providing information and assets, cryptocurrencies, monies, funds, and/or accounts to the Receiver or at the direction of the Receiver. 
-VI. Access to Personal Property 
-
-14. 
-The Receiver is authorized to take immediate possession of all personal property of Cryptsy, wherever located, including, but not limited to, electronically stored information, passcodes, computers, laptops, hard drives, external storage drives, and any other such memory, media or electronic storage devices, books, papers, data processing records, evidence of indebtedness, bank records and accounts, cryptocurrency exchange records and accounts, clearing firm records and accounts, savings records and accounts, brokerage records and accounts, cryptocurrencies, certificates of deposit, stocks, bonds, debentures, investments, 
-
-
-Case No. 9:16-cv-80060-MARRA 
-contracts, mortgages, furniture, office supplies and equipment. All records of Cryptsy shall be made available to the Receiver. 
-15. 
-The Receiver is authorized to open all mail --including electronic mail --directed to or received by or at the offices or post office boxes of Cryptsy, and to inspect all mail opened prior to the entry of this Order, to determine whether items or information therein fall within the mandates of this Order. 
-
-16. 
-The Receiver may seek the assistance of any Sheriff or the United States Marshal Service, in any judicial district, to assist the Receiver in carrying out his duties to take possession, custody and control of, or identify the location of, any assets, cryptocurrencies, monies, funds, accounts, records, electronically stored information, or other materials belonging to Cryptsy to the extent any Sheriff or the United States Marshal may be authorized to carry out such actions. The Receiver shall pay any fees or charges required by any Sheriff or the United States Marshal to perform such actions. 
-
-VII. Delivery to Receiver 
-
-17. 
-Immediately upon service of this Order upon them, Defendants and any other person or entity served with a copy of this Order shall, immediately or within such time as permitted by the Receiver in writing, deliver over to the Receiver: 
-
-
-A. Possession and custody of all assets, cryptocurrencies, monies, funds and/or accounts belonging to Cryptsy, its investors, or its customers; 
-B. Possession and custody of documents of Cryptsy, including, but not limited to, all books and records of accounts, all financial and accounting records, balance sheets, income statements, bank records (including monthly statements, canceled checks, records of wire transfers, and check registers), investor lists, loan documents, title documents, electronically stored information, and other papers; 
-C. All keys, computer passwords, entry codes, PIN numbers and combinations to locks necessary to gain or to secure access to any of the assets, cryptocurrencies, monies, funds, accounts and/or documents of Cryptsy, including, but not limited 
-Case No. 9:16-cv-80060-MARRA 
-to, access to business premises, means of communication, accounts, computer systems, websites, or other property; and 
-D. Information identifying the accounts, employees, properties or other assets or obligations of Cryptsy. 
-VIII. Cooperation with Receiver 
-18. Defendants, their officers, directors, employees and agents, and all other persons or entities served with a copy of this Order, shall cooperate fully with and assist the Receiver in the performance of the Receiver’s duties. This cooperation and assistance shall include, but not be limited to, providing any information to the Receiver that the Receiver deems necessary to exercising the authority and discharging the responsibilities of the Receiver under this Order; and advising all persons who owe money to Cryptsy that all debts should be paid directly to the Receiver. However, this requirement does not impinge on any person’s right to assert applicable privileges. 
-19. Any officers or directors of Cryptsy will be available to assist and advise the Receiver, but will not exercise their traditional functions or assume their traditional duties during the period that the Receiver is appointed.  
-IX. Accounting 
-20. Defendants who have access to the appropriate documents and records shall prepare, sign and submit to the Receiver, within thirty (30) calendar days, a complete and accurate accounting for the period of January 1, 2013 to the date of such accounting, which shall be no earlier than the date of this Order. Such accounting shall include, without limitation, the identification of: 
-A. All banks, financial and cryptocurrency institutions, including account numbers and passcodes/login information, which hold or have held cryptocurrencies, monies, funds, commodity interests, assets, liabilities, and other property 
-Case No. 9:16-cv-80060-MARRA 
-currently and previously owned or controlled (legally, equitably or otherwise) directly or indirectly by Cryptsy, whether individually or jointly; 
-B. All cryptocurrencies, monies, funds, commodity interests, real estate, assets, liabilities, and other property currently or previously owned or controlled (legally, equitably or otherwise) directly or indirectly by Cryptsy, whether individually or jointly; 
-C. All cryptocurrencies, monies, funds, commodity interests, real estate, assets, liabilities, and other property received directly or indirectly by Cryptsy, describing the source, amount, disposition, and current location of each listed item; 
-D. All cryptocurrencies, monies, funds, commodity interests, real estate, assets, liabilities, and other property transferred or otherwise disposed of directly or indirectly by Cryptsy, describing the source, amount, disposition, and current location of each listed item, including accounts or assets of Cryptsy held by any bank, cryptocurrency exchange, clearing firm, brokerage firm or other financial institution located inside and/or outside the territorial United States; 
-E. All investors and customers of Cryptsy, including name, address, telephone number and email, account number, deposit and withdrawal dates and amounts; and 
-F. The name and last known address of each bailee, debtor or other person or entity currently holding any cryptocurrencies, monies, funds, commodity interests, real estate, assets, liabilities, and other property owned or controlled (legally, equitably or otherwise) by Cryptsy, whether individually or jointly. 
-21. At a minimum, the accounting should also include a chronological schedule of all 
-cash receipts and cash disbursements.  In addition, each transaction shall be classified as business 
-or personal. All business transactions shall disclose the business purpose of the transaction. The 
-accounting shall be provided in an electronic format such as Quicken, Excel, or other accounting 
-or electronic format spreadsheet. In addition, Defendants shall supply true and accurate copies of 
-any balance sheets, income statements, statements of cash flow, or statements of ownership 
-equity previously prepared for Cryptsy’s business(es). 
-Case No. 9:16-cv-80060-MARRA 
-X. Notice to Third Parties 
-22. 
-The Receiver shall promptly give notice of his appointment as he deems necessary or advisable to effectuate the operation of his appointment. 
-
-23. 
-All persons and entities owing any obligation or debt to Cryptsy shall, until further ordered by this Court, pay all such obligations in accordance with the terms thereof to the Receiver and his receipt for such payments shall have the same force and effect as if Cryptsy had received such payment. 
-
-
-24. The Receiver is authorized to instruct the United States Postmaster to hold and/or reroute mail which is related, directly or indirectly, to the business, operations or activities of Cryptsy (the “Receiver’s Mail”), including all mail addressed to, or for the benefit of, Cryptsy. The Postmaster shall not comply with, and shall immediately report to the Receiver, any change of address or other instruction given by anyone other than the Receiver concerning the Receiver’s Mail. Cryptsy shall not open any of the Receiver’s Mail and shall immediately turn over such mail, regardless of when received, to the Receiver. All personal mail of any individual, and/or any mail appearing to contain privileged information, and/or any mail not falling within the mandate of the Receiver, shall be released to the named addressee by the Receiver. The foregoing instructions shall apply to any proprietor, whether individual or entity, of any private mail box, depository, business or service, or mail courier or delivery service, hired, rented or used by Cryptsy. Cryptsy shall not open a new mailbox, or take any steps or make any arrangements to receive mail in contravention of this Order, whether through the U.S. Mail, a private mail depository or courier service. 
-25. The Receiver is authorized to instruct Cryptsy’s website hosting company and ISP to hold and/or reroute any and all electronic mail which is related, directly or indirectly, to the 
-Case No. 9:16-cv-80060-MARRA 
-business, operations or activities of Cryptsy (the “Receiver’s Electronic Mail”), including all electronic mail addressed to, or for the benefit of, Cryptsy or any of Cryptsy’s officers, directors, 
-managers, agents or employees in their capacity as such for Cryptsy. The website hosting company and ISP shall not comply with, and shall immediately report to the Receiver, any change of Internet or e-mail address or other instruction given by anyone other than the Receiver 
-concerning the Receiver’s Electronic Mail. Cryptsy shall not open any of the Receiver’s 
-Electronic Mail and shall immediately turn over such electronic mail, regardless of when received, to the Receiver. All personal electronic mail of any individual, and/or any electronic mail appearing to contain privileged information, and/or any electronic mail not falling within the mandate of the Receiver, shall be released to the named addressee by the Receiver. The foregoing instructions shall apply to any proprietor, whether individual or entity, of any private electronic mail box, depository, business or service, or electronic mail service provider hired or used by Cryptsy. Cryptsy shall not open a new electronic mailbox, or take any steps or make any arrangements to receive electronic mail in contravention of this Order. 
-26. The Receiver is authorized to assert, prosecute and/or negotiate any claim under any insurance policy held by or issued on behalf of Cryptsy, its officers, directors, employees or agents, and to take any and all appropriate steps in connection with such policies. 
-XI. Injunction against Interference 
-27. Cryptsy and all persons receiving notice of this Order by personal service, electronic mail, facsimile transmission or otherwise, are hereby restrained and enjoined from directly or indirectly taking any action or causing any action to be taken, without the express written agreement of the Receiver, which would: 
-A. Interfere with the Receiver’s efforts to take control, possession, or management of any of Cryptsy’s property; such prohibited actions include, but are not limited to, 
-Case No. 9:16-cv-80060-MARRA 
-using self-help or executing or issuing or causing the execution or issuance of any court attachment, subpoena, replevin, execution, or other process for the purpose of impounding or taking possession of or interfering with or creating or enforcing a lien 
-upon any of Cryptsy’s property; 
-B. Hinder, obstruct or otherwise interfere with the Receiver in the performance of his duties; such prohibited actions include, but are not limited to, concealing, destroying or altering records or information; 
-C. Dissipate or otherwise diminish the value of any of Cryptsy’s property; such prohibited actions include, but are not limited to, releasing claims or disposing, 
-transferring, exchanging, assigning or in any way conveying any of Cryptsy’s 
-property, enforcing judgments, assessments or claims against Cryptsy or its property, attempting to modify, cancel, terminate, call, extinguish, revoke or accelerate (the due date), of any lease, loan, mortgage, indebtedness, security agreement or other agreement executed by Cryptsy or which otherwise affects any of its property; 
-D. Dissipate, withdraw, transfer, remove, dispose or conceal any cash, cashier’s checks, funds, assets or other property of, or within the custody, control or actual or constructive possession of Cryptsy, including, but not limited to, all funds, personal property, monies, funds, cryptocurrencies, or securities held in Cryptsy’s name, jointly or individually, whether held or maintained in safety deposit boxes, and including all funds on deposit in any bank, cryptocurrency exchange, clearing firm, brokerage firm or other financial institution, futures commission merchant, bank or savings and loan account held by, under the actual or constructive control, or in the name of Cryptsy, jointly or individually, funds or property of Cryptsy’s investors or customers, wherever located, whether held in the name of the Cryptsy, jointly or individually, or any other entity owned or controlled by Cryptsy, jointly or individually; 
-E. Destroy, mutilate, conceal, alter or dispose of, in any manner, any of the books and records, documents, correspondence, brochures, manuals, electronically stored data, tape records or other property of Cryptsy wherever located, including all such records concerning Cryptsy’s business operations; or 
-F. Interfere with or harass the Receiver, or interfere in any manner with the exclusive jurisdiction of this Court over Cryptsy. 
-28. Cryptsy, its officers, directors, employees and agents, and all other persons or 
-entities served with a copy of this Order, shall cooperate with and assist the Receiver in the 
-performance of his duties. 
-Case No. 9:16-cv-80060-MARRA 
-29. 
-The Receiver shall promptly notify this Court of any failure or apparent failure of any person or entity to comply in any way with the terms of this Order. 
-
-30. 
-The injunctive provisions of this Order shall be binding on Defendants, upon any person insofar as he or she is acting in the capacity of officers, directors, employees and agents, and upon any person who receives actual notice of this Order by personal service, electronic mail, facsimile transmission or otherwise, including Federal Express or other commercial overnight service. 
-
-XII. Directives to Financial Institutions 
-
-31. 
-Pending further Order of this Court, any bank, cryptocurrency exchange, clearing firm, brokerage firm or other financial institution, business entity, or person that holds, controls, or maintains custody of any cryptocurrencies, monies, funds, accounts, commodity interests, real estate, assets, liabilities, electronically stored information, and other property of any kind owned, controlled, managed, or held by, on behalf of, or for the benefit of Cryptsy, its investors or customers, or has held, controlled, or maintained custody of any cryptocurrencies, monies, funds, accounts, commodity interests, real estate, assets, liabilities, and other property of any kind owned, controlled, managed, or held by, on behalf of, or for the benefit of Cryptsy, its investors or customers at any time since, shall: 
-
-
-A. Provide immediate access to the Receiver of: (a) the identification number of each and every such account or asset titled in the name, individually or jointly, of Cryptsy, or owned, controlled, managed, or held by, on behalf of, or for the benefit of Cryptsy, its investors or customers; (b) the balance of each such account, or a description of the nature and value of such asset as of the close of business on the day on which this Order is served, and, if the account or other asset has been closed or removed, the date closed or removed, the total funds removed in order to close the account, and the name of the person or entity to whom such account or other asset was remitted; and (c) the identification of any safe deposit box that is either titled in the name, individually or jointly, of Cryptsy or is otherwise subject to access by Cryptsy; and 
-Case No. 9:16-cv-80060-MARRA 
-B. Copies of all records or other documentation pertaining to such account or asset, including, but not limited to, originals or copies of account applications, account statements, signature cards, checks, drafts, deposit tickets, transfers to and from the accounts, all other debit and credit instructions or slips, currency transactions reports, 1099 forms, and safe deposit box logs; 
-C. Prohibit Defendants and any person other than the Receiver from withdrawing, removing, assigning, transferring, pledging, encumbering, disbursing, dissipating, converting, selling or otherwise disposing of any such asset except as directed by further Order of this Court; 
-D. Deny Defendants and any person other than the Receiver access to any safe deposit box that is titled in the name of Cryptsy, either individually or jointly; or otherwise subject to access by the Defendants; and 
-E. Cooperate with all reasonable requests of the Receiver relating to implementation of this Order, including producing records related to Cryptsy’s accounts and business(es). 
-XIII. Managing Assets 
-32. The Receiver may establish one or more custodial accounts at a federally insured bank to receive and hold all funds of Cryptsy. Such deposit accounts shall be titled in the 
-Receiver’s name. 
-XIV. Conflicts of Interest 
-33. The Receiver has a continuing duty to ensure that there are no conflicts of interest between himself and Cryptsy. 
-XV. Limitations on Liability of Receiver and His Agents 
-34. 
-Until further Order of this Court, the Receiver shall not be required to post bond or give an undertaking of any type in connection with his fiduciary obligations in this matter. 
-
-35. 
-The Receiver and all persons hired by Receiver are entitled to rely on all outstanding rules of law and Orders, and shall not be liable to anyone for their own good faith compliance with any Order, rule, law, judgment or decree. In no event shall the Receiver or 
-
-
-Case No. 9:16-cv-80060-MARRA 
-persons hired by Receiver be liable to anyone (1) with respect to the performance of their duties and responsibilities as Receiver or persons hired by Receiver, or (2) for any actions taken or omitted by them, except upon a finding by this Court that they acted or failed to act as a result of malfeasance, bad faith, gross negligence, or in reckless disregard of their duties. Nothing in this provision is intended to provide a defense against liability for any actions taken by Defendants or their personnel prior to the appointment of the Receiver. 
-36. 
-This Court shall retain jurisdiction over any action filed against the Receiver or his agents based upon acts or omissions committed in their representative capacities. 
-
-37. 
-In the event the Receiver decides to resign, he shall first give written notice to Plaintiffs’ counsel of record and this Court of his intention, and the resignation shall not be effective until this Court appoints a successor Receiver. The Receiver shall then follow such instructions as this Court may provide. 
-
-XVI. Recommendations and Reports 
-
-38. 
-Upon his appointment, the Receiver shall perform an assessment of the viability of Cryptsy as a going business enterprise and options and alternatives for its future. 
-
-39. 
-Within thirty (30) calendar days of the entry date of this Order, the Receiver shall file with this Court and serve on the parties a report of his conclusions and recommendations. 
-
-40. 
-The Receiver shall maintain written accounts, itemizing receipts and expenditures, describing properties held or managed, and naming the depositories of receivership funds; make such written accounts and supporting documentation available to Plaintiffs and other Cryptsy investors and customers for inspection, and, within ninety (90) calendar days of his first report and every ninety (90) calendar days thereafter file with this Court and serve on the 
-
-
-Case No. 9:16-cv-80060-MARRA 
-parties a report summarizing efforts to marshal and collect assets, administer the receivership estate, and otherwise perform the duties mandated by this Order.  
-XVII. Fees, Expenses, and Accountings 
-41. 
-The Receiver need not obtain Court approval prior to the disbursement of Cryptsy’s funds for expenses in the ordinary course of the administration and management of Cryptsy.  Further, prior Court approval is not required for payments of applicable federal, state or local taxes. 
-
-42. 
-The Receiver and all professionals he retains are entitled to compensation deemed to be reasonable and appropriate for their work. The Receiver’s standard hourly rate is currently $400-$500, and the Receiver is approved for an hourly rate of $400 in this matter. The Receiver is authorized to file motions to employ professionals, such as attorneys and/or accountants, whose rates will be disclosed in same. 
-
-
-43. The Receiver and his professionals, such as attorneys and/or accountants, shall file a periodic fee application for payment of reasonable fees and reimbursement of actual incurred costs. The fee/cost applications shall be filed at a time that the Receiver deems appropriate in his discretion. The Receiver and his professionals shall include in the fee/cost applications their statements for services for the relevant months of work and shall serve same on counsel for parties in this action. Both the Receiver’s and his professionals’ statements shall contain itemized time entries with the daily hours spent on receivership matters. 
-44. The compensation of the Receiver and his professionals shall be entitled to priority as administrative expenses. The Receiver shall not increase the hourly rates used as the bases for such fee applications without prior approval of this Court. 
-Case No. 9:16-cv-80060-MARRA 
-XIII. Service of This Order 
-45. Copies of this Order may be served by any means, including by way of personal service, Federal Express or other commercial overnight service, electronic mail or facsimile transmission, upon any financial institution or any other entity or any other person that may have possession, custody, or control of any documents or assets of Cryptsy or that may be subject to any provision of this Order. The Receiver and his agents are hereby specially appointed to serve process, and/or effectuate service of process, including this Order and all other papers in this cause. 
-XIX. Preservation of Rights and Privileges 
-46. Nothing in this Order shall be construed to require that any Defendants abandon or waive any constitutional or legal privilege which they may have available to them. 
-XX. No Bond 
-47. The Receiver is appointed without bond. 
-XXI. Court Maintains Jurisdiction 
-48. This Order shall remain in full force and effect during the pendency of this case, or until further Order of this Court, upon application, notice and an opportunity to be heard, and that this Court retains jurisdiction of this matter for all purposes related to this action. 
-DONE AND ORDERED in Chambers at West Palm Beach, Florida, this 4th day of March, 2016. 
-
-KENNETH A. MARRA United States District Judge 
-Case No. 9:16-cv-80060-MARRA 
-Copies to: Counsel and parties of record 
-
-
-
-
+Dated: December 13, 2016
