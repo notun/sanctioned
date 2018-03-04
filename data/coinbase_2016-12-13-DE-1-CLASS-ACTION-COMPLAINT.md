@@ -408,26 +408,23 @@ COINBASE not only would have been able to verify the source and destination of e
 Vernon told COINBASE that he derived his funds from mining activities; however, none of the transactions within 35 links of funds in the DUkm wallet were mined coins. 
 
 105. 
-Freshly mined Bitcoins appear in the blockchain with the identifying label “No Inputs (Newly Generated Coins)” as follows14: 
+Freshly mined Bitcoins appear in the blockchain with the identifying label “No Inputs (Newly Generated Coins)” as follows FOOTNOTE14: 
+
+DIAGRAM
 
 
+FOOTNOTE14 None of the coins listed below were involved in any transaction alleged. The transaction is simply included as a demonstration to disprove VERNON’s patently false statements. 
 
-14 None of the coins listed below were involved in any transaction alleged. The transaction is 
-simply included as a demonstration to disprove VERNON’s patently false statements. 
--22 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
 106. 
 Every transaction COINBASE received from VERNON into a COINBASE wallet could have been researched and evaluated as demonstrated above. 
 
 107. 
 It was not reasonable, during the time VERNON was moving Bitcoin into the VERNON COINBASE WALLET, for COINBASE to believe that the transactions it received were a result of anything other than aggregated account sweeps from CRYPTSY customers in light of the fact that COINBASE knew that VERNON controlled CRYPTSY account funds. 
 
-
-
 Coinbase Quietly Terminated Cryptsy and Vernon’s Accounts 
+
 108. In October 2015, a media report asserted that the U.S. Securities and Exchange Commission, the Internal Revenue Service, FinCEN, the Department of Homeland Security, and other governmental agencies had officially launched multiple investigations into CRYPTSY’s business operations under heightened suspicions that CRYPTSY was engaged in a wide-spread fraudulent scheme for inappropriately gained licenses, market manipulation, selling unlicensed securities, money laundering, and many other financial violations. 
+
 109. 
 In response to the information set forth in the article, COINBASE inquired of CRYPTSY and VERNON whether the allegations were true. 
 
@@ -435,27 +432,22 @@ In response to the information set forth in the article, COINBASE inquired of CR
 Despite CRYPTSY and VERNON’s denial of the allegations, COINBASE quietly terminated CRYPTSY and VERNON’s accounts within days of the media report’s release. 
 
 
-111. COINBASE did not disclose to any of the governmental authorities purportedly 
-investigating CRYPTSY the results of COINBASE’s own investigation into the allegations in the 
-article. 
+111. COINBASE did not disclose to any of the governmental authorities purportedly investigating CRYPTSY the results of COINBASE’s own investigation into the allegations in the article. 
+
 112. COINBASE also made no public statement that it had repudiated its relationship with CRYPTSY and VERNON or that it had reported to the governmental authorities any suspicious activity of CRYPTSY and VERNON. 
--23 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+
 113. 
 COINBASE simply employed a quiet exit strategy that separated itself from CRYPTSY and VERNON while seeking to shield itself from scrutiny of its own. 
 
 114. 
 Such scrutiny is well-deserved, though, as CRYPTSY and VERNON’s theft would not have succeeded without cooperation and assistance from COINBASE. 
 
-
-
-
 FACTS SPECIFIC TO INVESTOR PLAINTIFFS 
+
 115. Plaintiff LEIDEL, on August 13, 2014, deposited 3.9409 BTC to initially fund his CRYPTSY account.  The value of that deposit was approximately $2,112.32. 
 
 CLASS ALLEGATIONS 
+
 116. 
 A class action is the proper form to bring Class Plaintiffs’ claims under FRCP 23.  The potential class is so large that joinder of all members would be impractical. Additionally, there are questions of law or fact common to the class, the claims or defenses of the representative parties are typical of the claims or defenses of the class, and the representative parties will fairly and adequately protect the interests of the class. 
 
@@ -464,13 +456,13 @@ Class Plaintiffs bring this nationwide class action pursuant to Rule 23 of the F
 
 
 All CRYPTSY account owners who: (1) deposited Bitcoins, alternative cryptocurrencies, or any other form of monies or currency at CRYPTSY, (2) had such currency liquidated by VERNON and CRYPTSY through COINBASE, and (3) have been denied access to their accounts and funds between May 22, 2014 and the present date. The Class asserts claims under California law as set forth in Counts I-IV below. 
+
 118. This action satisfies all of the requirements of Federal Rules of Civil Procedure, including numerosity, commonality, predominance, typicality, adequacy, and superiority. 
+
 Numerosity 
+
 119. Members of the Class are so numerous and geographically dispersed that joinder of all members is impractical.  
--24 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+
 120. 
 While the exact number of class members remains unknown at this time, upon information and belief, there are at least hundreds if not thousands of putative Class members.  
 
@@ -479,9 +471,11 @@ Again, while the exact number is not known at this time, it is easily and genera
 
 
 122. It is impractical for each class member to bring suit individually. 
+
 123. Class Plaintiffs do not anticipate any difficulties in managing this action as a class action. 
 
 Commonality and Predominance 
+
 124. 
 There are many common questions of law and fact involving and affecting the parties to be represented. 
 
@@ -490,39 +484,35 @@ When determining whether common questions predominate, courts focus on the issue
 
 
 126. Common questions include, but are not limited to, the following: 
-(a) 
-Whether COINBASE has converted the funds belonging to Class Plaintiffs and the Class Members; 
 
-(b) 
+* (a) 
+Whether COINBASE has converted the funds belonging to Class Plaintiffs and the Class Members; 
+* (b) 
 Whether COINBASE owed duties to Class Plaintiffs and the Class, what the scope of those duties were, and whether COINBASE breached those duties; 
 
-(c) 
+* (c) 
 Whether COINBASE’s conduct was unfair or unlawful; 
 
-(d) 
+* (d) 
 Whether COINBASE aided and abetted CRYPTSY’s breach of fiduciary duties; 
 
-(e) 
+* (e) 
 Whether COINBASE breached its duty of reasonable care as a money services business and a member of FinCEN; 
 
-(f) 
+* (f) 
 Whether COINBASE has been unjustly enriched; 
 
-
--25 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-(g) 
+* (g) 
 Whether Class Plaintiffs and the Class have sustained damages as a result of COINBASE’s conduct; and 
 
-(h) 
+* (h) 
 Whether Class Plaintiffs and the Class are entitled to injunctive relief. 
 
 
 127. These common questions of law or fact predominate over any questions affecting only individual members of the Class. 
 
 Typicality 
+
 128. 
 Class Plaintiffs’ claims are typical of those of the other Class Members because, inter alia, all members of the Class were injured through the common misconduct described above and were subject to Defendant’s unfair and unlawful conduct. 
 
@@ -530,8 +520,8 @@ Class Plaintiffs’ claims are typical of those of the other Class Members becau
 Class Plaintiffs are advancing the same claims and legal theories on behalf of themselves and all members of the Class. 
 
 
+Adequacy of Representation
 
-Adequacy of Representation 
 130. 
 Class Plaintiffs will fairly and adequately represent and protect the interests of the Class in that they have no disabling conflicts of interest that would be antagonistic to those of the other members of the Class. 
 
@@ -546,15 +536,7 @@ The infringement of the rights and the damages Class Plaintiffs have each suffer
 
 134. 
 To prosecute this case, Class Plaintiffs have chosen the law firms of Silver Law Group and Wites & Kapetan, P.A. These firms are experienced in class action litigation and have 
-
-
--26 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-the financial and legal resources to meet the substantial costs and legal issues associated with this type of litigation. 
-
-Superiority 
+ 
 135. 
 Class action litigation is an appropriate method for fair and efficient adjudication of the claims involved herein. 
 
@@ -570,32 +552,26 @@ Further, even for those Class Members who could afford to litigate such a claim,
 139. 
 The nature of this action and the nature of laws available to Class Plaintiffs make the use of the class action device a particularly efficient and appropriate procedure to afford relief to Class Plaintiffs and the Class for the wrongs alleged because: 
 
-(a) 
+* (a) 
 Defendant would necessarily gain an unconscionable advantage if it were allowed to exploit and overwhelm the limited resources of each individual Class member with superior financial and legal resources; 
 
-(b) 
+* (b) 
 The costs of individual suits could unreasonably consume the amounts that would be recovered; 
 
-(c) 
+* (c) 
 Proof of a common course of conduct to which Class Plaintiffs were each exposed is representative of that experienced by the Class and will establish the right of each member of the Class to recover on the cause of action alleged; 
 
 
-
-
--27 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-(d) 
+* (d) 
 Individual actions would create a risk of inconsistent results and would be unnecessary and duplicative of this litigation; 
 
-(e) 
+* (e) 
 The Class Members are geographically dispersed all over the world, thus rendering it inconvenient and an extreme hardship to effectuate joinder of their individual claims into one lawsuit; 
 
-(f) 
+* (f) 
 There are no known Class Members who are interested in individually controlling the prosecution of separate actions; and 
 
-(g) 
+* (g) 
 The interests of justice will be well served by resolving the common disputes of potential Class Members in one forum. 
 
 
@@ -611,10 +587,8 @@ Because of the number and nature of common questions of fact and law, multiple s
 143. 
 As a result of the foregoing, Class Plaintiffs and the Class Members have been damaged in an amount that will be proven at trial. 
 
-
-
-
 FACTS SPECIFIC TO THE RECEIVER 
+
 144. 
 The Receiver is the duly appointed and acting Receiver/Corporate Monitor for CRYPTSY. 
 
@@ -624,11 +598,6 @@ VERNON has been ousted from control of, and no longer maintains any beneficial i
 146. 
 CRYPTSY is no longer VERNON’s “evil zombie,” focused on doing harm to its account holders and stealing from them the cryptocurrency they had entrusted to CRYPTSY. 
 
-
--28 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
 147. 
 The Receiver is not bound by VERNON’s improper actions in engineering the fraud perpetrated upon CRYPSTY account holders. 
 
@@ -641,10 +610,10 @@ Plaintiffs and the Receiver have duly performed all of their duties and obligati
 150. 
 To enforce their rights, Plaintiffs and the Receiver have retained undersigned counsel and are obligated to pay counsel a reasonable fee for its services, for which Defendant is liable as a result of its bad faith and otherwise. 
 
-
-
 COUNT I – AIDING AND ABETTING BREACH OF FIDUCIARY DUTY [Class Plaintiffs against Defendant] 
+
 Class Plaintiffs re-allege, and adopt by reference herein, Paragraphs 1-143 and 149-150 above, and further allege: 
+
 151. 
 CRYPTSY breached its fiduciary duties to Plaintiffs and the Class Members, as set forth above. 
 
@@ -655,13 +624,10 @@ COINBASE knew that CRYPTSY owed fiduciary and other obligations to Plaintiffs an
 COINBASE knew that CRYPTSY was breaching its fiduciary and other obligations to Plaintiffs and the Class Members by engaging in the conduct alleged above. 
 
 
-154. With such knowledge, COINBASE knowingly participated, aided and abetted, and 
-otherwise substantially assisted to bring about CRYPTSY’s breach of fiduciary obligations. 
--29 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+154. With such knowledge, COINBASE knowingly participated, aided and abetted, and otherwise substantially assisted to bring about CRYPTSY’s breach of fiduciary obligations. 
+
 155. COINBASE rendered substantial and knowing assistance to CRYPTSY in its breach of fiduciary duties by, among other things: (a) providing monetary services to CRYPTSY and CRYPTSY’s users, (b) disregarding overtly suspicious activity indicative of misconduct, (c) clearing exorbitant amounts of cryptocurrency for CRYPTSY that put CRYPTSY among COINBASE’s highest volume users, (d) failing to report to governmental and regulatory authorities incidents of excessive activity in CRYPTSY’s COINBASE account, (e) vouching for CRYPTSY in letters while withholding the fact that CRYPTSY was mishandling CRYPTSY investor funds, and (f) sitting silently while CRYPTSY made numerous false and misleading material omissions related to the funds custodised by CRYPTSY for its account holders -including Plaintiffs and the Class Members --knowing that Plaintiffs and the Class Members would rely on those material omissions to their detriment. 
+
 156. 
 COINBASE’s wrongful conduct was done purposefully and maliciously or recklessly, without regard for the rights and interests of Plaintiffs and the Class Members. 
 
@@ -669,15 +635,14 @@ COINBASE’s wrongful conduct was done purposefully and maliciously or recklessl
 As a direct and proximate cause of COINBASE’s conduct, Plaintiffs and the Class Members have been damaged. 
 
 
-
 COUNT II – AIDING AND ABETTING CONVERSION [Class Plaintiffs against Defendant] 
+
 Class Plaintiffs re-allege, and adopt by reference herein, Paragraphs 1-143 and 149-150 above, and further allege: 
+
 158. VERNON asserted dominion and control over the propertyof CRYPTSY’s account holders by misappropriating and then liquidating for his own personal use and benefit through the COINBASE accounts maintained by CRYPTSY and VERNON assets belonging to CRYPTSY account holders. 
--30 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+
 159. COINBASE had actual and/or constructive knowledge of CRYPTSY and VERNON’s acts in misappropriating CRYPTSY customer assets by virtue of the suspicious, excessive, and unverifiable activity which was transacted through CRYPTSY and VERNON’s accounts at COINBASE. 
+
 160. 
 COINBASE rendered substantial assistance to CRYPTSY and VERNON by ignoring its own internal policies and procedures and by violating the federal regulations with which COINBASE, as a Money Services Business, had to comply, as more fully identified above. 
 
@@ -687,19 +652,15 @@ As a direct and proximate cause of COINBASE’s conduct, Plaintiffs and the Clas
 
 
 COUNT III – NEGLIGENCE [Class Plaintiffs against Defendant] 
+
 Class Plaintiffs re-allege, and adopt by reference herein, Paragraphs 1-143 and 149-150 above, and further allege: 
+
 162. 
 COINBASE owed Plaintiffs and the Class Members a duty of care to use reasonable care in performing its duties as a depository of CRYPTSY and VERNON’s accounts, including, among other things, the duty to: (a) properly open, establish, and maintain CRYPTSY and VERNON’s accounts at COINBASE; (b) ensure that no unauthorized transfers or withdrawals from CRYPTSY and VERNON’s COINBASE accounts were implemented or paid; (c) monitor CRYPTSY and VERNON’s COINBASE accounts for excessive or suspicious activity; and (d) comply with all other reporting requirements applicable to CRYPTSY and VERNON’s COINBASE accounts under state and federal law. 
 
 163. 
-COINBASE breached those duties by failing to: (a) perform its obligations, including by failing to ensure that no unauthorized transfers or withdrawals from CRYPTSY and VERNON’s COINBASE accounts were implemented or paid; (b) acknowledge, report, and 
+COINBASE breached those duties by failing to: (a) perform its obligations, including by failing to ensure that no unauthorized transfers or withdrawals from CRYPTSY and VERNON’s COINBASE accounts were implemented or paid; (b) acknowledge, report, and prevent misappropriation in CRYPTSY and VERNON’s COINBASE accounts through withdrawals and transfers; (c) conduct reasonable inquiry into the activities in CRYPTSY and VERNON’s COINBASE accounts even though aware of serious irregularities and excessive activity; and (d) failing to comply with all other reporting requirements applicable to CRYPTSY and VERNON’s COINBASE accounts under state and federal law. 
 
-
--31 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-prevent misappropriation in CRYPTSY and VERNON’s COINBASE accounts through withdrawals and transfers; (c) conduct reasonable inquiry into the activities in CRYPTSY and VERNON’s COINBASE accounts even though aware of serious irregularities and excessive activity; and (d) failing to comply with all other reporting requirements applicable to CRYPTSY and VERNON’s COINBASE accounts under state and federal law. 
 164. As a direct and proximate cause of COINBASE’s conduct, Plaintiffs and the Class Members have been damaged. 
 
 COUNT IV – UNJUST ENRICHMENT [Class Plaintiffs against Defendant] 
