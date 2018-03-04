@@ -205,17 +205,18 @@ maintenance meant that a "team will remain on the lookout for PlexCoin's value f
 
 86. Nor did Defendants conceal the identity ofthe individuals behind the project for reasons related to security or to avoid competition—they did so, upon information and belief, because ofLacroix's status as a recidivist securities law violator in Canada. By purposefully failing to disclose Lacroix's involvement with PlexCoin,Lacroix and PlexCorps also knowingly omitted material facts required to make their statements about the secrecy ofPlexCorps' executives not misleading.
 
-87. A reasonable investor would want to know that a repeated securities law violator
-such as Lacroix was behind the PlexCoin ICO,a fact that Defendants understood well.
+87. A reasonable investor would want to know that a repeated securities law violator such as Lacroix was behind the PlexCoin ICO, a fact that Defendants understood well.
 
 Defendants Fraudulently Attempt to Conceal Lacroix^s Involvement with PlexCoin
 
-88. In an Internet posting in early July of2017 on an online forum in French called CryptoFR,a user traced the IP address associated with the user profile ofa poster called "PlexCoin" to Defendants' IP Address. That user ran further searches on the owner ofthose
-entities(Lacroix), and speculated that because ofLacroix's background,the PlexCoin ICO sounded more like a fraud than a good investment idea.
+88. In an Internet posting in early July of 2017 on an online forum in French called CryptoFR, a user traced the IP address associated with the user profile of a poster called "PlexCoin" to Defendants' IP Address. That user ran further searches on the owner of those entities (Lacroix), and speculated that because of Lacroix's background, the PlexCoin ICO sounded more like a fraud than a good investment idea.
 
-89. Lacroix responded or directed one ofhis associates to respond to the revelations by falsely stating that Gestio and DL Innov were"appointed to manage the Francophone social networks[of]PlexCorps and nothing more"and that the allegations ofLacroix's involvement were thus "completely false." Cognizant ofthe damage the revelations on CryptoFR could do to their illegal enterprise, he then sent a letter,through counsel,demanding that CryptoFR remove the revelatory post, which CryptoFR apparently agreed to do.
+89. Lacroix responded or directed one of his associates to respond to the revelations by falsely stating that Gestio and DL Innov were "appointed to manage the Francophone social networks [of] PlexCorps and nothing more"and that the allegations of Lacroix's involvement were thus "completely false." Cognizant ofthe damage the revelations on CryptoFR could do to their illegal enterprise, he then sent a letter,through counsel,demanding that CryptoFR remove the revelatory post, which CryptoFR apparently agreed to do.
+
 90. Lacroix took other steps to conceal his involvement with the PlexCoin ICO, including instructing an employee via a text on June 14,2017"[djon't forget when you talk about plex,it's not me that did that! You don't know, you just saw it somewhere."
+
 91. In another exchange with his cohorts, Lacroix complained that a potential online payment system set up for PlexCoin was"not confidential enough and it's too easy to trace" and that the"[qjamfcould make a purchase with their card and they'll see their money go." Indeed, Lacroix explored various options to collect victim funds in ways that were not traceable.
+
 92. Paradis-Royer did her part to help Lacroix conceal his identity and both oftheir involvements with the fraudulent PlexCoin ICO. On August 2,2017, when Quebec authorities knocked on Lacroix and Paradis-Royer's residence to execute a search warrant,Paradis-Royer frantically texted Lacroix to inform him that the police were at the residence and that the"white
 22
 
