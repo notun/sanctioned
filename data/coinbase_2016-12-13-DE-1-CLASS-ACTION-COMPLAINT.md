@@ -289,23 +289,18 @@ including FinCEN. However, to preserve its own profitable participation in CRYPT
 COINBASE had the power, which it exercised, to control the general affairs of CRYPTSY and VERNON during the relevant time period and had the power, which it exercised, to directly or indirectly control or influence the specific transactions of CRYPTSY and VERNON which resulted in their primary violations of law.  
 
 78. 
-COINBASE also had the duty to stop CRYPTSY and VERNON’s crimes, yet it refused to do so because COINBASE was more interested in enriching itself, even if it meant 
+COINBASE also had the duty to stop CRYPTSY and VERNON’s crimes, yet it refused to do so because COINBASE was more interested in enriching itself, even if it meant furthering CRYPTSY and VERNON’s crimes and allowing CRYPTSY and VERNON to cause massive financial losses to hundreds if not thousands of CRYPTSY users --many of whom are COINBASE customers as well. 
 
-
--16 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-furthering CRYPTSY and VERNON’s crimes and allowing CRYPTSY and VERNON to cause massive financial losses to hundreds if not thousands of CRYPTSY users --many of whom are COINBASE customers as well. 
 79. As a Money Services Business, COINBASE has strict obligations under the Currency and Foreign Transactions ReportingAct of 1970 a/k/athe Bank SecrecyAct (the“BSA”) to monitor customer transactions and report any suspicious activities to law enforcement authorities. See 31 U.S.C. § 5311; 12 C.F.R. § 208.63. TheUSA PatriotAct of 2001 (the“Patriot Act”) reinforced this obligation and underscored the importance of implementing robust internal systems to detect and report money laundering and other suspicious activities. The regulations promulgated pursuant to the Patriot Act require financial institutions to institute an anti money-laudering (“AML”) program that includes four pillars: (i) designating an individual or individuals responsible for managing BSA compliance; (ii) a system of policies, procedures, and internal controls to ensure ongoing compliance; (iii) training for appropriate personnel; and (iv) independent testing of compliance.  12 C.F.R. § 208.63. 
+
 80. For Money Services Businesses to comply with these obligations, the institutions have a legal obligation to fully understand their customer’s business. This “know your customer” (“KYC”) duty is imposed pursuant to 12 C.F.R. § 208.62. Institutions viewing account activity need a baseline against which to distinguish account activity that may be normal for a particular industry from account activity that might suggest an illegal enterprise. The KYC duty pre-dated the Patriot Act. Not only was it suggested by such guidelines as the Federal Reserve’s BSA Examination Manual of 1995 and Supervisory Letter on Private Banking Activities, SR 97-19 (SUP), but it was standard industry practice. 
--17 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
+
 81. At all relevant times, CRYPTSY and VERNON used COINBASE as their primary liquidator and deposited and liquidated the stolen CRYPTSY client assets through CRYPTSY and VERNON’s COINBASE accounts. 
+
 82. Until late-2015 --at which time COINBASE finally closed CRYPTSY and VERNON’s accounts --CRYPTSY and VERNON liquidated and laundered over $8 Million representing Plaintiffs’ and other CRYPTSY customers’ assets. 
+
 83. COINBASE knew that the activity being undertaken by CRYPTSY and VERNON was illegal. When COINBASE asked CRYPTSY and VERNON for information corroborating the legitimacyof the highvolumeofassets thatwereflowingthrough CRYPTSY and VERNON’s COINBASE accounts, CRYPTSY and VERNON gave patently ridiculous explanations that no reasonable Money Services Business would accept.  
+
 84. 
 Despite the lack of credibility in the responses given, COINBASE took no steps for approximately 18 months to shut CRYPTSY and VERNON out as COINBASE customers or to expose the illegal activities to law enforcement authorities. 
 
@@ -313,17 +308,13 @@ Despite the lack of credibility in the responses given, COINBASE took no steps f
 No matter how inexplicable the transaction, COINBASE dutifully and unflinchingly executed every single request from CRYPTSY and VERNON during the relevant time period; and COINBASE profited on a daily basis from the criminal conduct. CRYPTSY and VERNON were maintaining account balances preposterously suggesting that they owned and controlled assets approaching $1,700,000,000.00 in value, and COINBASE did not have the institutional moral fiber to turn down a customer who could offer the profits COINBASE could generate from those account balances. 
 
 
--18 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-
 Coinbase Eagerly Became Cryptsy and Vernon’s Co-Conspirator 
+
 86. To run their illegal scheme, CRYPTSY and VERNON needed a Money Services Business to: (a) provide a depository for the pilfered Bitcoin, (b) liquidate the stolen Bitcoin, and 
 (c) provide CRYPTSY customers with a sense that CRYPTSY was operating a legitimate business. 
-87. What CRYPTSY and VERNON also needed was a Money Services Business that would be hospitable to fraudsters --that is, an MSB that, for a price, was willing to overlook 
-CRYPTSY and VERNON’s suspicious activity, ignore the excessive account activity, and ignore 
-its own obligations under federal law. 
+
+87. What CRYPTSY and VERNON also needed was a Money Services Business that would be hospitable to fraudsters --that is, an MSB that, for a price, was willing to overlook CRYPTSY and VERNON’s suspicious activity, ignore the excessive account activity, and ignore its own obligations under federal law. 
+
 88. 
 COINBASE ignored the fact that the activity in CRYPTSY and VERNON’s COINBASE accounts was grossly excessive and purported to represent an inordinate share of the Bitcoin market. 
 
@@ -342,11 +333,6 @@ Shortly thereafter, VERNON replied, stating that the Bitcoin originated from his
 93. 
 Under the Bank Secrecy Act, COINBASE has a duty to inquire and/or report if suspicious activity is involved in transmitting money. 
 
-
--19 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
 94. 
 COINBASE often and repeatedly transmitted money for CRYPTSY and VERNON. 
 
@@ -355,29 +341,24 @@ COINBASE often and repeatedly transmitted money for CRYPTSY and VERNON.
 96. 
 Upon information and belief, from May 21, 2013 to December 4, 2015, VERNON initiated over 800 transactions that obligated COINBASE to make some form of inquiry as to the legitimacy and legality of the transaction, and COINBASE routinely failed to make the necessary inquiry, to wit: 
 
-(a) 
+* (a) 
 COINBASE received two transactions from VERNON, each exceeding $100,000.00 in value, and made no inquiry, 
 
-(b) 
+* (b) 
 COINBASE received eight transactions from VERNON, each between $50,000.00 and $84,000.00 in value, and made no inquiry, 
 
-(c) 
+* (c) 
 COINBASE received 33 transactions from VERNON, each between $20,000.00 and $49,999.00 in value, and made no inquiry, 
 
-(d) 
+* (d) 
 COINBASE received 56 transactions from VERNON, each between $10,000.00 and $19,999.00 in value, and made no inquiry, and 
 
-(e) 
+* (e) 
 COINBASE received 115 transactions from VERNON, each between $3,000.00 and $9,999.00 in value, and made no inquiry. 
 
-
-
 97. 
-On or about June 14, 2014, the date of COINBASE’s request for information from VERNON and CRYPTSY, COINBASE had processed no less than 8,293 Bitcoin through 
+On or about June 14, 2014, the date of COINBASE’s request for information from VERNON and CRYPTSY, COINBASE had processed no less than 8,293 Bitcoin through VERNON’s personal account. VERNON’s COINBASE account had abalance of .04 Bitcoin and $40,916.00 U.S. Dollars. 
 
-
-VERNON’s personal account. VERNON’s COINBASE account had abalance of .04 Bitcoin and 
-$40,916.00 U.S. Dollars. 
 98. 
 As of June 14, 2014, COINBASE had processed $1,222,788.00 USD of value through VERNON’s account and sent only one e-mail inquiry to VERNON and CRYPTSY. 
 
@@ -385,54 +366,41 @@ As of June 14, 2014, COINBASE had processed $1,222,788.00 USD of value through V
 From June 14, 2014 until the time COINBASE finallyclosed VERNON’s account, COINBASE processed no less than 26,516 Bitcoin through VERNON’s personal COINBASE account. 
 
 
--20 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
 100. 
 From June 14, 2014 until the time COINBASE finallyclosed VERNON’s account, COINBASE processed no less than $6,007,155.00 USD of value through VERNON’s account while liquidating over $3,000,000.00 USD into VERNON’s personal TD Bank account in Florida. 
 
 101. 
-At any point in time, with the power of the Blockchain ledger at COINBASE’s disposal, and with the additional benefit of knowing the starting point of a transaction (VERNON’s COINBASE wallet), COINBASE could have looked back at every transaction leading up to the 
+At any point in time, with the power of the Blockchain ledger at COINBASE’s disposal, and with the additional benefit of knowing the starting point of a transaction (VERNON’s COINBASE wallet), COINBASE could have looked back at every transaction leading up to the deposit into VERNON’s account to verify that the items being liquidated were legitimately sourced. 
 
-
-deposit into VERNON’s account to verify that the items being liquidated were legitimately 
-sourced. 
 102. As an example of the information available to COINBASE: 
-(a) 
+
+* (a) 
 On or about October 13, 2014, VERNON transferred 150 Bitcoin into his COINBASE wallet (address 14ETojkW9Jif1N5XzMRYhjhgGZUimn7e3j – hereinafter the “VERNON COINBASE WALLET”). 
 
-(b) 
+* (b) 
 The transfer was completed and recorded in the Bitcoin blockchain and is easily searchable on the internet through tools such as https://blockchain.info, an internet website used to access information in the Bitcoin blockchain. 
 
-(c) 
+* (c) 
 The aforementioned transaction identification, or “hash,” is 
+79b5acc1e60828b5b5c684aa2c7c88ba9f08d51218d33ac952f2239624c29953
 
-
-79b5acc1e60828b5b5c684aa2c7c88ba9f08d51218d33ac952f2239624c 
-29953 
-(d) 
+* (d) 
 A simple entry of the aforementioned “hash” into the search bar at https://blockchain.info would reveal that the 150 Bitcoin came from one wallet address: 1MSijnGgNRFKJAMweRcPCbF8whSpdyDUkm (hereinafter the “CRYPTSY DUkm WALLET” or “DUkm).” 
 
-(e) 
+* (e) 
 Upon information and belief, the DUkm wallet was a“Hot Wallet” used to store CRYPTSY client funds. 
 
-(f) 
+* (f) 
 Using https://blockchain.info, any user could click on the DUkm wallet address and discover that over 2,000 BTC have traveled through that wallet. 
 
-(g) 
-As of October 2014, when 150 BTC (over $50,000.00 USD) was transferred into the VERNON COINBASE WALLET, an examination of the CRYPTSY DUkm WALLET would have revealed nearly a 
+* (g) 
+As of October 2014, when 150 BTC (over $50,000.00 USD) was transferred into the VERNON COINBASE WALLET, an examination of the CRYPTSY DUkm WALLET would have revealed nearly a thousand micro transactions, consolidating fractions of Bitcoin into larger sums of 5, 10, or 25 Bitcoin at a time. By way of analogy, this would be akin to an automated account sweep. For example: 
 
+* 1) Customer A deposits .45 BTC into his CRYTPSY account. 
+* 2) Customer B deposits .01 BTC into her CRYPTSY account. 
+* 3) Customers C through Z deposit a total of 4.54 BTC into their own individual CRYPTSY accounts. 
+* 4) CRYPTSY would take all BTC from all accounts simultaneously and move them into the CRYPTSY DUkm WALLET. 
 
--21 
-SILVER LAW GROUP 
-11780 West Sample Road • Coral Springs, Florida 33065 • Telephone (954) 755-4799 • Facsimile (954) 755-4684 
-www.silverlaw.com 
-thousand micro transactions, consolidating fractions of Bitcoin into larger sums of 5, 10, or 25 Bitcoin at a time. By way of analogy, this would be akin to an automated account sweep. For example: 
-1) Customer A deposits .45 BTC into his CRYTPSY account. 
-2) Customer B deposits .01 BTC into her CRYPTSY account. 
-3) Customers C through Z deposit a total of 4.54 BTC into their own individual CRYPTSY accounts. 
-4) CRYPTSY would take all BTC from all accounts simultaneously and move them into the CRYPTSY DUkm WALLET. 
 103. 
 COINBASE not only would have been able to verify the source and destination of each transaction, but would have been able to see that VERNON sent $250,000.00 in BTC transactions to VERNON’s COINBASE wallet in less than a month. 
 
