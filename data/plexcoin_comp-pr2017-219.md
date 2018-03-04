@@ -73,7 +73,9 @@ RELATED INDIVIDUALS AND ENTITIES
 
 BACKGROUND ON DIGITAL TOKENS OR COINS
 
-27. An ICQ is a fundraising event in which an entity offers participants a unique "coin"or"token"in exchange for consideration(often in the form ofcrypto or fiat currency). 28. The tokens are issued on a"blockchain"or cryptographically secured ledger.'
+27. An ICQ is a fundraising event in which an entity offers participants a unique "coin"or"token"in exchange for consideration(often in the form ofcrypto or fiat currency). 
+
+28. The tokens are issued on a "blockchain" or cryptographically secured ledger.'
 
 29. Generally, coins or tokens may entitle holders to certain rights related to a venture underlying the ICQ,such as rights to profits,shares ofassets,rights to use certain services provided by the issuer, and/or voting rights. These coins or tokens may also be listed on online platforms,often called virtual currency exchanges,and tradable for crypto or fiat currency. Often,the coins or tokens are immediately tradable.
 
