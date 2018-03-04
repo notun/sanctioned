@@ -1,0 +1,447 @@
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.1 Page 1 of 38
+
+1 Beth E. Terrell, WSBA #26759
+Blythe H. Chandler, WSBA #43387 2 Attorneys for Plaintiff and the Class
+TERRELL MARSHALL LAW GROUP PLLC 3 936 North 34th Street, Suite 300
+Seattle, Washington 98103 4 Telephone: (206) 816-6603
+Facsimile: (206) 319-5450 5 Email: bterrell@terrellmarshall.com
+Email: bchandler@terrellmarshall.com 6
+David C. Silver, pro hac vice forthcoming 7 Jason S. Miller, pro hac vice forthcoming
+Attorneys for Plaintiff and the Class 8 SILVER MILLER
+11780 West Sample Road 9 Coral Springs, Florida 33065
+Telephone: (954) 516-6000 10 Email: DSilver@SilverMillerLaw.com
+Email: JMiller@SilverMillerLaw.com 11
+
+12 UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF WASHINGTON
+
+13 STORMSMEDIA, LLC, a Louisiana
+14 limited liability company; and on behalf of all others similarly situated;
+15 Plaintiff,
+
+NO. CLASS ACTION COMPLAINT
+
+16 v.
+17 GIGA WATT, INC., a Washington corporation; and GIGA WATT, PTE,
+18 LTD., a foreign corporation;
+
+19 Defendants.
+
+20
+
+CLASS ACTION COMPLAINT - 1
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.2 Page 2 of 38
+1 Plaintiff STORMSMEDIA, LLC, a Louisiana limited liability company 2 (“Plaintiff”), individually and on behalf of all other persons and entities similarly 3 situated as defined herein, by and through undersigned counsel, hereby sues 4 GIGA WATT, INC., a Washington corporation; and GIGA WATT, PTE, LTD., a 5 foreign corporation (collectively “GIGA WATT” or “Defendants”), for damages 6 and for equitable relief. In support thereof, Plaintiff alleges as follows: 7 PRELIMINARY STATEMENT 8 1. This nationwide class action is brought by Plaintiff 9 STORMSMEDIA, LLC, individually and on behalf of a class of similarly situated 10 investors (the “Class Members”) who contributed more than $20 million worth of 11 cryptocurrency (bitcoin or Ether) or fiat currency (e.g., U.S. Dollars, Euros) 12 during an Initial Coin Offering (ICO) in or about June 2017 - August 2017 13 propagated by Defendants -- a contribution that, due to the rising value of the 14 cryptocurrency invested by the Plaintiff Class, is now valued at more than $100 15 million. 16 2. Defendants spent months promoting interest in their purported 17 development of a full-service, turnkey processing center to house high-capacity 18 cryptocurrency mining equipment in the state of Washington that would provide 19 miners a “full range of mining services from hosting, maintenance, and repair to 20 private blockchain servicing” (the “Giga Watt Project”). The state of Washington
+CLASS ACTION COMPLAINT - 2
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.3 Page 3 of 38
+1 was chosen as the site of the Giga Watt Project because, inter alia, it has one of 2 the lowest electricity costs to consumers in the world. 3 3. Defendants also promoted to investors that, hand-in-hand with 4 hosting and maintaining mining equipment, Defendants would also provide 5 interested investors -- for a separate investment of cryptocurrency -- “purchase 6 and delivery of mining equipment [and related power supplies] through [GIGA 7 WATT, PTE LTD.] with its subsequent setup and hosting at Giga Watt’s facilities 8 in Wenatchee, WA.” 9 4. At the time Plaintiff and each Class Member made his/her/its 10 investment, the Giga Watt Project was not fully developed or functional. 11 5. For each investment of bitcoin, Ether, or fiat currency in GIGA 12 WATT prior to the launch of the Giga Watt Project, the investor would be given 13 either: (a) Ethereum-based cryptocurrency tokens called Giga Watt tokens 14 (“WTT”) which were newly-created by Defendants and which represented the 15 exclusive right to use the Giga Watt Project’s capacity rent-free for 50 years, or 16 (b) mining equipment and related power supplies to be set up and deployed by the 17 GIGA WATT team at the site of the Giga Watt Project. 18 6. The investor would not be given his/her/its Giga Watt tokens or 19 machinery, however, until Defendants released a specific batch of the tokens or 20 machinery, based on how far along the Giga Watt Project was in its development
+CLASS ACTION COMPLAINT - 3
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.4 Page 4 of 38
+1 and functionality. Giga Watt tokens were not scheduled to be released by 2 Defendants to the investors any earlier than July 15, 2017, though the more likely 3 initial release date was August 7, 2017 -- about a week after the ICO had 4 concluded. As such, each investor in the ICO was given nothing more for 5 his/her/its investment than the future right to receive, on some anticipated date, a 6 number of Giga Watt tokens or machinery commensurate with the investor’s 7 investment that would then allow the investor access to the yet-to-be-developed 8 Giga Watt Project. 9 7. At the time of the ICO, the WTT were valued at approximately $1.00 10 - $1.20 per WTT, though Defendants purported that value would skyrocket once 11 the Giga Watt Project was fully developed and functional. 12 8. To induce interest and investments in the Giga Watt Project, and to 13 maintain interest amongst concerned investors after development of the Giga 14 Watt Project had languished beyond acceptable timeframes, several GIGA 15 WATT representatives have overtly and unmistakably stated to investors that 16 between the time of the ICO and the date on which each investor would be issued 17 his/her/its Giga Watt tokens, the value/price of each Giga Watt token was 18 anticipated to increase significantly. Moreover, GIGA WATT represented that 19 the appreciation in value of the Giga Watt tokens would not be the only income20
+CLASS ACTION COMPLAINT - 4
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.5 Page 5 of 38
+1 producing avenue open to GIGA WATT investors as a by-product of their
+2 investments, to wit:
+3 (a) GIGA WATT Chief Executive Officer recently published and disseminated to GIGA WATT
+4 investors a newsletter in which GIGA WATT touted several “of the new income opportunities
+5 Giga Watt will bring to its WTT holders in 2018”; and
+6 (b) GIGA WATT’s in-house General Counsel Zeev
+7 Kirsh, on GIGA WATT’s behalf, represented in writing to Plaintiff earlier this week that by the
+8 time GIGA WATT completes its entire build-out, the “anticipated value/price of the tokens will
+9 likely climb quite a bit.” 10 9. Giga Watt tokens allegedly derive their value from the usefulness, 11 availability, functionality, and popularity of the Giga Watt Project -- development 12 and launch of which was and is entirely in Defendants’ control. 13 10. Moreover, Defendants held within their sole control the ability to 14 determine when the Giga Watt Project was far enough along in its development 15 for Giga Watt tokens and machinery to be issued to investors. Investors were, and 16 still are, at Defendants’ mercy with regard to when, if ever, the investors would 17 be issued their Giga Watt tokens and machinery. 18 11. As of the date of this filing, the Giga Watt Project is purportedly still 19 being developed and, upon information and belief, might never be fully launched.
+20
+CLASS ACTION COMPLAINT - 5
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.6 Page 6 of 38
+1 12. Many investors have not been issued their Giga Watt tokens or had 2 their machines set up and deployed, fear that they might never be issued their 3 tokens or see their mining machines activated, and are losing valuable time and 4 money as Defendants indefinitely delay the further development of the Giga Watt 5 Project. 6 13. Additionally, Defendants have represented to Plaintiff that virtually 7 all of the cryptocurrency raised from investors in the ICO has been converted to 8 cash, released from escrow, and was put into a GIGA WATT operating account -9 which Plaintiff and other Class Members reasonably believe means that the funds 10 raised have been dissipated, or will be dissipated, before the investors receive 11 their Giga Watt tokens/mining equipment or any opportunity to receive a return 12 on their investments. 13 14. The GIGA WATT investors invested in a common enterprise and 14 with an expectation that their investments would increase in value and produce 15 for them a substantial return -- all pivotal occurrences that would be derived 16 solely from the efforts of others, namely Defendants. 17 15. In short, the thing for which Plaintiff and each Class Member 18 invested his/her/its valuable assets looks like a security, functions like a security, 19 and fits the definition of a security. Securities regulators look beyond the form or 20
+CLASS ACTION COMPLAINT - 6
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.7 Page 7 of 38
+1 label someone appends to his/her/its activity and instead consider the actual 2 substance and purpose of the activity. 3 16. Notwithstanding Defendants’ attempts to avoid governmental and 4 private scrutiny, it is clear that Plaintiff and the Class were indeed profit-seeking 5 investors in a security and that Defendants promoted and conducted an 6 unregistered offering of securities. 7 17. Defendants appear to have already pocketed for themselves large 8 sums of money for their promotional efforts, and -- due to the many 9 misrepresentations, factual omissions, and unlawful activities engaged in by 10 Defendants -- it appears Plaintiff and the Class cannot, and potentially will not, 11 see any return on their investments. 12 18. In describing ICOs as a “fertile ground for fraud on investors,” 13 United States Securities and Exchange Commission (SEC) Chairman Jay Clayton 14 recently said: “[I]nvestors often do not appreciate that ICO insiders and 15 management have access to immediate liquidity, as do larger investors, who may 16 purchase tokens at favorable prices. Trading of tokens on these platforms is 17 susceptible to price manipulation and other fraudulent trading practices.”1 Mr. 18 19 1 Jay Clayton, Governance and Transparency at the Commission and in Our 20 Markets, Remarks at the PLI 49th Annual Institute on Securities Regulation -
+CLASS ACTION COMPLAINT - 7
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.8 Page 8 of 38
+1 Clayton went on to state: “The SEC may not yet have policy or rulemaking 2 answers in these areas, but we are on the lookout for ways to fight the type of 3 opacity that can create an environment conducive to misconduct.” 4 19. Proof of Defendants’ deceptive activity and intentional deprivation 5 of investors’ rights and protections under the federal securities laws is not 6 required or determinative as to Plaintiff’s claims. That is because Defendants are 7 strictly liable for offering and selling unregistered securities. Nevertheless, 8 Defendants’ deceptive advertisements, blogs, and investor updates are outlined 9 below to stress the urgency and need for immediate judicial intervention to 10 preserve Plaintiff’s and other investors’ significant financial interests which 11 Defendants currently control, and to rectify existing and future irreparable harm 12 to Plaintiff and other investors. 13 20. Plaintiff and Class Members seek compensatory and equitable relief 14 rescinding their investments in GIGA WATT and restoring to them the assets and 15 funds they were induced into investing. 16 17 18 19 New York, NY (November 8, 2017), https://www.sec.gov/news/speech/speech20 clayton-2017-11-08.
+CLASS ACTION COMPLAINT - 8
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.9 Page 9 of 38
+1 GENERAL ALLEGATIONS 2 THE PARTIES 3 Plaintiff 4 21. Plaintiff STORMSMEDIA, LLC is a Louisiana limited liability 5 company with its principal place of business in New Orleans, Louisiana. Between 6 July 17, 2017 and August 2, 2017, Plaintiff transmitted to Defendants 7 332.61230901 bitcoin and 319.994542 Ether as its investment in GIGA WATT, 8 broken down thusly: (a) 127.437975 bitcoin and 319.994542 ether invested for 9 the disbursement of WTT tokens, and (b) 205.17433401 bitcoin for 154 Antminer 10 D3 machines, related power supplies, and deployment/setup fees. Plaintiff’s 11 bitcoin and Ether (now being held, in one form or another, by Defendants) are 12 currently worth approximately $5,100,000.00. 13 22. On or about November 22, 2017, Plaintiff presented to Defendants a 14 written demand that Plaintiff’s investments in GIGA WATT be rescinded -- a 15 demand that Plaintiff repeated on numerous occasions thereafter, including a 16 December 11, 2017 demand written on Plaintiff’s behalf by undersigned counsel. 17 Pleading for the remedy Defendants themselves set forth in the terms of their 18 investment materials, Plaintiff made it clear that the only acceptable remedy for 19 Defendants’ wrongful actions was rescission of Plaintiff’s investment. 20
+CLASS ACTION COMPLAINT - 9
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.10 Page 10 of 38
+1 23. As of the date of this filing, Defendants have failed to provide a 2 meaningful response to Plaintiff’s demand and instead seem intent on merely 3 stalling for time despite having violated the terms of their own White Paper and 4 having refused to adhere to their own terms for an investor remedy. 5 Defendants 6 24. Defendant GIGA WATT, INC. is a Washington corporation with its 7 principal place of business in Wenatchee, Washington. Upon information and 8 belief, GIGA WATT, INC. is currently controlled by its founder, Dave Carlson. 9 25. Defendant GIGA WATT PTE, LTD. is a foreign for-profit 10 corporation which lists its principal place of business in Singapore. GIGA WATT 11 PTE, LTD. sold to investors mining equipment and related power supplies that 12 could be installed and hosted at the Giga Watt Project’s business site(s) in 13 Washington. Upon information and belief, GIGA WATT PTE, LTD. is currently 14 controlled by Dave Carlson. 15 26. Upon information and belief, GIGA WATT, INC. and GIGA WATT 16 PTE, LTD. are alter egos of one another and are operated by Dave Carlson, who 17 continues to operate the businesses through the present day while ignoring all 18 corporate formalities and using the two companies interchangeably as mere 19 instrumentalities for his personal interests in an attempt to shield himself from 20 personal liability for his wrongful conduct.
+CLASS ACTION COMPLAINT - 10
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.11 Page 11 of 38
+1 Other Liable Persons/Entities 2 27. In addition to those persons and entities set forth as Defendants 3 herein, there are likely other parties who may well be liable to Plaintiff, but 4 respecting whom Plaintiff currently lacks specific facts to permit it to name such 5 person or persons as a party defendant. By not naming such persons or entities at 6 this time, Plaintiff is not waiving its right to amend this pleading to add such 7 parties, should the facts warrant adding such parties. 8 JURISDICTION AND VENUE 9 Subject Matter Jurisdiction 10 28. This Court has jurisdiction over the subject matter of this action 11 pursuant to 28 U.S.C. § 1332, as amended by the Class Action Fairness Act of 12 2005, because the matter in controversy exceeds Five Million Dollars 13 ($5,000,000.00), exclusive of interest and costs, and is a class action in which 14 some members of the Class are citizens of different states than Defendants. See, 15 28 U.S.C. § 1332(a) and 1332(d)(2)(A). This Court also has supplemental 16 jurisdiction over the state law claims pursuant to 28 U.S.C. § 1367. 17 Personal Jurisdiction 18 29. This Court has personal jurisdiction over Defendants because: (a) at 19 least one Defendant is operating, present, and/or doing business within this 20
+CLASS ACTION COMPLAINT - 11
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.12 Page 12 of 38
+1 District, and (b) Defendants’ breaches and unlawful activity occurred within this 2 District. 3 30. Defendants solicited investors in this jurisdiction, including Plaintiff, 4 to participate in the Giga Watt Project -- reaping from those investors large sums 5 of money and other assets, including valuable cryptocurrency. 6 31. In light of the foregoing, Defendants purposefully availed 7 themselves of the benefits of operating in this jurisdiction; and this Court may 8 exercise personal jurisdiction over Defendants. 9 Venue 10 32. Venue is proper pursuant to 28 U.S.C. § 1391 in that a substantial 11 part of the events or omissions giving rise to the claims set forth herein occurred 12 in this judicial district, as GIGA WATT, INC. resides in Washington and the 13 Giga Watt Project has its mining facilities located in Washington. 14 33. In light of the foregoing, this District is a proper venue in which to 15 adjudicate this dispute. 16 FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS 17 Cryptocurrency Coin Mining 18 34. Unlike fiat currency such as U.S. dollars or Euros -- which are 19 printed by governmental entities -- cryptocurrency comes into existence in the 20
+CLASS ACTION COMPLAINT - 12
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.13 Page 13 of 38
+1 decentralized, self-regulated world of cryptocurrency through the dogged work of 2 individuals or entities known as miners. 3 35. Bitcoin mining is the process by which transactions are verified and 4 added to the public ledger, known as the blockchain, and also is the means 5 through which new bitcoin are released. 6 36. While anyone with access to the internet and suitable hardware can 7 participate in mining, the work is difficult and the hardware -- along with the 8 electricity required to operate that hardware -- is oftentimes expensive. 9 37. The mining process involves compiling recent transactions into 10 blocks and trying to solve a computationally difficult algorithmic puzzle. This 11 work typically requires several computers working together to be running 2412 hours-a-day. 13 38. The miner who first solves the puzzle gets to place the next block on 14 the blockchain and claim the rewards for his/her/its efforts. 15 39. The rewards, which incentivize mining, are both the transactional 16 fees associated with the transactions compiled in the block as well as the newly17 released bitcoin, of which there is only a finite number that can ever exist in the 18 world. 19 20
+CLASS ACTION COMPLAINT - 13
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.14 Page 14 of 38
+
+1 40. Mining cryptocurrency today holds much of the same allure that
+
+2 drew gold prospectors to California in the late-1840s. If the mining is successful,
+
+3 great wealth can be amassed in a short amount of time.
+
+4 The Giga Watt White Paper
+
+5 41. In or about May 2017, GIGA WATT published its White Paper,
+
+6 setting forth the terms of its scheduled ICO and what participants should expect
+
+7 for investing in the Giga Watt Project.
+
+8 42. According to the GIGA WATT White Paper, the following is the
+
+9 substance of the Giga Watt Project:
+
+10 The Giga Watt Project is built in partnership between
+
+Giga Watt, Inc. a U.S. company (“Giga Watt” or 11 “Company”), which offers mining hosting services at its
+
+Wenatchee, WA facilities, and GigaWatt Pte. Ltd., a 12 Singapore company (“Partner”), which sells mining
+
+equipment to customers worldwide. 13 * * *
+
+14
+
+Giga Watt’s standard turnkey solution includes purchase and delivery of mining equipment through its Partner
+
+15
+
+with its subsequent setup and hosting at Giga Watt’s facilities in Wenatchee, WA, with hosting fees starting as
+
+16
+
+low as 7.5 USD cents/kW/hour, zero setup fees (for equipment purchased through its Partner) and uniquely
+
+17
+
+low minimum facility entrance threshold of 1 miner of any model.
+
+18 43. Under the section labeled “Payment Terms,” the White Paper
+
+19 provides the following, in pertinent part:
+
+20
+
+CLASS ACTION COMPLAINT - 14
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.15 Page 15 of 38
+1 All funds collected through the pre-sale and [the ICO] will be deposited in escrow. Original payments made in
+2 BTC and ETH will be converted to USD at the rate effective at the time when the rights to WTT tokens were
+3 reserved.
+4 The funds will be released from escrow in step with the completion of facilities.
+5 44. According to a statement subsequently published by Andrey
+6 Kuzenny (GIGA WATT’s Chief Coordinator) on one of GIGA WATT’s online
+7 support channels, all of the funds converted to USD were originally placed into
+8 an escrow account maintained by the Seattle, Washington-based international law
+9 firm Perkins Coie.
+10 45. As for what the mining facilities (“pods”) would look like, the
+11 projected timeline of the development of the Giga Watt Project, and when each
+12 investor should expect to receive his/her/its Giga Watt tokens and mining
+13 equipment, the White Paper provided the following projected images:
+14
+15
+16
+17
+18
+19
+20
+CLASS ACTION COMPLAINT - 15
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.16 Page 16 of 38
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10 and further set forth the following timeline:
+
+11
+
+Projected Construction Timeline 3 units, 2.25 MW are available right now
+
+12 [Batch 1] 13 - July 15, 2017: 1 Giga Pod completed, 0.75 MW
+
+14
+
+[Batch 2] - August 1, 2017: 2 Giga Pods completed, 2.4MW
+
+15 - August 15, 2017: Expansion of the unit, 0.9 MW
+
+16 [Batch 3] 17 - September 1, 2017: 3 Giga Pods completed, 4.5 MW
+
+18
+
+[Batch 4] - September 15, 2017: 9 Giga Pods completed, 15 MW
+
+19 [Batch 5] 20 - October 1, 2017: 3 Giga Pods completed, 4.5 MW
+
+CLASS ACTION COMPLAINT - 16
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.17 Page 17 of 38
+
+1 [Batch 6] - November 15, 2017: 3 Giga Pods completed, 4.2 MW
+2
+Plaintiff, for example, found itself in Batch 4, based upon when it made its 3
+investments. 4
+46. With regard to the risks involved in the ICO, GIGA WATT’s White 5
+Paper states: 6
+Construction timeline specified in this White Paper is 7 based on the reasonable estimates but is not guaranteed.
+This timeline may change, and the construction may be 8 delayed because of many factors, including those beyond
+Giga Watt’s control, such as the actions of third parties 9 (contractors, suppliers, etc.). If the completion of the
+capacities is delayed by more than 3 months from the 10 projected date, and, consequently, the relevant WTT
+tokens are not issued, the escrow agent may issue a 11 refund at the request of the WTT token purchasers.
+The refund will be issued in the original form of 12 payment at the exchange rate on the date of the
+refund. 13 (emphasis added).
+
+14 47. Finally, lest it be unclear that the GIGA WATT management team
+
+15 and its business partners were seeking to obtain as much compensation for their
+
+16 promotional efforts as they could manufacture, the White Paper reveals that the
+
+17 GIGA WATT insiders would distribute to themselves additional tokens for every
+
+18 100 WTT sold during either the ICO pre-sale or the ICO itself:
+
+19 For every 100 tokens sold, 15 additional tokens will be
+
+20
+
+issued and retained for the team, partners and advisors: 10 tokens to be distributed to team members, and 5 to be
+
+CLASS ACTION COMPLAINT - 17
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.18 Page 18 of 38
+1 retained for distribution to partners and advisors at [GIGA WATT’s] discretion.2
+2 48. The subtle inclusion of the self-determined bonuses for GIGA
+3 WATT insiders is common in the emerging, and largely unchecked, self-serving
+4 world of ICO fundraising.
+5 49. As noted above, SEC Chairman Jay Clayton warns that fundraising
+6 efforts in exchange for tokens issued for start-up or open-source projects are ripe
+7 for misconduct -- especially because “insiders and management have access to
+8 immediate liquidity, as do larger investors.”
+9 50. The one-sided terms imposed upon Plaintiff and the Class Members
+10 in the GIGA WATT ICO White Paper are both unconscionable and illusory. The
+11 GIGA WATT White Paper purports to require agreement from the investors that,
+12 despite the investors’ investments, GIGA WATT might not allocate to the
+13 investors any WTT or mining equipment at all; and even after a three-month
+14 delay has occurred, GIGA WATT still might not rescind or refund any investor’s
+15 cryptocurrency investment -- all while retaining the investors’ invested funds and
+16
+17 2 Emphasis added, reflecting that the event triggering the GIGA WATT
+18 management team’s entitlement to, and receipt of, additional tokens was the sale
+19 of tokens, not the post-ICO issuance of those tokens or the post-ICO distribution
+20 of Giga Watt tokens to the investors.
+CLASS ACTION COMPLAINT - 18
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.19 Page 19 of 38
+1 assets and while having released to themselves (i.e., the GIGA WATT insiders) 2 additional WTT tokens merely for having procured the sale of undelivered 3 investor tokens and machinery. 4 51. Moreover, GIGA WATT retained in its sole discretion the ability to 5 determine when, if ever, an investor token release would occur or an investor’s 6 mining equipment would be set up and deployed -- decisions to which investors 7 were rendered helpless and over which they had no influence. 8 52. The onerous manner in which GIGA WATT imposed upon investors 9 its terms render the terms unfair, unconscionable, oppressive, and a contract of 10 adhesion. 11 Pre-Network Launch Tokens Are Securities 12 53. Additionally, by their very nature, tokens sold before a network 13 launch are securities, because investors purchasing those tokens are relying on the 14 technical and managerial efforts of others to affect the failure or success of the 15 enterprise. 16 54. While pre-network launch tokens may someday have a consumptive 17 use, the fact that they have no pre-launch utility renders them almost entirely 18 dependent upon the efforts of the issuer to successfully develop and launch a 19 functional network. 20
+CLASS ACTION COMPLAINT - 19
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.20 Page 20 of 38
+1 55. Here, Plaintiff and the Class were (and still are) entirely dependent 2 upon Defendants to launch the Giga Watt Project and provide some valuable use 3 to the Giga Watt tokens for which Plaintiff and the Class have already provided 4 their investment funds. 5 No Safe Harbor 6 56. The statutory safe-harbor provided for forward-looking statements 7 under certain circumstances does not apply to any of the allegedly false 8 statements pleaded in this Complaint. 9 57. Many of the specific statements pleaded herein were not identified as 10 “forward-looking statements” when made. 11 58. To the extent there were any forward-looking statements, there were 12 no meaningful cautionary statements identifying important factors that could 13 cause actual results to differ materially from those in the purportedly forward14 looking statements. 15 59. Alternatively, to the extent the statutory safe-harbor does apply to 16 any forward-looking statements pleaded herein, Defendants are liable for those 17 false forward-looking statements because at the time each of those forward18 looking statements were made, the particular speaker knew that the particular 19 forward-looking statement was false or that the forward-looking statement was 20
+CLASS ACTION COMPLAINT - 20
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.21 Page 21 of 38
+1 authorized or approved by an executive officer of the defendant entities, who 2 knew those statements were false when made. 3 FACTS SPECIFIC TO INVESTOR PLAINTIFF 4 Stormsmedia, LLC 5 60. Between July 17, 2017 and July 28, 2017, Plaintiff transmitted to 6 Defendants 127.437975 bitcoin and 319.994542 Ether as its investment in 7 362,122 Giga Watt tokens to be issued by Defendants on or about September 15, 8 2017. A large percentage of Plaintiff’s purchase was transacted between July 25, 9 2017 and July 28, 2017. 10 61. In addition, between August 1, 2017 and August 2, 2017, Plaintiff 11 transmitted to Defendants 205.17433401 bitcoin as its investment in 154 12 Antminer D3 machines, related power supplies, and deployment so those 13 machines could be installed and hosted at the Giga Watt Project’s business 14 location(s) in Washington. 15 62. The total sum of Plaintiff’s 332.61230901 bitcoin and 319.994542 16 Ether (now being held, in one form or another, by Defendants) is currently worth 17 approximately $5,100,000.00. 18 63. To make its investments, Plaintiff placed its purchases through the 19 Cryptonomous platform -- a Singapore-based online platform through which all 20 payments for WTT tokens were collected and through which all WTT tokens
+CLASS ACTION COMPLAINT - 21
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.22 Page 22 of 38
+1 were to be issued and distributed by Defendants to GIGA WATT investors -2 from Plaintiff’s business location in New Orleans, Louisiana and followed the 3 instructions provided. 4 64. Upon information and belief, Cryptonomous and Defendants share a 5 common ownership interest. GIGA WATT PTE, LTD. and Cryptonomous each 6 have their official registered place of business at the same exact office suite in 7 Singapore. Additionally, Andrey Kuzenny -- who is GIGA WATT’s Chief 8 Coordinator -- is also a Co-Founder of Cryptonomous and, upon information and 9 belief, continues to act as a principal of each of the corporate entities today. 10 65. Although Plaintiff was supposed to receive its Batch 4 WTT by 11 September 15, 2017 and was supposed to have its 154 Antminer D3s up-and12 running at the Giga Watt Project by October 1, 2017, no such issuance took place 13 by those dates. 14 66. On or about December 14, 2017, Defendants published on their 15 Medium page an “Announcement Regarding Batch 4 Tokens,”3 which stated, in 16 pertinent part: 17 18 19 3https://medium.com/@gigawatt/announcement-regarding-batch-4-tokens20 f669748f08b8.
+CLASS ACTION COMPLAINT - 22
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.23 Page 23 of 38
+1 2 3 4 5 6 7 8 9 (emphasis added). 10 67. Plaintiff has presented to Defendants numerous written demands that 11 Plaintiff’s investments in GIGA WATT be rescinded -- including several 12 demands after a 90-day delay without Plaintiff’s paid-for WTT being issued to 13 Plaintiff or Plaintiff’s paid-for mining equipment and related power supplies 14 being timely set up and deployed at the Giga Watt Project. 15 68. Despite Plaintiff’s repeated demand for a refund of its 16 cryptocurrency, Defendants have failed and refused to rescind Plaintiff’s 17 investments and refund to Plaintiff the cryptocurrency Plaintiff delivered to 18 Defendants -- a refund that, according to Defendants’ own terms, Plaintiff is 19 entitled to and which should “be issued in the original form of payment at the 20 exchange rate on the date of the refund.”
+CLASS ACTION COMPLAINT - 23
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.24 Page 24 of 38
+1 CLASS ACTION ALLEGATIONS
+2 69. A class action is the proper form to bring Plaintiff’s and the Class
+3 Members’ claims under Fed. R. Civ. P. 23. The potential class is so large that
+4 joinder of all members would be impractical. Additionally, there are questions of
+5 law or fact common to the class, the claims or defenses of the representative
+6 parties are typical of the claims or defenses of the class, and the representative
+7 parties will fairly and adequately protect the interests of the class.
+8 70. Plaintiff brings this nationwide class action pursuant to Rule 23 of
+9 the Federal Rules of Civil Procedure on behalf of itself and all members of the
+10 following subclasses:
+11 THE WTT SUBCLASS: All GIGA WATT investors who, between June 1, 2017 and August 7, 2017,
+12 transferred bitcoins, Ether, alternative cryptocurrencies, or any other form of monies or currency to Defendants in
+13 furtherance of GIGA WATT’s ICO and who were both not issued their WTT within the timeframe set forth in
+14 the GIGA WATT White Paper and not provided a refund of their investment at the rate prevailing at the time of the
+15 refund. Excluded from the class are: Defendants themselves, Defendants’ retail employees, Defendants’
+16 corporate officers, members of Defendants’ boards of directors, Defendants’ senior executives, and any and all
+17 judicial officers (and their staff) assigned to hear or adjudicate any aspect of this litigation.
+18 The WTT Sub-Class asserts claims for Unregistered
+19 Offer and Sale of Securities in Violation of Sections 5(a) and 5(c) of the Securities Act and Rescission (see,
+20 Counts I and II).
+CLASS ACTION COMPLAINT - 24
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.25 Page 25 of 38
+1 THE MINING MACHINERY SUBCLASS: All GIGA
+2 WATT investors who, between June 1, 2017 and August 7, 2017, transferred bitcoins, Ether, alternative
+3 cryptocurrencies, or any other form of monies or currency to Defendants for the purchase of mining
+4 machinery and related equipment in connection with GIGA WATT’s ICO and who both did not have their
+5 mining machinery and related equipment deployed within the timeframe set forth in the GIGA WATT White
+6 Paper and not provided a refund of their investment at the rate prevailing at the time of the refund. Excluded from
+7 the class are: Defendants themselves, Defendants’ retail employees, Defendants’ corporate officers, members of
+8 Defendants’ boards of directors, Defendants’ senior executives, and any and all judicial officers (and their
+9 staff) assigned to hear or adjudicate any aspect of this litigation.
+10 The Mining Machinery Sub-Class asserts a claim for
+11 Rescission of Contract (see, Count II).
+12 71. This action satisfies all of the requirements of Rule 23, including
+13 numerosity, commonality, predominance, typicality, adequacy, and superiority.
+14 Numerosity
+15 72. Members of the Class are so numerous and geographically dispersed
+16 that joinder of all members is impractical.
+17 73. While the exact number of class members remains unknown at this
+18 time, upon information and belief, there are at least hundreds if not thousands of
+19 putative Class members.
+20
+CLASS ACTION COMPLAINT - 25
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.26 Page 26 of 38
+1 74. Again, while the exact number is not known at this time, it is easily 2 and generally ascertainable by appropriate discovery. 3 75. It is impractical for each class member to bring suit individually. 4 76. Plaintiff does not anticipate any difficulties in managing this action as 5 a class action. 6 Commonality and Predominance 7 77. There are many common questions of law and fact involving and 8 affecting the parties to be represented. 9 78. When determining whether common questions predominate, courts 10 focus on the issue of liability; and if the issue of liability is common to the class 11 and can be determined on a class-wide basis, as in the instant matter, common 12 questions will be held to predominate over individual questions. 13 79. Common questions include, but are not limited to, the following: 14 (a) Whether the Giga Watt tokens offered for sale in
+advance of the GIGA WATT ICO constitute securities 15 under federal securities laws; 16 (b) Whether Defendants violated federal securities laws in
+conducting the Initial Coin Offering and in failing to 17 register the Giga Watt tokens as securities; 18 (c) Whether statements made by Defendants before the
+scheduled GIGA WATT ICO misrepresented material 19 facts about the Giga Watt Project and the value of Giga
+Watt tokens; 20
+CLASS ACTION COMPLAINT - 26
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.27 Page 27 of 38
+1 (d) Whether Defendants have converted the funds belonging to Plaintiff and the Class Members;
+2 (e) Whether Defendants owed duties to Plaintiff and the
+3 Class Members, what the scope of those duties were, and whether Defendants breached those duties;
+4 (f) Whether Defendants’ conduct was unfair or unlawful;
+5 (g) Whether the terms of GIGA WATT’s ICO are unconscionable, void, or voidable;
+6 (h) Whether Defendants has been unjustly enriched; and
+7 (i) Whether Plaintiff and the Class Members have
+8 sustained damages as a result of Defendants’ conduct. 9 80. These common questions of law or fact predominate over any 10 questions affecting only individual members of the Class. 11 Typicality 12 81. Plaintiff’s claims are typical of those of the other Class Members 13 because, inter alia, all members of the Class were injured through the common 14 misconduct described above and were subject to Defendants’ unfair and unlawful 15 conduct. 16 82. Plaintiff is advancing the same claims and legal theories on behalf of 17 itself and all members of the Class. 18 Adequacy of Representation 19 83. Plaintiff will fairly and adequately represent and protect the interests 20 of the Class Members in that Plaintiff has no disabling conflicts of interest that
+CLASS ACTION COMPLAINT - 27
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.28 Page 28 of 38
+1 would be antagonistic to those of the other members of the Class. 2 84. Plaintiff is committed to the vigorous prosecution of this action and 3 has retained competent counsel, experienced in complex consumer class action 4 litigation of this nature, to represent them. 5 85. Plaintiff seeks no relief that is antagonistic or adverse to the 6 members of the Class. 7 86. The infringement of the rights and the damages Plaintiff has suffered 8 are typical of other Class members. 9 87. To prosecute this case, Plaintiff has chosen the law firms of Terrell 10 Marshall Law Group PLLC (“TMLG”) and Silver Miller. TMLG and Silver 11 Miller are experienced in class action litigation and have the financial and legal 12 resources to meet the substantial costs associated with this type of litigation. 13 Superiority 14 88. Class action litigation is an appropriate method for fair and efficient 15 adjudication of the claims involved herein. 16 89. Class action treatment is superior to all other available methods for 17 the fair and efficient adjudication of the controversy alleged herein; as it will 18 permit a large number of Class Members to prosecute their common claims in a 19 single forum simultaneously, efficiently, and without the unnecessary duplication 20 of evidence, effort, and expense that hundreds of individual actions would
+CLASS ACTION COMPLAINT - 28
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.29 Page 29 of 38
+1 require. 2 90. Class action treatment will permit the adjudication of relatively 3 modest claims by certain Class Members, who could not individually afford to 4 litigate a complex claim against well-funded corporate defendants like 5 Defendants. 6 91. Further, even for those Class Members who could afford to litigate 7 such a claim, it would still be economically impractical. 8 92. The nature of this action and the nature of laws available to Plaintiff 9 make the use of the class action device a particularly efficient and appropriate 10 procedure to afford relief to Plaintiff and the Class Members for the wrongs 11 alleged because: 12 (a) Defendants would necessarily gain an unconscionable
+advantage if they were allowed to exploit and 13 overwhelm the limited resources of each individual
+Class member with superior financial and legal 14 resources; 15 (b) The costs of individual suits could unreasonably
+consume the amounts that would be recovered; 16
+(c) Proof of a common course of conduct to which Plaintiff 17 was exposed is representative of that experienced by the
+Class and will establish the right of each member of the 18 Class to recover on the cause of action alleged;
+(d) Individual actions would create a risk of inconsistent 19 results and would be unnecessary and duplicative of this
+litigation; 20
+CLASS ACTION COMPLAINT - 29
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.30 Page 30 of 38
+1 (e) The Class Members are geographically dispersed all over the world, thus rendering it inconvenient and an
+2 extreme hardship to effectuate joinder of their individual claims into one lawsuit;
+3 (f) There are no known Class Members who are interested
+4 in individually controlling the prosecution of separate actions; and
+5 (g) The interests of justice will be well served by resolving
+6 the common disputes of potential Class Members in one forum.
+7 93. Plaintiff reserves the right to modify or amend the definition of the 8 proposed class/subclasses and to modify, amend, or create proposed subclasses 9 before the Court determines whether certification is appropriate and as the parties 10 engage in discovery. 11 94. The class action is superior to all other available methods for the fair 12 and efficient adjudication of this controversy. 13 95. Because of the number and nature of common questions of fact and 14 law, multiple separate lawsuits would not serve the interest of judicial economy. 15 96. As a result of the foregoing, Plaintiff and the Class Members have 16 been damaged in an amount that will be proven at trial. 17 97. Plaintiff has duly performed all of its duties and obligations, and any 18 conditions precedent to Plaintiff bringing this action have occurred, have been 19 performed, or else have been excused or waived. 20
+CLASS ACTION COMPLAINT - 30
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.31 Page 31 of 38
+1 98. To enforce its rights, Plaintiff has retained undersigned counsel and 2 is obligated to pay counsel a reasonable fee for its services, for which Defendants 3 are liable as a result of their bad faith and otherwise. 4 COUNT I
+Unregistered Offer and Sale of Securities 5 In Violation of Sections 5(a) and 5(c) of The Securities Act 6 Plaintiff re-alleges, and adopts by reference herein, Paragraphs 1 - 98 above, 7 and further alleges: 8 99. Defendants, by engaging in the conduct described above, directly or 9 indirectly made use of means or instruments of transportation or communication 10 in interstate commerce or of the mails to offer to sell or to actually sell securities, 11 or to carry or cause such securities to be carried through the mails or in interstate 12 commerce for the purpose of sale or for delivery after sale. 13 100. Defendants are “sellers” within the meaning of 15 U.S.C. § 77e 14 because they or their agents solicited Plaintiff’s and the Class Members’ 15 investments in the GIGA WATT ICO. 16 101. The terms of the GIGA WATT ICO called for an investment of 17 cryptocurrency or fiat currency by Plaintiff and the Class Members. 18 102. The funds paid by Plaintiff and the Class Members pursuant to the 19 GIGA WATT ICO were pooled by Defendants in an effort by Defendants to 20 secure a profit for themselves and the investors. As a result, the investors,
+CLASS ACTION COMPLAINT - 31
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.32 Page 32 of 38
+1 including Plaintiff and the Class Members, shared in the risks and benefits of the 2 investment. 3 103. Plaintiff and the Class Members relied on, and are dependent upon, 4 the expertise and efforts of Defendants for their investment returns. 5 104. Plaintiff and the Class Members expected that they would receive 6 profits from their investments in Defendants’ efforts. 7 105. Giga Watt tokens constitute investment contracts and are therefore 8 subject to federal securities laws, including the registration requirements 9 promulgated thereunder. 10 106. No registration statements have been filed with the SEC or have 11 been in effect with respect to any of the offerings alleged herein. 12 107. By reason of the foregoing, Defendants have violated Sections 5(a) 13 and 5(c) of the Securities Act, 15 U.S.C. §§ 77e(a) and 77e(c). 14 108. As a direct and proximate result of Defendants’ unregistered sale of 15 securities, Plaintiff and the Class Members have suffered damages in connection 16 with their respective purchases of Giga Watt tokens securities in the GIGA 17 WATT ICO. 18 19 20
+CLASS ACTION COMPLAINT - 32
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.33 Page 33 of 38
+1 COUNT II Rescission of Contract
+2 Plaintiff re-alleges, and adopts by reference herein, Paragraphs 1 - 108
+3 above, and further alleges:
+4 109. The terms of the GIGA WATT ICO constitute a contract between:
+5 (1) Plaintiff and the Class Members, and (2) Defendants.
+6 110. The contract was entered into by and between Defendants and each
+7 Class Member between July 1, 2017 and August 7, 2017.
+8 111. The terms of the GIGA WATT ICO called for an investment of
+9 cryptocurrency by Plaintiff and the Class Members.
+10 112. The funds paid by Plaintiff and the Class Members pursuant to the
+11 GIGA WATT ICO were pooled by Defendants in an effort by Defendants to
+12 secure a profit for themselves and the investors. As a result, the investors,
+13 including Plaintiff and the Class, shared in the risks and benefits of the
+14 investment.
+15 113. Plaintiff and the Class Members relied on, and are dependent upon,
+16 the expertise and efforts of Defendants for their investment returns.
+17 114. The terms of the GIGA WATT ICO constitute an investment
+18 contract and is therefore subject to federal and state securities laws, including the
+19 registration requirements promulgated thereunder.
+20
+CLASS ACTION COMPLAINT - 33
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.34 Page 34 of 38
+1 115. No registration statement was filed or in effect with any federal or 2 state regulatory body, and no exemption from registration exists with respect to 3 the GIGA WATT ICO. 4 116. Moreover, contrary to the terms of the GIGA WATT White Paper -5 which stated that all invested cryptocurrency would be held in escrow and would 6 only “be released from escrow in step with the completion of facilities” -7 Defendants have represented to Plaintiff that, without regard to GIGA WATT’s 8 failure to have completed its facilities, virtually all of the cryptocurrency raised 9 from investors in the ICO has been liquidated into U.S. Dollars and has been 10 transferred from the escrow account to an operating account, which Plaintiff and 11 other Class Members reasonably believe the funds raised have been dissipated, or 12 will be dissipated, before the investors receive their Giga Watt tokens/mining 13 equipment or any opportunity to receive a return on their investments. 14 117. As a result of Defendants’ false representations and violation of 15 federal securities laws in connection with the GIGA WATT ICO, Plaintiff and the 16 Class Members state their demand that the Contract be rescinded and canceled. 17 118. To the extent that Plaintiff has received from Defendants any 18 benefits through the contract -- though none are known to them at this time -19 Plaintiff hereby offers to restore to Defendants those benefits, once they are 20 identified and can be quantified.
+CLASS ACTION COMPLAINT - 34
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.35 Page 35 of 38
+1 119. As a direct and proximate cause of Defendants’ conduct, Plaintiff 2 and the Class Members have been damaged. 3 120. Defendant GIGA WATT, INC. is subject to liability because it 4 solicited and otherwise participated in the sale to Plaintiff and the Class Members 5 of the unregistered securities identified herein. Moreover, Defendant GIGA 6 WATT, INC. is subject to liability because it is believed to control, or have 7 obtained control over, a large portion of the assets invested by Plaintiff and the 8 Class Members which must be disgorged and returned to Plaintiff and the Class 9 Members in effectuating the rescission of the contract into which they were 10 unlawfully led. 11 121. Defendant GIGA WATT, PTE, LTD. is subject to liability because it 12 solicited and otherwise participated in the sale to Plaintiff and the Class Members 13 of the unregistered securities identified herein. Moreover, Defendant GIGA 14 WATT, PTE, LTD. is subject to liability because it is believed to control, or have 15 obtained control over, a large portion of the assets invested by Plaintiff and the 16 Class Members which must be disgorged and returned to Plaintiff and the Class 17 Members in effectuating the rescission of the contract into which they were 18 unlawfully led. 19 20
+CLASS ACTION COMPLAINT - 35
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.36 Page 36 of 38
+1 PRAYER FOR RELIEF 2 WHEREFORE, Plaintiff STORMSMEDIA, LLC, individually and on 3 behalf of all others similarly situated, respectfully prays for relief as follows: 4 A. A declaration from this Court that this action is a proper class action, 5 including certification of the proposed Class, appointment of Plaintiff as the class 6 representatives, and appointment of Plaintiff’s counsel as class counsel; 7 B. An Order enjoining Defendants from making further transfers or 8 dissipations of the investment funds and assets raised in connection with the 9 promoted GIGA WATT ICO, or using such funds and assets in any further 10 purchases or transactions; 11 C. A judgment awarding Plaintiff and the Class Members equitable 12 restitution, including, without limitation, rescission of their investments in GIGA 13 WATT, restoration of the status quo ante, and return to Plaintiff and the Class 14 Members all cryptocurrency or fiat currency paid to Defendants in connection 15 with the purported ICO as a result of Defendants’ unlawful and unfair business 16 practices and conduct; 17 D. An award of any and all additional damages recoverable under law -18 jointly and severally entered against Defendants -- including but not limited to 19 compensatory damages, punitive damages, incidental damages, and consequential 20 damages;
+CLASS ACTION COMPLAINT - 36
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.37 Page 37 of 38
+1 E. An Order requiring an accounting of the remaining funds and assets
+2 raised from Plaintiff and the Class in connection with the GIGA WATT ICO;
+3 F. An Order imposing a constructive trust over the funds and assets
+4 rightfully belonging to Plaintiff and the Class;
+5 G. Pre- and post-judgment interest;
+6 H. Attorneys’ fees, expenses, and the costs of this action; and
+7 I. All other and further relief as this Court deems necessary, just, and
+8 proper.
+9 PLAINTIFF’S DEMAND FOR JURY TRIAL 10 Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff
+11 demands trial by jury in this action of all issues so triable.
+12 RESPECTFULLY SUBMITTED AND DATED this 27th day of
+13 December, 2017. 14 TERRELL MARSHALL LAW GROUP PLLC 15 By: /s/ Beth E. Terrell, WSBA #26759
+Beth E. Terrell, WSBA #26759 16 Blythe H. Chandler, WSBA #43387
+Attorneys for Plaintiff and the Class 17 936 North 34th Street, Suite 300
+Seattle, Washington 98103 18 Telephone: (206) 816-6603
+Facsimile: (206) 319-5450 19 Email: bterrell@terrellmarshall.com
+Email: bchandler@terrellmarshall.com 20
+CLASS ACTION COMPLAINT - 37
+
+Case 2:17-cv-00438-SMJ ECF No. 1 filed 12/28/17 PageID.38 Page 38 of 38
+1 David C. Silver, pro hac vice forthcoming Jason S. Miller, pro hac vice forthcoming
+2 Attorneys for Plaintiff and the Class SILVER MILLER
+3 11780 West Sample Road Coral Springs, Florida 33065
+4 Telephone: (954) 516-6000 Email: DSilver@SilverMillerLaw.com
+5 Email: JMiller@SilverMillerLaw.com 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+CLASS ACTION COMPLAINT - 38
+
