@@ -1,7 +1,43 @@
 Case 1:17-cv-07007-DLI-RML Document 1 Filed 12/01/17 Page 1 of 35 PageID #: 1
 
 ------
-NOTE: Frontmatter of complaint excerpted out for purposes of first wrangle.
+
+<img width="280" alt="screen shot 2018-03-04 at 12 44 48 am" src="https://user-images.githubusercontent.com/2357755/36942631-7bde93a0-1f45-11e8-9b3b-29c2f38f2f4b.png">
+
+<img width="161" alt="screen shot 2018-03-04 at 12 44 59 am" src="https://user-images.githubusercontent.com/2357755/36942632-7bebd236-1f45-11e8-8b1b-60c90bf87b20.png">
+
+
+Robert A.Cohen    
+Valerie A.Szczepanik    
+Jorge G.Tenreiro    
+Daphna A.Waxman    
+David H.Tutor    
+SECURITIES AND EXCHANGE COMMISSION    
+New York Regional Office    
+200 Vesey Street,Suite 400    
+New York,New York 10281-1022    
+(212) 336-9145 (Tenreiro)    
+Email: TenreiroJ@sec.gov    
+
+
+| UNITED STATES DISTRICT COURT EASTERN DISTRICT OF NEW YORK | 
+| - |
+| SECURITIES AND EXCHANGE COMMISSION, |  
+| Plaintiff, |  
+| - against- |  
+| PLEXCORPS |  
+| (a/k/a and d/b/a PLEXCOIN and SIDEPAY.CA),  | 
+| DOMINIC LACROIX and  | 
+| SABRINA PARADIS-ROYER,  | 
+
+
+CV-17-7007     
+17 Civ. ( )     
+ECF Case     
+IRIZARRY,CH.     
+COMPLAINT     
+LEVY, M.J.     
+
 ------
 
 Plaintiff Securities and Exchange Commission (the"Commission"), for its complaint against Defendants PlexCorps(a/k/a and d/b/a/ PlexCoin and Sidepay.Ca) ("PlexCorps"), Dominic Lacroix("Lacroix"), and Sabrina Paradis-Royer("Paradis-Royer") (collectively "Defendants")alleges as follows:
