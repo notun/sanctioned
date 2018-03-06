@@ -469,9 +469,9 @@ See, attached Schedule "A"
 
 5. Plaintiff has not sought to serve as a representative party for a class action filed under the Securities Exchange Act of 1934 or Securities Act of 1933 within the last three years.
 
-6. Plaintiff, either directly or indirectly, will not accept any payment for serving as a representative party on behalf of the class beyond the PlaintifFs pro  rata  share of any recovery, except such reasonable costs and expenses (including lost wages) directly relating to the representation of the class as ordered or approved by the court. 
+6. Plaintiff, either directly or indirectly, will not accept any payment for serving as a representative party on behalf of the class beyond the Plaintiff's pro rata  share of any recovery, except such reasonable costs and expenses (including lost wages) directly relating to the representation of the class as ordered or approved by the court. 
 
-I declare under penalty of perjury of the laws of the United States hat the foregoing is true and correct. Executed this 26th day of November, 2017 at Springfield, Illinois.
+I declare under penalty of perjury of the laws of the United States that the foregoing is true and correct. Executed this 26th day of November, 2017 at Springfield, Illinois.
 
 Brian R. Beeman
 
