@@ -484,7 +484,7 @@ Tezos Securities Transactions
 
 |GGCC, LLC | Contribution | Trade Date | Amount of Tezos Promised | Price Per Tezos Token|
 -----------|--------------|------------|--------------------------|----------------------|
-|Tezos Initial Coin Offering | 11 Ether | 5823.65| .00187553/Eth|
+|Tezos Initial Coin Offering | 11 Ether | 07/17/17 | 5823.65| .00187553/Eth|
 
 
 
