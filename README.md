@@ -40,7 +40,11 @@ Sanctioned is a Repo for a platform for reporting fraud and abuse of cryptocurre
 
 [https://www.documentcloud.org/documents/4402071-Gov-Uscourts-Cand-323341-1-0.html](https://www.documentcloud.org/documents/4402071-Gov-Uscourts-Cand-323341-1-0.html)
 
+* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/coinbase_BCH_insidertrading_Gov-Uscourts-Cand-323341-1-0.pdf](https://github.com/notun/sanctioned/blob/master/docs/coinbase_BCH_insidertrading_Gov-Uscourts-Cand-323341-1-0.pdf)
+
 [https://www.documentcloud.org/documents/4402072-N-D-Cal-4-18-Cv-01382-DMR-1-0.html](https://www.documentcloud.org/documents/4402072-N-D-Cal-4-18-Cv-01382-DMR-1-0.html)
+
+* Mirror: [https://github.com/notun/sanctioned/blob/master/docs/coinbase_lostproperty_classaction_N-D-Cal-4-18-Cv-01382-DMR-1-0.pdf](https://github.com/notun/sanctioned/blob/master/docs/coinbase_lostproperty_classaction_N-D-Cal-4-18-Cv-01382-DMR-1-0.pdf)
 
 ### Cryptsy
 #### Primary
