@@ -20,13 +20,19 @@
 
 ## Venue
 
-# FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS Cryptocurrency Coin Mining
+# FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS 
+
+-------------
+
+> The following categories of facts appear to be typical if class actions against an ICO 
+
 
 ## White Paper
 
 ## Pre-Network Launch Tokens Are Securities
 
 ## No Safe Harbor
+
 
 # FACTS SPECIFIC TO INVESTOR PLAINTIFF
 
