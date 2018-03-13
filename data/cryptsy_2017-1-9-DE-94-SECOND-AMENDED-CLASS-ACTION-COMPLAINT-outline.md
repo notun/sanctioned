@@ -1,0 +1,110 @@
+UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA
+Civil Action No. 9:16-cv-80060-MARRA
+
+JURY TRIAL DEMANDED
+
+SECOND AMENDED CLASS ACTION COMPLAINT
+
+NATURE OF THE CASE
+
+Exhibit “A”
+
+PARTIES
+
+JURISDICTION AND VENUE
+
+FACTUAL ALLEGATIONS APPLICABLE TO ALL COUNTS
+
+VERNON AND NETTLES PURCHASE A $1.4 MILLION HOUSE WITH CASH IN MARCH 2015
+
+VERNON AND NETTLES’ DIVORCE PROCEEDINGS COMMENCE IN OCTOBER 2015 AND CONCLUDE SHORTLY THEREAFTER
+
+FACTS SPECIFIC TO PLAINTIFFS 
+PLAINTIFF LEIDEL
+
+PLAINTIFF WILSON
+
+CLASS ALLEGATIONS
+
+All CRYPTSY account owners who deposited Bitcoins, alternative cryptocurrencies, or any other form of monies or currency at CRYPTSY and have been denied access to their accounts and funds between May 22, 2014 and the present date.
+
+Numerosity
+
+Commonality and Predominance
+
+Typicality
+
+Adequacy of Representation
+
+Superiority
+
+COUNT I – CONVERSION
+(against Defendant VERNON and Defendant CRYPTSY)
+
+COUNT II – NEGLIGENCE (against Defendant CRYPTSY)
+
+COUNT III – UNJUST ENRICHMENT (against Defendant CRYPTSY)
+
+COUNT IV - SPECIFIC PERFORMANCE (against Defendant CRYPTSY)
+
+COUNT V - VIOLATION OF FLORIDA’S DECEPTIVE AND UNFAIR TRADE PRACTICES ACT (FLA. STAT. §§ 501.201 – 501.213) [“FDUTPA”] (against Defendant CRYPTSY)
+
+COUNT VI - PRELIMINARY AND PERMANENT INJUNCTION (against Defendant CRYPTSY, Defendant VERNON, and Defendant NETTLES)
+
+COUNT VII – CONVERSION (against Defendant NETTLES)
+
+COUNT VIII – FRAUDULENT CONVEYANCE (against Defendant VERNON and Defendant NETTLES)
+
+COUNT IX – CIVIL CONSPIRACY
+(against Defendant VERNON and Defendant NETTLES)
+
+COUNT X – UNJUST ENRICHMENT (against Defendants RIDGEWOOD AND KM)
+
+DEMAND FOR JURY TRIAL
+
+RESERVATION OF RIGHTS
+
+PRAYER FOR RELIEF
+
+SILVER LAW GROUP
+
+CERTIFICATE OF SERVICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
