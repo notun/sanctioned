@@ -135,7 +135,7 @@ Lacroix's History as a Recidivist Securities Law Violator in Canada
 
 36. Despite his 2011 undertaking and 2013 guilty plea and conviction, Lacroix ran afoul ofthe Quebec Securities Act at least once more earlier this year. On June 13,2017,the Quebec Tribunal issued another order against Lacroix,DL Innov, Gestio,and Micro-Prets, having found sufficient evidence that Lacroix and those entities had raised over $2 million USD from over thirty investors to whom they had promised high returns ifthey invested in MicroFrets' lending business, and again enjoining them from additional securities-related transactions. See Autorite Des Marches Financiers v. Lacroix,2017 QCTMF 63(QC 2017).
 
-Defendants Begin Marketing the PlexCoin ICQ
+Defendants Begin Marketing the PlexCoin ICO
 
 37. Undeterred by the foregoing actions, Lacroix launched his latest scam,the PlexCoin ICO,starting at least as early as June of2017.
 
