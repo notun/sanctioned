@@ -4,6 +4,8 @@
 
 https://t.me/MuncheePlatform/64
 
+mirror: https://t.me/sanctionedio/37
+
 ![munchee1](https://user-images.githubusercontent.com/31453688/38904183-d1fbe36a-425d-11e8-92ed-be804da9f027.png)
 
 Munchee Platform Announcements
